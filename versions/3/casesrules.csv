@@ -1,0 +1,25 @@
+type,case,masculine,neuter,feminine,plural
+Definite Article,Nominative,der,das,die,die
+Definite Article,Accusative,den,das,die,die
+Definite Article,Dative,dem,dem,der,den
+Indefinite Article,Nominative,ein,ein,eine,(none)
+Indefinite Article,Accusative,einen,ein,eine,(none)
+Indefinite Article,Dative,einem,einem,einer,(none)
+Possessive Mein,Nominative,mein,mein,meine,meine
+Possessive Mein,Accusative,meinen,mein,meine,meine
+Possessive Mein,Dative,meinem,meinem,meiner,meinen
+Possessive Dein,Nominative,dein,dein,deine,deine
+Possessive Dein,Accusative,deinen,dein,deine,deine
+Possessive Dein,Dative,deinem,deinem,deiner,deinen
+Possessive Sein,Nominative,sein,sein,seine,seine
+Possessive Sein,Accusative,seinen,sein,seine,seine
+Possessive Sein,Dative,seinem,seinem,seiner,seinen
+Possessive Ihr,Nominative,ihr,ihr,ihre,ihre
+Possessive Ihr,Accusative,ihren,ihr,ihre,ihre
+Possessive Ihr,Dative,ihrem,ihrem,ihrer,ihren
+Possessive Unser,Nominative,unser,unser,unsere,unsere
+Possessive Unser,Accusative,unseren,unser,unsere,unsere
+Possessive Unser,Dative,unserem,unserem,unserer,unseren
+Possessive Euer,Nominative,euer,euer,eure,eure
+Possessive Euer,Accusative,euren,euer,eure,eure
+Possessive Euer,Dative,eurem,eurem,eurer,euren

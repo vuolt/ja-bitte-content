@@ -1,0 +1,101 @@
+id,type,level,english,german,answer,hint,note,rule
+KO0001,würde + infinitive,B1,I would like to travel to Japan.,Ich [ ] gern nach Japan reisen.,würde|möchte,,,ko.wuerde
+KO0002,würde + infinitive,B1,What would you do? (du),Was [ ] du tun?,würdest,,,ko.wuerde
+KO0003,würde + infinitive,B1,He would never say that.,Er [ ] das nie sagen.,würde,,,ko.wuerde
+KO0004,würde + infinitive,B1,We would gladly help.,Wir [ ] gern helfen.,würden,,,ko.wuerde
+KO0005,würde + infinitive,B1,Would you come along? (ihr),[ ] ihr mitkommen?,Würdet,,,ko.wuerde
+KO0006,würde + infinitive,B1,They would buy the house.,Sie [ ] das Haus kaufen.,würden,,,ko.wuerde
+KO0007,würde + infinitive,B1,Would you do that? (Sie),[ ] Sie das machen?,Würden,,,ko.wuerde
+KO0008,würde + infinitive,B1,I would call him.,Ich [ ] ihn anrufen.,würde,,,ko.wuerde
+KO0009,würde + infinitive,B1,She would learn Spanish.,Sie [ ] Spanisch lernen.,würde,,,ko.wuerde
+KO0010,würde + infinitive,B1,We would stay longer.,Wir [ ] länger bleiben.,würden,,,ko.wuerde
+KO0011,würde + infinitive,B1,Would you help me? (du),[ ] du mir helfen?,Würdest,,,ko.wuerde
+KO0012,würde + infinitive,B1,I would rather stay at home.,Ich [ ] lieber zu Hause bleiben.,würde|möchte,,,ko.wuerde
+KO0013,würde + infinitive,B1,They would wait.,Sie [ ] warten.,würden,,,ko.wuerde
+KO0014,würde + infinitive,B1,He would go by train.,Er [ ] mit dem Zug fahren.,würde,,,ko.wuerde
+KO0015,würde + infinitive,B1,What would you say? (ihr),Was [ ] ihr sagen?,würdet,,,ko.wuerde
+KO0016,würde + infinitive,B1,I would take the blue one.,Ich [ ] das blaue nehmen.,würde,,,ko.wuerde
+KO0017,würde + infinitive,B1,We would invite everyone.,Wir [ ] alle einladen.,würden,,,ko.wuerde
+KO0018,würde + infinitive,B1,She would not do that.,Sie [ ] das nicht tun.,würde,,,ko.wuerde
+KO0019,würde + infinitive,B1,Would you like a coffee? (du),[ ] du gern einen Kaffee trinken?,Würdest|Möchtest,,,ko.wuerde
+KO0020,würde + infinitive,B1,I would gladly come.,Ich [ ] gern kommen.,würde,,,ko.wuerde
+KO0021,würde + infinitive,B1,He would sleep longer.,Er [ ] länger schlafen.,würde,,,ko.wuerde
+KO0022,würde + infinitive,B1,We would go swimming.,Wir [ ] schwimmen gehen.,würden,,,ko.wuerde
+KO0023,würde + infinitive,B1,They would understand it.,Sie [ ] es verstehen.,würden,,,ko.wuerde
+KO0024,würde + infinitive,B1,I would ask the teacher.,Ich [ ] den Lehrer fragen.,würde,,,ko.wuerde
+KO0025,würde + infinitive,B1,Would you recommend it? (Sie),[ ] Sie es empfehlen?,Würden,,,ko.wuerde
+KO0026,würde + infinitive,B1,She would move to Berlin.,Sie [ ] nach Berlin ziehen.,würde,,,ko.wuerde
+KO0027,würde + infinitive,B1,We would happily wait.,Wir [ ] gern warten.,würden,,,ko.wuerde
+KO0028,würde + infinitive,B1,I would never forget that.,Ich [ ] das nie vergessen.,würde,,,ko.wuerde
+KO0029,würde + infinitive,B1,You would love it. (ihr),Ihr [ ] es lieben.,würdet,,,ko.wuerde
+KO0030,würde + infinitive,B1,He would work less.,Er [ ] weniger arbeiten.,würde,,,ko.wuerde
+KO0031,hätte / wäre,B1,"If I had time, I would come.","Wenn ich Zeit [ ], würde ich kommen.",hätte,,,ko.haette+ko.wenn
+KO0032,hätte / wäre,B1,I would like to be rich.,Ich [ ] gern reich.,wäre,,,ko.waere
+KO0033,hätte / wäre,B1,"If he were here, he would help.","Wenn er hier [ ], würde er helfen.",wäre,,,ko.waere+ko.wenn
+KO0034,hätte / wäre,B1,We would have more time.,Wir [ ] mehr Zeit.,hätten,,,ko.haette
+KO0035,hätte / wäre,B1,Would you have a moment? (du),[ ] du einen Moment Zeit?,Hättest,,,ko.haette
+KO0036,hätte / wäre,B1,That would be nice.,Das [ ] schön.,wäre,,,ko.waere
+KO0037,hätte / wäre,B1,"If we had a car, we would drive.","Wenn wir ein Auto [ ], würden wir fahren.",hätten,,,ko.haette+ko.wenn
+KO0038,hätte / wäre,B1,She would be happy.,Sie [ ] glücklich.,wäre,,,ko.waere
+KO0039,hätte / wäre,B1,"If you had money, you could travel. (ihr)","Wenn ihr Geld [ ], könntet ihr reisen.",hättet,,,ko.haette+ko.wenn
+KO0040,hätte / wäre,B1,I would be glad.,Ich [ ] froh.,wäre,,,ko.waere
+KO0041,hätte / wäre,B1,They would have a problem.,Sie [ ] ein Problem.,hätten,,,ko.haette
+KO0042,hätte / wäre,B1,"If it were warmer, we would swim.","Wenn es wärmer [ ], würden wir schwimmen.",wäre,,,ko.waere+ko.wenn
+KO0043,hätte / wäre,B1,Would you have a question? (Sie),[ ] Sie eine Frage?,Hätten,,,ko.haette
+KO0044,hätte / wäre,B1,"If I were you, I would go. (du)","Wenn ich du [ ], würde ich gehen.",wäre,,,ko.waere+ko.wenn
+KO0045,hätte / wäre,B1,We would be at home.,Wir [ ] zu Hause.,wären,,,ko.waere
+KO0046,hätte / wäre,B1,"If she had a dog, she would be happier.","Wenn sie einen Hund [ ], wäre sie glücklicher.",hätte,,,ko.haette+ko.wenn
+KO0047,hätte / wäre,B1,You would be a good teacher. (du),Du [ ] ein guter Lehrer.,wärst|wärest,,,ko.waere
+KO0048,hätte / wäre,B1,I would have no time.,Ich [ ] keine Zeit.,hätte,,,ko.haette
+KO0049,hätte / wäre,B1,"If they were older, they could drive.","Wenn sie älter [ ], könnten sie fahren.",wären,,,ko.waere+ko.wenn
+KO0050,hätte / wäre,B1,He would have an idea.,Er [ ] eine Idee.,hätte,,,ko.haette
+KO0051,hätte / wäre,B1,"If you had a car, you could come. (du)","Wenn du ein Auto [ ], könntest du kommen.",hättest,,,ko.haette+ko.wenn
+KO0052,hätte / wäre,B1,That would be great.,Das [ ] toll.,wäre,,,ko.waere
+KO0053,hätte / wäre,B1,"If we were rich, we would buy a house.","Wenn wir reich [ ], würden wir ein Haus kaufen.",wären,,,ko.waere+ko.wenn
+KO0054,hätte / wäre,B1,I would have a wish.,Ich [ ] einen Wunsch.,hätte,,,ko.haette
+KO0055,hätte / wäre,B1,You would be too late. (ihr),Ihr [ ] zu spät.,wärt|wäret,,,ko.waere
+KO0056,hätte / wäre,B1,"If he had more money, he would travel.","Wenn er mehr Geld [ ], würde er reisen.",hätte,,,ko.haette+ko.wenn
+KO0057,hätte / wäre,B1,It would be better.,Es [ ] besser.,wäre,,,ko.waere
+KO0058,hätte / wäre,B1,We would have enough.,Wir [ ] genug.,hätten,,,ko.haette
+KO0059,hätte / wäre,B1,"If you were free, we could meet. (Sie)","Wenn Sie frei [ ], könnten wir uns treffen.",wären,,,ko.waere+ko.wenn
+KO0060,hätte / wäre,B1,She would have more friends.,Sie [ ] mehr Freunde.,hätte,,,ko.haette
+KO0061,Modal verbs,B1,I could help you.,Ich [ ] dir helfen.,könnte,,,ko.modal
+KO0062,Modal verbs,B1,You should sleep more. (du),Du [ ] mehr schlafen.,solltest,,,ko.modal
+KO0063,Modal verbs,B1,We could go to the cinema.,Wir [ ] ins Kino gehen.,könnten,,,ko.modal
+KO0064,Modal verbs,B1,He would have to work more.,Er [ ] mehr arbeiten.,müsste,,,ko.modal
+KO0065,Modal verbs,B1,Could you help me? (Sie),[ ] Sie mir helfen?,Könnten,,,ko.modal
+KO0066,Modal verbs,B1,You should come earlier. (ihr),Ihr [ ] früher kommen.,solltet,,,ko.modal
+KO0067,Modal verbs,B1,I would have to ask.,Ich [ ] fragen.,müsste,,,ko.modal
+KO0068,Modal verbs,B1,She could be right.,Sie [ ] recht haben.,könnte,,,ko.modal
+KO0069,Modal verbs,B1,They should learn more.,Sie [ ] mehr lernen.,sollten,,,ko.modal
+KO0070,Modal verbs,B1,Could you open the window? (du),[ ] du das Fenster öffnen?,Könntest,,,ko.modal
+KO0071,Modal verbs,B1,We would have to leave at six.,Wir [ ] um sechs losfahren.,müssten,,,ko.modal
+KO0072,Modal verbs,B1,You could try it. (du),Du [ ] es versuchen.,könntest,,,ko.modal
+KO0073,Modal verbs,B1,He should see a doctor.,Er [ ] zum Arzt gehen.,sollte,,,ko.modal
+KO0074,Modal verbs,B1,That could be.,Das [ ] sein.,könnte,,,ko.modal
+KO0075,Modal verbs,B1,I should call her.,Ich [ ] sie anrufen.,sollte,,,ko.modal
+KO0076,Modal verbs,B1,We could eat outside.,Wir [ ] draußen essen.,könnten,,,ko.modal
+KO0077,Modal verbs,B1,You would have to fill in this form. (Sie),Sie [ ] dieses Formular ausfüllen.,müssten,,,ko.modal
+KO0078,Modal verbs,B1,It might rain.,Es [ ] regnen.,dürfte|könnte,,dürfte expresses probability: Es dürfte regnen = it will probably rain.,ko.modal
+KO0079,Modal verbs,B1,They could be at home.,Sie [ ] zu Hause sein.,könnten,,,ko.modal
+KO0080,Modal verbs,B1,You would have to hurry. (ihr),Ihr [ ] euch beeilen.,müsstet,,,ko.modal
+KO0081,Polite requests,B1,"Could I have the menu, please?",[ ] ich bitte die Speisekarte haben?,Könnte,,,ko.polite+ko.modal
+KO0082,Polite requests,B1,Would you please close the door? (Sie),[ ] Sie bitte die Tür schließen?,Würden,,,ko.polite+ko.wuerde
+KO0083,Polite requests,B1,I would like a coffee.,Ich [ ] gern einen Kaffee.,hätte|möchte,,,ko.polite+ko.haette
+KO0084,Polite requests,B1,"Could you pass me the salt, please? (du)",[ ] du mir bitte das Salz geben?,Könntest,,,ko.polite+ko.modal
+KO0085,Polite requests,B1,Would you have a moment? (Sie),[ ] Sie einen Moment Zeit?,Hätten,,,ko.polite+ko.haette
+KO0086,Polite requests,B1,"I would like to pay, please.",Ich [ ] gern zahlen.,würde|möchte,,,ko.polite+ko.wuerde
+KO0087,Polite requests,B1,"Could you speak more slowly, please? (Sie)",[ ] Sie bitte langsamer sprechen?,Könnten,,,ko.polite+ko.modal
+KO0088,Polite requests,B1,Would it be possible to move the appointment?,"[ ] es möglich, den Termin zu verschieben?",Wäre,,,ko.polite+ko.waere
+KO0089,Polite requests,B1,I would like to book a table.,Ich [ ] gern einen Tisch reservieren.,würde|möchte,,,ko.polite+ko.wuerde
+KO0090,Polite requests,B1,"Could we have the bill, please?",[ ] wir bitte die Rechnung bekommen?,Könnten,,,ko.polite+ko.modal
+KO0091,Wishes,B1,If only I had more time!,Wenn ich nur mehr Zeit [ ]!,hätte,,,ko.wish+ko.haette
+KO0092,Wishes,B1,If only it were summer!,Wenn es nur Sommer [ ]!,wäre,,,ko.wish+ko.waere
+KO0093,Wishes,B1,I wish I could fly.,"Ich wünschte, ich [ ] fliegen.",könnte,,,ko.wish+ko.modal
+KO0094,Wishes,B1,If only he would come!,Wenn er nur kommen [ ]!,würde,,,ko.wish+ko.wuerde
+KO0095,Wishes,B1,If only we lived by the sea!,Wenn wir nur am Meer wohnen [ ]!,würden,,,ko.wish+ko.wuerde
+KO0096,Wishes,B1,I wish I were taller.,"Ich wünschte, ich [ ] größer.",wäre,,,ko.wish+ko.waere
+KO0097,Wishes,B1,If only I knew that!,Wenn ich das nur [ ]!,wüsste,,wissen has its own Konjunktiv II: wüsste.,
+KO0098,Wishes,B1,If only she were here!,Wenn sie nur hier [ ]!,wäre,,,ko.wish+ko.waere
+KO0099,Wishes,B1,I wish we had a garden.,"Ich wünschte, wir [ ] einen Garten.",hätten,,,ko.wish+ko.haette
+KO0100,Wishes,B1,If only I could sleep!,Wenn ich nur schlafen [ ]!,könnte,,,ko.wish+ko.modal

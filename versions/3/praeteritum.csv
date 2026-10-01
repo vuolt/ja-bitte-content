@@ -1,0 +1,115 @@
+id,type,level,english,german,answer,hint,note,rule
+PRT0001,sein & haben,B1,I was tired yesterday.,Ich [ ] gestern müde.,war,,,prt.war
+PRT0002,sein & haben,B1,You were in Berlin last week. (du),Du [ ] letzte Woche in Berlin.,warst,,,prt.war
+PRT0003,sein & haben,B1,He was a good teacher.,Er [ ] ein guter Lehrer.,war,,,prt.war
+PRT0004,sein & haben,B1,We were very happy.,Wir [ ] sehr glücklich.,waren,,,prt.war
+PRT0005,sein & haben,B1,You were late. (ihr),Ihr [ ] zu spät.,wart,,,prt.war
+PRT0006,sein & haben,B1,They were at home.,Sie [ ] zu Hause.,waren,,,prt.war
+PRT0007,sein & haben,B1,Where were you yesterday? (Sie),Wo [ ] Sie gestern?,waren,,,prt.war
+PRT0008,sein & haben,B1,It was cold in January.,Es [ ] im Januar kalt.,war,,,prt.war
+PRT0009,sein & haben,B1,The film was boring.,Der Film [ ] langweilig.,war,,,prt.war
+PRT0010,sein & haben,B1,The children were in the garden.,Die Kinder [ ] im Garten.,waren,,,prt.war
+PRT0011,sein & haben,B1,Was it expensive?,[ ] es teuer?,War,,,prt.war
+PRT0012,sein & haben,B1,Were you at the party? (du),[ ] du auf der Party?,Warst,,,prt.war
+PRT0013,sein & haben,B1,The weather was wonderful.,Das Wetter [ ] wunderbar.,war,,,prt.war
+PRT0014,sein & haben,B1,I had no time.,Ich [ ] keine Zeit.,hatte,,,prt.hatte
+PRT0015,sein & haben,B1,You had a good idea. (du),Du [ ] eine gute Idee.,hattest,,,prt.hatte
+PRT0016,sein & haben,B1,She had a headache.,Sie [ ] Kopfschmerzen.,hatte,,,prt.hatte
+PRT0017,sein & haben,B1,We were very lucky.,Wir [ ] viel Glück.,hatten,,,prt.hatte
+PRT0018,sein & haben,B1,You had a long day. (ihr),Ihr [ ] einen langen Tag.,hattet,,,prt.hatte
+PRT0019,sein & haben,B1,They had a dog.,Sie [ ] einen Hund.,hatten,,,prt.hatte
+PRT0020,sein & haben,B1,Did you have a nice holiday? (Sie),[ ] Sie einen schönen Urlaub?,Hatten,,,prt.hatte
+PRT0021,sein & haben,B1,My grandfather had a big farm.,Mein Großvater [ ] einen großen Bauernhof.,hatte,,,prt.hatte
+PRT0022,sein & haben,B1,We had no money.,Wir [ ] kein Geld.,hatten,,,prt.hatte
+PRT0023,sein & haben,B1,As a child I had a cat.,Als Kind [ ] ich eine Katze.,hatte,,,prt.hatte
+PRT0024,sein & haben,B1,I had a lot to do.,Ich [ ] viel zu tun.,hatte,,,prt.hatte
+PRT0025,Modal verbs,B1,I couldn't come yesterday.,Ich [ ] gestern nicht kommen.,konnte,,,prt.modal
+PRT0026,Modal verbs,B1,She could swim very well.,Sie [ ] sehr gut schwimmen.,konnte,,,prt.modal
+PRT0027,Modal verbs,B1,We couldn't find the way.,Wir [ ] den Weg nicht finden.,konnten,,,prt.modal
+PRT0028,Modal verbs,B1,Were you able to help him? (du),[ ] du ihm helfen?,Konntest,,,prt.modal
+PRT0029,Modal verbs,B1,I had to work on Saturday.,Ich [ ] am Samstag arbeiten.,musste,,,prt.modal
+PRT0030,Modal verbs,B1,He had to go to the doctor.,Er [ ] zum Arzt gehen.,musste,,,prt.modal
+PRT0031,Modal verbs,B1,We had to wait a long time.,Wir [ ] lange warten.,mussten,,,prt.modal
+PRT0032,Modal verbs,B1,You had to get up early. (ihr),Ihr [ ] früh aufstehen.,musstet,,,prt.modal
+PRT0033,Modal verbs,B1,I wanted to become a doctor.,Ich [ ] Arzt werden.,wollte,,,prt.modal
+PRT0034,Modal verbs,B1,They wanted to buy a house.,Sie [ ] ein Haus kaufen.,wollten,,,prt.modal
+PRT0035,Modal verbs,B1,She wanted to learn German.,Sie [ ] Deutsch lernen.,wollte,,,prt.modal
+PRT0036,Modal verbs,B1,What did you want to say? (du),Was [ ] du sagen?,wolltest,,,prt.modal
+PRT0037,Modal verbs,B1,We were allowed to stay up late.,Wir [ ] lange aufbleiben.,durften,,,prt.modal
+PRT0038,Modal verbs,B1,As a child I wasn't allowed to watch TV.,Als Kind [ ] ich nicht fernsehen.,durfte,,,prt.modal
+PRT0039,Modal verbs,B1,He wasn't allowed to drive.,Er [ ] nicht Auto fahren.,durfte,,,prt.modal
+PRT0040,Modal verbs,B1,Were you allowed to go? (ihr),[ ] ihr gehen?,Durftet,,,prt.modal
+PRT0041,Modal verbs,B1,I was supposed to call him.,Ich [ ] ihn anrufen.,sollte,,,prt.modal
+PRT0042,Modal verbs,B1,You were supposed to be here at eight. (du),Du [ ] um acht hier sein.,solltest,,,prt.modal
+PRT0043,Modal verbs,B1,We were supposed to bring something.,Wir [ ] etwas mitbringen.,sollten,,,prt.modal
+PRT0044,Modal verbs,B1,She was supposed to stay in bed.,Sie [ ] im Bett bleiben.,sollte,,,prt.modal
+PRT0045,Modal verbs,B1,I liked the film.,Ich [ ] den Film.,mochte,,,prt.modal
+PRT0046,Modal verbs,B1,He didn't like vegetables.,Er [ ] kein Gemüse.,mochte,,,prt.modal
+PRT0047,Modal verbs,B1,We liked the city.,Wir [ ] die Stadt.,mochten,,,prt.modal
+PRT0048,Modal verbs,B1,They liked the music.,Sie [ ] die Musik.,mochten,,,prt.modal
+PRT0049,Regular verbs,B1,I played football yesterday.,Ich [ ] gestern Fußball.,spielte,,,prt.regular
+PRT0050,Regular verbs,B1,She lived in Munich for a long time.,Sie [ ] lange in München.,wohnte|lebte,,,prt.regular
+PRT0051,Regular verbs,B1,We learned a lot.,Wir [ ] viel.,lernten,,,prt.regular
+PRT0052,Regular verbs,B1,He worked at a bank.,Er [ ] bei einer Bank.,arbeitete,,,prt.regular.e
+PRT0053,Regular verbs,B1,They waited for the bus.,Sie [ ] auf den Bus.,warteten,,,prt.regular.e
+PRT0054,Regular verbs,B1,I asked the teacher.,Ich [ ] den Lehrer.,fragte,,,prt.regular
+PRT0055,Regular verbs,B1,He said nothing.,Er [ ] nichts.,sagte,,,prt.regular
+PRT0056,Regular verbs,B1,You bought a new car. (du),Du [ ] ein neues Auto.,kauftest,,,prt.regular
+PRT0057,Regular verbs,B1,We visited our grandmother.,Wir [ ] unsere Oma.,besuchten,,,prt.regular
+PRT0058,Regular verbs,B1,The children laughed loudly.,Die Kinder [ ] laut.,lachten,,,prt.regular
+PRT0059,Regular verbs,B1,She loved him.,Sie [ ] ihn.,liebte,,,prt.regular
+PRT0060,Regular verbs,B1,I cooked dinner.,Ich [ ] das Abendessen.,kochte,,,prt.regular
+PRT0061,Regular verbs,B1,We danced all night.,Wir [ ] die ganze Nacht.,tanzten,,,prt.regular
+PRT0062,Regular verbs,B1,He opened the window.,Er [ ] das Fenster.,öffnete,,,prt.regular.e
+PRT0063,Regular verbs,B1,They travelled to Spain.,Sie [ ] nach Spanien.,reisten,,,prt.regular
+PRT0064,Regular verbs,B1,I looked for my keys.,Ich [ ] meine Schlüssel.,suchte,,,prt.regular
+PRT0065,Regular verbs,B1,You answered quickly. (ihr),Ihr [ ] schnell.,antwortetet,,,prt.regular.e
+PRT0066,Regular verbs,B1,She heard a noise.,Sie [ ] ein Geräusch.,hörte,,,prt.regular
+PRT0067,Regular verbs,B1,We showed him the city.,Wir [ ] ihm die Stadt.,zeigten,,,prt.regular
+PRT0068,Regular verbs,B1,He paid the bill.,Er [ ] die Rechnung.,bezahlte|zahlte,,,prt.regular
+PRT0069,Regular verbs,B1,I made a mistake.,Ich [ ] einen Fehler.,machte,,,prt.regular
+PRT0070,Regular verbs,B1,It rained the whole day.,Es [ ] den ganzen Tag.,regnete,,,prt.regular.e
+PRT0071,Regular verbs,B1,They lived happily.,Sie [ ] glücklich.,lebten,,,prt.regular
+PRT0072,Regular verbs,B1,She studied in Vienna.,Sie [ ] in Wien.,studierte,,,prt.regular
+PRT0073,Irregular verbs,B1,I went home.,Ich [ ] nach Hause.,ging|fuhr,,,prt.irr.none
+PRT0074,Irregular verbs,B1,He came late.,Er [ ] zu spät.,kam,,,prt.irr.none
+PRT0075,Irregular verbs,B1,We saw a film.,Wir [ ] einen Film.,sahen,,,prt.irr.en
+PRT0076,Irregular verbs,B1,She gave me the book.,Sie [ ] mir das Buch.,gab,,,prt.irr.none
+PRT0077,Irregular verbs,B1,They drove to Hamburg.,Sie [ ] nach Hamburg.,fuhren,,,prt.irr.en
+PRT0078,Irregular verbs,B1,I took the bus.,Ich [ ] den Bus.,nahm,,,prt.irr.none
+PRT0079,Irregular verbs,B1,He found the key.,Er [ ] den Schlüssel.,fand,,,prt.irr.none
+PRT0080,Irregular verbs,B1,She read the newspaper.,Sie [ ] die Zeitung.,las,,,prt.irr.none
+PRT0081,Irregular verbs,B1,I wrote a letter.,Ich [ ] einen Brief.,schrieb,,,prt.irr.none
+PRT0082,Irregular verbs,B1,We spoke German.,Wir [ ] Deutsch.,sprachen,,,prt.irr.en
+PRT0083,Irregular verbs,B1,The children ate pizza.,Die Kinder [ ] Pizza.,aßen,,,prt.irr.en
+PRT0084,Irregular verbs,B1,He drank a coffee.,Er [ ] einen Kaffee.,trank,,,prt.irr.none
+PRT0085,Irregular verbs,B1,I slept badly.,Ich [ ] schlecht.,schlief,,,prt.irr.none
+PRT0086,Irregular verbs,B1,She helped me.,Sie [ ] mir.,half,,,prt.irr.none
+PRT0087,Irregular verbs,B1,We stayed at home.,Wir [ ] zu Hause.,blieben,,,prt.irr.en
+PRT0088,Irregular verbs,B1,He stood at the window.,Er [ ] am Fenster.,stand,,,prt.irr.none
+PRT0089,Irregular verbs,B1,The dog ran quickly.,Der Hund [ ] schnell.,lief|rannte,,,prt.irr.none
+PRT0090,Irregular verbs,B1,I met an old friend.,Ich [ ] einen alten Freund.,traf,,,prt.irr.none
+PRT0091,Irregular verbs,B1,She forgot her bag.,Sie [ ] ihre Tasche.,vergaß,,,prt.irr.none
+PRT0092,Irregular verbs,B1,The film began at eight.,Der Film [ ] um acht.,begann,,,prt.irr.none
+PRT0093,Irregular verbs,B1,He got a letter.,Er [ ] einen Brief.,bekam|erhielt,,,prt.irr.none
+PRT0094,Irregular verbs,B1,We flew to Rome.,Wir [ ] nach Rom.,flogen,,,prt.irr.en
+PRT0095,Irregular verbs,B1,She called me.,Sie [ ] mich an.,rief,,,prt.irr.none
+PRT0096,Irregular verbs,B1,They sat in the garden.,Sie [ ] im Garten.,saßen,,,prt.irr.en
+PRT0097,Irregular verbs,B1,The book lay on the table.,Das Buch [ ] auf dem Tisch.,lag,,,prt.irr.none
+PRT0098,Irregular verbs,B1,He wore a black jacket.,Er [ ] eine schwarze Jacke.,trug,,,prt.irr.none
+PRT0099,Irregular verbs,B1,The glass fell on the floor.,Das Glas [ ] auf den Boden.,fiel,,,prt.irr.none
+PRT0100,Irregular verbs,B1,Her name was Anna.,Sie [ ] Anna.,hieß,,,prt.irr.none
+PRT0101,Irregular verbs,B1,He became a doctor.,Er [ ] Arzt.,wurde,,"The general rule (no ending in the ich and er/sie/es forms) doesn't apply here: werden is an exception, and ich/er/sie/es wurde ends in -e (du wurdest, wir wurden).",prt.irr.none
+PRT0102,Irregular verbs,B1,I lost my wallet.,Ich [ ] meine Geldbörse.,verlor,,,prt.irr.none
+PRT0103,Mixed verbs,B1,He brought flowers.,Er [ ] Blumen.,brachte,,,prt.mixed
+PRT0104,Mixed verbs,B1,She thought of him.,Sie [ ] an ihn.,dachte,,,prt.mixed
+PRT0105,Mixed verbs,B1,We knew him well.,Wir [ ] ihn gut.,kannten,,,prt.mixed
+PRT0106,Mixed verbs,B1,I didn't know that.,Ich [ ] das nicht.,wusste,,,prt.mixed
+PRT0107,Mixed verbs,B1,They called the dog Bello.,Sie [ ] den Hund Bello.,nannten,,,prt.mixed
+PRT0108,Mixed verbs,B1,He ran to the station.,Er [ ] zum Bahnhof.,rannte|lief,,,prt.mixed
+PRT0109,Mixed verbs,B1,The house was burning.,Das Haus [ ].,brannte,,,prt.mixed
+PRT0110,Mixed verbs,B1,Did you know that? (du),[ ] du das?,Wusstest,,,prt.mixed
+PRT0111,Mixed verbs,B1,We thought about it.,Wir [ ] darüber nach.,dachten,,,prt.mixed
+PRT0112,Mixed verbs,B1,I knew the answer.,Ich [ ] die Antwort.,wusste|kannte,,,prt.mixed
+PRT0113,Mixed verbs,B1,She took the children to school.,Sie [ ] die Kinder zur Schule.,brachte,,,prt.mixed
+PRT0114,Mixed verbs,B1,You knew the way. (ihr),Ihr [ ] den Weg.,kanntet|wusstet,,,prt.mixed

@@ -1,0 +1,241 @@
+id,case,type,level,english,german,answer,note,rule
+CA0001,Accusative,Definite Article,A1,I am looking for the key,Ich suche [ ] Schlüssel,den,,cases.acc.masc
+CA0002,Accusative,Definite Article,A1,He opens the fridge,Er öffnet [ ] Kühlschrank,den,,cases.acc.masc
+CA0003,Accusative,Definite Article,A1,We are waiting for the bus,Wir warten auf [ ] Bus,den,,cases.acc.masc
+CA0004,Accusative,Definite Article,A1,She reads the newspaper,Sie liest [ ] Zeitung,die,,cases.acc.fem-pl
+CA0005,Accusative,Definite Article,A1,I don't understand the question,Ich verstehe [ ] Frage nicht,die,,cases.acc.fem-pl
+CA0006,Accusative,Definite Article,A1,They are walking through the city,Sie gehen durch [ ] Stadt,die,,cases.acc.fem-pl
+CA0007,Accusative,Definite Article,A1,We open the window,Wir öffnen [ ] Fenster,das,,cases.acc.neut
+CA0008,Accusative,Definite Article,A1,I am buying the ticket,Ich kaufe [ ] Ticket,das,,cases.acc.neut
+CA0009,Accusative,Definite Article,A1,She is cleaning the bathroom,Sie putzt [ ] Bad,das,,cases.acc.neut
+CA0010,Accusative,Definite Article,A1,He waters the flowers,Er gießt [ ] Blumen,die,,cases.acc.fem-pl
+CA0011,Accusative,Definite Article,A1,She is buying the shoes,Sie kauft [ ] Schuhe,die,,cases.acc.fem-pl
+CA0012,Accusative,Definite Article,A1,The present is for the children,Das Geschenk ist für [ ] Kinder,die,,cases.acc.fem-pl
+CA0013,Accusative,Indefinite Article,A1,I need a pen,Ich brauche [ ] Stift,einen,,cases.acc.masc
+CA0014,Accusative,Indefinite Article,A1,She has a brother,Sie hat [ ] Bruder,einen,,cases.acc.masc
+CA0015,Accusative,Indefinite Article,A1,We are buying a table,Wir kaufen [ ] Tisch,einen,,cases.acc.masc
+CA0016,Accusative,Indefinite Article,A1,He is writing a letter,Er schreibt [ ] Brief,einen,,cases.acc.masc
+CA0017,Accusative,Indefinite Article,A1,I am drinking a cup of coffee,Ich trinke [ ] Tasse Kaffee,eine,,cases.acc.fem-pl
+CA0018,Accusative,Indefinite Article,A1,She is looking for a flat,Sie sucht [ ] Wohnung,eine,,cases.acc.fem-pl
+CA0019,Accusative,Indefinite Article,A1,They have a daughter,Sie haben [ ] Tochter,eine,,cases.acc.fem-pl
+CA0020,Accusative,Indefinite Article,A1,I am eating a banana,Ich esse [ ] Banane,eine,,cases.acc.fem-pl
+CA0021,Accusative,Indefinite Article,A1,He is reading a book,Er liest [ ] Buch,ein,,cases.acc.neut
+CA0022,Accusative,Indefinite Article,A1,We need a taxi,Wir brauchen [ ] Taxi,ein,,cases.acc.neut
+CA0023,Accusative,Indefinite Article,A1,She is buying a dress,Sie kauft [ ] Kleid,ein,,cases.acc.neut
+CA0024,Accusative,Indefinite Article,A1,They are hiking through a village,Sie wandern durch [ ] Dorf,ein,,cases.acc.neut
+CA0025,Accusative,Possessive Mein,A1,I am looking for my passport,Ich suche [ ] Pass,meinen,,cases.acc.masc
+CA0026,Accusative,Possessive Mein,A1,She knows my brother,Sie kennt [ ] Bruder,meinen,,cases.acc.masc
+CA0027,Accusative,Possessive Mein,A1,I love my dog,Ich liebe [ ] Hund,meinen,,cases.acc.masc
+CA0028,Accusative,Possessive Mein,A1,I am visiting my grandma,Ich besuche [ ] Oma,meine,,cases.acc.fem-pl
+CA0029,Accusative,Possessive Mein,A1,Have you seen my bag?,Hast du [ ] Tasche gesehen?,meine,,cases.acc.fem-pl
+CA0030,Accusative,Possessive Mein,A1,He is calling my sister,Er ruft [ ] Schwester an,meine,,cases.acc.fem-pl
+CA0031,Accusative,Possessive Mein,A1,I am selling my car,Ich verkaufe [ ] Auto,mein,,cases.acc.neut
+CA0032,Accusative,Possessive Mein,A1,She is repairing my bike,Sie repariert [ ] Fahrrad,mein,,cases.acc.neut
+CA0033,Accusative,Possessive Mein,A1,I can't find my phone,Ich finde [ ] Handy nicht,mein,,cases.acc.neut
+CA0034,Accusative,Possessive Mein,A1,I am visiting my parents,Ich besuche [ ] Eltern,meine,,cases.acc.fem-pl
+CA0035,Accusative,Possessive Mein,A1,I am putting on my shoes,Ich ziehe [ ] Schuhe an,meine,,cases.acc.fem-pl
+CA0036,Accusative,Possessive Mein,A1,I am doing my homework,Ich mache [ ] Hausaufgaben,meine,,cases.acc.fem-pl
+CA0037,Accusative,Possessive Dein,A1,Do you need your (informal) coat?,Brauchst du [ ] Mantel?,deinen,,cases.acc.masc
+CA0038,Accusative,Possessive Dein,A1,I know your (informal) father,Ich kenne [ ] Vater,deinen,,cases.acc.masc
+CA0039,Accusative,Possessive Dein,A1,Don't forget your (informal) umbrella!,Vergiss [ ] Regenschirm nicht!,deinen,,cases.acc.masc
+CA0040,Accusative,Possessive Dein,A1,Is this for your (informal) mother?,Ist das für [ ] Mutter?,deine,,cases.acc.fem-pl
+CA0041,Accusative,Possessive Dein,A1,I like your (informal) idea,Ich finde [ ] Idee gut,deine,,cases.acc.fem-pl
+CA0042,Accusative,Possessive Dein,A1,We are visiting your (informal) sister,Wir besuchen [ ] Schwester,deine,,cases.acc.fem-pl
+CA0043,Accusative,Possessive Dein,A1,May I use your (informal) phone?,Darf ich [ ] Handy benutzen?,dein,,cases.acc.neut
+CA0044,Accusative,Possessive Dein,A1,I can see your (informal) house from here,Ich sehe [ ] Haus von hier aus,dein,,cases.acc.neut
+CA0045,Accusative,Possessive Dein,A1,Please open your (informal) book,Bitte öffne [ ] Buch,dein,,cases.acc.neut
+CA0046,Accusative,Possessive Dein,A1,Call your (informal) parents!,Ruf [ ] Eltern an!,deine,,cases.acc.fem-pl
+CA0047,Accusative,Possessive Dein,A1,I like your (informal) photos,Ich mag [ ] Fotos,deine,,cases.acc.fem-pl
+CA0048,Accusative,Possessive Dein,A1,Bring your (informal) friends along!,Bring [ ] Freunde mit!,deine,,cases.acc.fem-pl
+CA0049,Accusative,Possessive Sein,A1,He is looking for his passport,Er sucht [ ] Pass,seinen,,cases.acc.masc
+CA0050,Accusative,Possessive Sein,A1,Tom is feeding his dog,Tom füttert [ ] Hund,seinen,,cases.acc.masc
+CA0051,Accusative,Possessive Sein,A1,I know his brother,Ich kenne [ ] Bruder,seinen,,cases.acc.masc
+CA0052,Accusative,Possessive Sein,A1,He loves his wife,Er liebt [ ] Frau,seine,,cases.acc.fem-pl
+CA0053,Accusative,Possessive Sein,A1,He is calling his mother,Er ruft [ ] Mutter an,seine,,cases.acc.fem-pl
+CA0054,Accusative,Possessive Sein,A1,Paul has forgotten his jacket,Paul hat [ ] Jacke vergessen,seine,,cases.acc.fem-pl
+CA0055,Accusative,Possessive Sein,A1,He is selling his bike,Er verkauft [ ] Fahrrad,sein,,cases.acc.neut
+CA0056,Accusative,Possessive Sein,A1,Ben is tidying his room,Ben räumt [ ] Zimmer auf,sein,,cases.acc.neut
+CA0057,Accusative,Possessive Sein,A1,He is washing his car,Er wäscht [ ] Auto,sein,,cases.acc.neut
+CA0058,Accusative,Possessive Sein,A1,He is visiting his grandparents,Er besucht [ ] Großeltern,seine,,cases.acc.fem-pl
+CA0059,Accusative,Possessive Sein,A1,He is packing his things,Er packt [ ] Sachen,seine,,cases.acc.fem-pl
+CA0060,Accusative,Possessive Sein,A1,He does it for his children,Er macht das für [ ] Kinder,seine,,cases.acc.fem-pl
+CA0061,Accusative,Possessive Ihr,A1,She is looking for her ID card,Sie sucht [ ] Ausweis,ihren,,cases.acc.masc
+CA0062,Accusative,Possessive Ihr,A1,Anna loves her husband,Anna liebt [ ] Mann,ihren,,cases.acc.masc
+CA0063,Accusative,Possessive Ihr,A1,We know her boyfriend,Wir kennen [ ] Freund,ihren,,cases.acc.masc
+CA0064,Accusative,Possessive Ihr,A1,She is visiting her aunt,Sie besucht [ ] Tante,ihre,,cases.acc.fem-pl
+CA0065,Accusative,Possessive Ihr,A1,Lisa is calling her friend,Lisa ruft [ ] Freundin an,ihre,,cases.acc.fem-pl
+CA0066,Accusative,Possessive Ihr,A1,She is opening her bag,Sie öffnet [ ] Tasche,ihre,,cases.acc.fem-pl
+CA0067,Accusative,Possessive Ihr,A1,She is selling her car,Sie verkauft [ ] Auto,ihr,,cases.acc.neut
+CA0068,Accusative,Possessive Ihr,A1,Maria is feeding her baby,Maria füttert [ ] Baby,ihr,,cases.acc.neut
+CA0069,Accusative,Possessive Ihr,A1,I have read her book,Ich habe [ ] Buch gelesen,ihr,,cases.acc.neut
+CA0070,Accusative,Possessive Ihr,A1,She is visiting her parents,Sie besucht [ ] Eltern,ihre,,cases.acc.fem-pl
+CA0071,Accusative,Possessive Ihr,A1,She is doing her homework,Sie macht [ ] Hausaufgaben,ihre,,cases.acc.fem-pl
+CA0072,Accusative,Possessive Ihr,A1,She is waiting for her children,Sie wartet auf [ ] Kinder,ihre,,cases.acc.fem-pl
+CA0073,Accusative,Possessive Unser,A1,We love our garden,Wir lieben [ ] Garten,unseren,,cases.acc.masc
+CA0074,Accusative,Possessive Unser,A1,We are looking for our dog,Wir suchen [ ] Hund,unseren,,cases.acc.masc
+CA0075,Accusative,Possessive Unser,A1,Do you know our boss?,Kennst du [ ] Chef?,unseren,,cases.acc.masc
+CA0076,Accusative,Possessive Unser,A1,We are visiting our grandmother,Wir besuchen [ ] Großmutter,unsere,,cases.acc.fem-pl
+CA0077,Accusative,Possessive Unser,A1,We are painting our kitchen,Wir streichen [ ] Küche,unsere,,cases.acc.fem-pl
+CA0078,Accusative,Possessive Unser,A1,The children love our cat,Die Kinder lieben [ ] Katze,unsere,,cases.acc.fem-pl
+CA0079,Accusative,Possessive Unser,A1,We are selling our house,Wir verkaufen [ ] Haus,unser,,cases.acc.neut
+CA0080,Accusative,Possessive Unser,A1,We are tidying our living room,Wir räumen [ ] Wohnzimmer auf,unser,,cases.acc.neut
+CA0081,Accusative,Possessive Unser,A1,We park our car in the garage,Wir parken [ ] Auto in der Garage,unser,,cases.acc.neut
+CA0082,Accusative,Possessive Unser,A1,We are inviting our friends,Wir laden [ ] Freunde ein,unsere,,cases.acc.fem-pl
+CA0083,Accusative,Possessive Unser,A1,We are bringing our children along,Wir bringen [ ] Kinder mit,unsere,,cases.acc.fem-pl
+CA0084,Accusative,Possessive Unser,A1,We are doing it for our parents,Wir machen das für [ ] Eltern,unsere,,cases.acc.fem-pl
+CA0085,Accusative,Possessive Euer,A1,Are you (plural) looking for your dog?,Sucht ihr [ ] Hund?,euren,,cases.acc.masc+cases.euer
+CA0086,Accusative,Possessive Euer,A1,I know your (plural) father,Ich kenne [ ] Vater,euren,,cases.acc.masc+cases.euer
+CA0087,Accusative,Possessive Euer,A1,We love your (plural) garden,Wir lieben [ ] Garten,euren,,cases.acc.masc+cases.euer
+CA0088,Accusative,Possessive Euer,A1,We are visiting your (plural) grandma,Wir besuchen [ ] Oma,eure,,cases.acc.fem-pl+cases.euer
+CA0089,Accusative,Possessive Euer,A1,I like your (plural) flat,Ich mag [ ] Wohnung,eure,,cases.acc.fem-pl+cases.euer
+CA0090,Accusative,Possessive Euer,A1,Call your (plural) mother!,Ruft [ ] Mutter an!,eure,,cases.acc.fem-pl+cases.euer
+CA0091,Accusative,Possessive Euer,A1,Are you (plural) selling your house?,Verkauft ihr [ ] Haus?,euer,,cases.acc.neut
+CA0092,Accusative,Possessive Euer,A1,I have seen your (plural) baby,Ich habe [ ] Baby gesehen,euer,,cases.acc.neut
+CA0093,Accusative,Possessive Euer,A1,Please tidy your (plural) room,Räumt bitte [ ] Zimmer auf,euer,,cases.acc.neut
+CA0094,Accusative,Possessive Euer,A1,Bring your (plural) friends along!,Bringt [ ] Freunde mit!,eure,,cases.acc.fem-pl+cases.euer
+CA0095,Accusative,Possessive Euer,A1,Don't forget your (plural) books!,Vergesst [ ] Bücher nicht!,eure,,cases.acc.fem-pl+cases.euer
+CA0096,Accusative,Possessive Euer,A1,We are inviting your (plural) parents,Wir laden [ ] Eltern ein,eure,,cases.acc.fem-pl+cases.euer
+CA0097,Dative,Definite Article,A2,I am helping the man,Ich helfe [ ] Mann,dem,,cases.dat.em
+CA0098,Dative,Definite Article,A2,The bike belongs to the teacher,Das Fahrrad gehört [ ] Lehrer,dem,,cases.dat.em
+CA0099,Dative,Definite Article,A2,She is going for a walk with the dog,Sie geht mit [ ] Hund spazieren,dem,,cases.dat.em
+CA0100,Dative,Definite Article,A2,We thank the woman,Wir danken [ ] Frau,der,,cases.dat.er
+CA0101,Dative,Definite Article,A2,I give the teacher (female) the book,Ich gebe [ ] Lehrerin das Buch,der,,cases.dat.er
+CA0102,Dative,Definite Article,A2,He is coming out of the kitchen,Er kommt aus [ ] Küche,der,,cases.dat.er
+CA0103,Dative,Definite Article,A2,The child likes the film,Der Film gefällt [ ] Kind,dem,,cases.dat.em
+CA0104,Dative,Definite Article,A2,The cat jumps out of the window,Die Katze springt aus [ ] Fenster,dem,,cases.dat.em
+CA0105,Dative,Definite Article,A2,She is playing with the baby,Sie spielt mit [ ] Baby,dem,,cases.dat.em
+CA0106,Dative,Definite Article,A2,We give the children presents,Wir geben [ ] Kindern Geschenke,den,,cases.dat.pl
+CA0107,Dative,Definite Article,A2,I am answering the pupils,Ich antworte [ ] Schülern,den,,cases.dat.pl
+CA0108,Dative,Definite Article,A2,She is playing with the cats,Sie spielt mit [ ] Katzen,den,,cases.dat.pl
+CA0109,Dative,Indefinite Article,A2,She lives with a friend,Sie wohnt mit [ ] Freund zusammen,einem,,cases.dat.em
+CA0110,Dative,Indefinite Article,A2,He is talking to a customer,Er spricht mit [ ] Kunden,einem,,cases.dat.em
+CA0111,Dative,Indefinite Article,A2,I am writing with a pencil,Ich schreibe mit [ ] Bleistift,einem,,cases.dat.em
+CA0112,Dative,Indefinite Article,A2,The letter is from a colleague,Der Brief ist von [ ] Kollegen,einem,,cases.dat.em
+CA0113,Dative,Indefinite Article,A2,He shows a woman the way,Er zeigt [ ] Frau den Weg,einer,,cases.dat.er
+CA0114,Dative,Indefinite Article,A2,He works for a company,Er arbeitet bei [ ] Firma,einer,,cases.dat.er
+CA0115,Dative,Indefinite Article,A2,We have been waiting for an hour,Wir warten seit [ ] Stunde,einer,,cases.dat.er
+CA0116,Dative,Indefinite Article,A2,I am talking to a neighbour (female),Ich spreche mit [ ] Nachbarin,einer,,cases.dat.er
+CA0117,Dative,Indefinite Article,A2,I am giving a child an apple,Ich gebe [ ] Kind einen Apfel,einem,,cases.dat.em
+CA0118,Dative,Indefinite Article,A2,He is drinking from a glass,Er trinkt aus [ ] Glas,einem,,cases.dat.em
+CA0119,Dative,Indefinite Article,A2,I am staying in a hotel,Ich wohne in [ ] Hotel,einem,,cases.dat.em
+CA0120,Dative,Indefinite Article,A2,He has been learning German for a year,Er lernt seit [ ] Jahr Deutsch,einem,,cases.dat.em
+CA0121,Dative,Possessive Mein,A2,I am helping my brother,Ich helfe [ ] Bruder,meinem,,cases.dat.em
+CA0122,Dative,Possessive Mein,A2,I am going to the cinema with my friend,Ich gehe mit [ ] Freund ins Kino,meinem,,cases.dat.em
+CA0123,Dative,Possessive Mein,A2,The book belongs to my father,Das Buch gehört [ ] Vater,meinem,,cases.dat.em
+CA0124,Dative,Possessive Mein,A2,I am giving my mother flowers,Ich schenke [ ] Mutter Blumen,meiner,,cases.dat.er
+CA0125,Dative,Possessive Mein,A2,I am staying with my aunt,Ich wohne bei [ ] Tante,meiner,,cases.dat.er
+CA0126,Dative,Possessive Mein,A2,This is a letter from my sister,Das ist ein Brief von [ ] Schwester,meiner,,cases.dat.er
+CA0127,Dative,Possessive Mein,A2,I am reading my child a story,Ich lese [ ] Kind eine Geschichte vor,meinem,,cases.dat.em
+CA0128,Dative,Possessive Mein,A2,I ride to work on my bike,Ich fahre mit [ ] Fahrrad zur Arbeit,meinem,,cases.dat.em
+CA0129,Dative,Possessive Mein,A2,I am sitting in my room,Ich sitze in [ ] Zimmer,meinem,,cases.dat.em
+CA0130,Dative,Possessive Mein,A2,I thank my parents,Ich danke [ ] Eltern,meinen,,cases.dat.pl
+CA0131,Dative,Possessive Mein,A2,I play with my children,Ich spiele mit [ ] Kindern,meinen,,cases.dat.pl
+CA0132,Dative,Possessive Mein,A2,I am telling my friends the news,Ich erzähle [ ] Freunden die Neuigkeit,meinen,,cases.dat.pl
+CA0133,Dative,Possessive Dein,A2,Are you helping your (informal) brother?,Hilfst du [ ] Bruder?,deinem,,cases.dat.em
+CA0134,Dative,Possessive Dein,A2,Say thank you to your (informal) grandpa!,Sag [ ] Opa danke!,deinem,,cases.dat.em
+CA0135,Dative,Possessive Dein,A2,Go for a walk with your (informal) dog!,Geh mit [ ] Hund spazieren!,deinem,,cases.dat.em
+CA0136,Dative,Possessive Dein,A2,Does the dress belong to your (informal) sister?,Gehört das Kleid [ ] Schwester?,deiner,,cases.dat.er
+CA0137,Dative,Possessive Dein,A2,Are you answering your (informal) teacher (female)?,Antwortest du [ ] Lehrerin?,deiner,,cases.dat.er
+CA0138,Dative,Possessive Dein,A2,Do you live with your (informal) girlfriend?,Wohnst du mit [ ] Freundin zusammen?,deiner,,cases.dat.er
+CA0139,Dative,Possessive Dein,A2,Give your (informal) baby the bottle!,Gib [ ] Baby die Flasche!,deinem,,cases.dat.em
+CA0140,Dative,Possessive Dein,A2,Do you drive to work in your (informal) car?,Fährst du mit [ ] Auto zur Arbeit?,deinem,,cases.dat.em
+CA0141,Dative,Possessive Dein,A2,Is something wrong with your (informal) phone?,Stimmt etwas nicht mit [ ] Handy?,deinem,,cases.dat.em
+CA0142,Dative,Possessive Dein,A2,Do you help your (informal) parents?,Hilfst du [ ] Eltern?,deinen,,cases.dat.pl
+CA0143,Dative,Possessive Dein,A2,Show your (informal) friends the photos!,Zeig [ ] Freunden die Fotos!,deinen,,cases.dat.pl
+CA0144,Dative,Possessive Dein,A2,Do you speak German with your (informal) children?,Sprichst du mit [ ] Kindern Deutsch?,deinen,,cases.dat.pl
+CA0145,Dative,Possessive Sein,A2,He is helping his father,Er hilft [ ] Vater,seinem,,cases.dat.em
+CA0146,Dative,Possessive Sein,A2,Tom is playing with his son,Tom spielt mit [ ] Sohn,seinem,,cases.dat.em
+CA0147,Dative,Possessive Sein,A2,He gives his dog a bone,Er gibt [ ] Hund einen Knochen,seinem,,cases.dat.em
+CA0148,Dative,Possessive Sein,A2,He is buying his wife flowers,Er kauft [ ] Frau Blumen,seiner,,cases.dat.er
+CA0149,Dative,Possessive Sein,A2,Max lives with his grandmother,Max wohnt bei [ ] Großmutter,seiner,,cases.dat.er
+CA0150,Dative,Possessive Sein,A2,He is on the phone with his sister,Er telefoniert mit [ ] Schwester,seiner,,cases.dat.er
+CA0151,Dative,Possessive Sein,A2,He is sitting in his car,Er sitzt in [ ] Auto,seinem,,cases.dat.em
+CA0152,Dative,Possessive Sein,A2,He rides to school on his bike,Er fährt mit [ ] Fahrrad zur Schule,seinem,,cases.dat.em
+CA0153,Dative,Possessive Sein,A2,He is waiting in his office,Er wartet in [ ] Büro,seinem,,cases.dat.em
+CA0154,Dative,Possessive Sein,A2,He is showing his friends the city,Er zeigt [ ] Freunden die Stadt,seinen,,cases.dat.pl
+CA0155,Dative,Possessive Sein,A2,He is going on holiday with his parents,Er fährt mit [ ] Eltern in den Urlaub,seinen,,cases.dat.pl
+CA0156,Dative,Possessive Sein,A2,He is writing his grandparents a card,Er schreibt [ ] Großeltern eine Karte,seinen,,cases.dat.pl
+CA0157,Dative,Possessive Ihr,A2,She is helping her brother,Sie hilft [ ] Bruder,ihrem,,cases.dat.em
+CA0158,Dative,Possessive Ihr,A2,Anna is going to the cinema with her boyfriend,Anna geht mit [ ] Freund ins Kino,ihrem,,cases.dat.em
+CA0159,Dative,Possessive Ihr,A2,She gives her husband a kiss,Sie gibt [ ] Mann einen Kuss,ihrem,,cases.dat.em
+CA0160,Dative,Possessive Ihr,A2,She is talking to her mother,Sie spricht mit [ ] Mutter,ihrer,,cases.dat.er
+CA0161,Dative,Possessive Ihr,A2,The house belongs to her aunt,Das Haus gehört [ ] Tante,ihrer,,cases.dat.er
+CA0162,Dative,Possessive Ihr,A2,Lisa is staying the night at her friend's,Lisa übernachtet bei [ ] Freundin,ihrer,,cases.dat.er
+CA0163,Dative,Possessive Ihr,A2,She sings her baby a song,Sie singt [ ] Baby ein Lied vor,ihrem,,cases.dat.em
+CA0164,Dative,Possessive Ihr,A2,She is playing with her child,Sie spielt mit [ ] Kind,ihrem,,cases.dat.em
+CA0165,Dative,Possessive Ihr,A2,She is sleeping in her bed,Sie schläft in [ ] Bett,ihrem,,cases.dat.em
+CA0166,Dative,Possessive Ihr,A2,She thanks her parents,Sie dankt [ ] Eltern,ihren,,cases.dat.pl
+CA0167,Dative,Possessive Ihr,A2,She tells her children a story,Sie erzählt [ ] Kindern eine Geschichte,ihren,,cases.dat.pl
+CA0168,Dative,Possessive Ihr,A2,She lives with her grandparents,Sie wohnt bei [ ] Großeltern,ihren,,cases.dat.pl
+CA0169,Dative,Possessive Unser,A2,We are helping our grandpa,Wir helfen [ ] Opa,unserem,,cases.dat.em
+CA0170,Dative,Possessive Unser,A2,The car belongs to our son,Das Auto gehört [ ] Sohn,unserem,,cases.dat.em
+CA0171,Dative,Possessive Unser,A2,We give our teacher a present,Wir geben [ ] Lehrer ein Geschenk,unserem,,cases.dat.em
+CA0172,Dative,Possessive Unser,A2,We thank our grandmother,Wir danken [ ] Großmutter,unserer,,cases.dat.er
+CA0173,Dative,Possessive Unser,A2,We are going on holiday with our family,Wir fahren mit [ ] Familie in den Urlaub,unserer,,cases.dat.er
+CA0174,Dative,Possessive Unser,A2,We celebrate Christmas at our aunt's,Wir feiern Weihnachten bei [ ] Tante,unserer,,cases.dat.er
+CA0175,Dative,Possessive Unser,A2,We are buying our child a bike,Wir kaufen [ ] Kind ein Fahrrad,unserem,,cases.dat.em
+CA0176,Dative,Possessive Unser,A2,We have a problem with our car,Wir haben ein Problem mit [ ] Auto,unserem,,cases.dat.em
+CA0177,Dative,Possessive Unser,A2,We have lived in our house for ten years,Wir wohnen seit zehn Jahren in [ ] Haus,unserem,,cases.dat.em
+CA0178,Dative,Possessive Unser,A2,The garden belongs to our parents,Der Garten gehört [ ] Eltern,unseren,,cases.dat.pl
+CA0179,Dative,Possessive Unser,A2,We are writing to our friends,Wir schreiben [ ] Freunden,unseren,,cases.dat.pl
+CA0180,Dative,Possessive Unser,A2,We play football with our children,Wir spielen mit [ ] Kindern Fußball,unseren,,cases.dat.pl
+CA0181,Dative,Possessive Euer,A2,Are you (plural) helping your father?,Helft ihr [ ] Vater?,eurem,,cases.dat.em+cases.euer
+CA0182,Dative,Possessive Euer,A2,Does the car belong to your (plural) uncle?,Gehört das Auto [ ] Onkel?,eurem,,cases.dat.em+cases.euer
+CA0183,Dative,Possessive Euer,A2,Are you (plural) going to the park with your dog?,Geht ihr mit [ ] Hund in den Park?,eurem,,cases.dat.em+cases.euer
+CA0184,Dative,Possessive Euer,A2,Thank your (plural) grandma!,Dankt [ ] Oma!,eurer,,cases.dat.er+cases.euer
+CA0185,Dative,Possessive Euer,A2,Are you (plural) staying with your aunt?,Wohnt ihr bei [ ] Tante?,eurer,,cases.dat.er+cases.euer
+CA0186,Dative,Possessive Euer,A2,We got a letter from your (plural) mother,Wir haben einen Brief von [ ] Mutter bekommen,eurer,,cases.dat.er+cases.euer
+CA0187,Dative,Possessive Euer,A2,Give your (plural) child a glass of water!,Gebt [ ] Kind ein Glas Wasser!,eurem,,cases.dat.em+cases.euer
+CA0188,Dative,Possessive Euer,A2,What's wrong with your (plural) car?,Was ist mit [ ] Auto los?,eurem,,cases.dat.em+cases.euer
+CA0189,Dative,Possessive Euer,A2,Are you (plural) playing in your room?,Spielt ihr in [ ] Zimmer?,eurem,,cases.dat.em+cases.euer
+CA0190,Dative,Possessive Euer,A2,Help your (plural) parents!,Helft [ ] Eltern!,euren,,cases.dat.pl+cases.euer
+CA0191,Dative,Possessive Euer,A2,Tell your (plural) friends the news!,Erzählt [ ] Freunden die Neuigkeit!,euren,,cases.dat.pl+cases.euer
+CA0192,Dative,Possessive Euer,A2,Are you (plural) travelling with your children?,Reist ihr mit [ ] Kindern?,euren,,cases.dat.pl+cases.euer
+CA0193,Dative,Definite Article,A2,I am giving the child a present,Ich gebe [ ] Kind ein Geschenk,dem,,cases.dat.em
+CA0194,Dative,Definite Article,A2,She is helping the woman,Sie hilft [ ] Frau,der,,cases.dat.er
+CA0195,Dative,Definite Article,A2,We are talking to the teacher (male),Wir sprechen mit [ ] Lehrer,dem,,cases.dat.em
+CA0196,Dative,Definite Article,A2,He thanks the parents,Er dankt [ ] Eltern,den,,cases.dat.pl
+CA0197,Dative,Indefinite Article,A2,I am writing to a friend (female),Ich schreibe [ ] Freundin,einer,,cases.dat.er
+CA0198,Dative,Indefinite Article,A2,She lives with a colleague (male),Sie wohnt bei [ ] Kollegen,einem,,cases.dat.em
+CA0199,Dative,Indefinite Article,A2,We are helping a child,Wir helfen [ ] Kind,einem,,cases.dat.em
+CA0200,Dative,Indefinite Article,A2,He comes from a small village,Er kommt aus [ ] kleinen Dorf,einem,,cases.dat.em
+CA0201,Dative,Possessive Mein,A2,I am giving my brother a book,Ich gebe [ ] Bruder ein Buch,meinem,,cases.dat.em
+CA0202,Dative,Possessive Mein,A2,I live with my parents,Ich wohne bei [ ] Eltern,meinen,,cases.dat.pl
+CA0203,Dative,Possessive Mein,A2,I am helping my sister,Ich helfe [ ] Schwester,meiner,,cases.dat.er
+CA0204,Dative,Possessive Mein,A2,I am playing with my dog,Ich spiele mit [ ] Hund,meinem,,cases.dat.em
+CA0205,Dative,Possessive Dein,A2,Are you helping your (informal) mother?,Hilfst du [ ] Mutter?,deiner,,cases.dat.er
+CA0206,Dative,Possessive Dein,A2,Are you talking to your (informal) boss?,Sprichst du mit [ ] Chef?,deinem,,cases.dat.em
+CA0207,Dative,Possessive Dein,A2,What are you giving your (informal) friends?,Was schenkst du [ ] Freunden?,deinen,,cases.dat.pl
+CA0208,Dative,Possessive Dein,A2,Are you going in your (informal) car?,Fährst du mit [ ] Auto?,deinem,,cases.dat.em
+CA0209,Dative,Possessive Sein,A2,He is giving his wife flowers,Er schenkt [ ] Frau Blumen,seiner,,cases.dat.er
+CA0210,Dative,Possessive Sein,A2,He lives with his grandparents,Er wohnt bei [ ] Großeltern,seinen,,cases.dat.pl
+CA0211,Dative,Possessive Sein,A2,He is playing with his son,Er spielt mit [ ] Sohn,seinem,,cases.dat.em
+CA0212,Dative,Possessive Sein,A2,He is writing to his uncle,Er schreibt [ ] Onkel,seinem,,cases.dat.em
+CA0213,Dative,Possessive Ihr,A2,She is giving her daughter a present,Sie gibt [ ] Tochter ein Geschenk,ihrer,,cases.dat.er
+CA0214,Dative,Possessive Ihr,A2,She is helping her father,Sie hilft [ ] Vater,ihrem,,cases.dat.em
+CA0215,Dative,Possessive Ihr,A2,She is going with her friends,Sie geht mit [ ] Freunden,ihren,,cases.dat.pl
+CA0216,Dative,Possessive Ihr,A2,She is talking to her child,Sie spricht mit [ ] Kind,ihrem,,cases.dat.em
+CA0217,Dative,Possessive Unser,A2,We are helping our neighbour (male),Wir helfen [ ] Nachbarn,unserem,,cases.dat.em
+CA0218,Dative,Possessive Unser,A2,We are giving our mother flowers,Wir schenken [ ] Mutter Blumen,unserer,,cases.dat.er
+CA0219,Dative,Possessive Unser,A2,We are playing with our children,Wir spielen mit [ ] Kindern,unseren,,cases.dat.pl
+CA0220,Dative,Possessive Unser,A2,We live in our house,Wir wohnen in [ ] Haus,unserem,,cases.dat.em
+CA0221,Dative,Possessive Euer,A2,Are you (plural) helping your teacher (female)?,Helft ihr [ ] Lehrerin?,eurer,,cases.dat.er+cases.euer
+CA0222,Dative,Possessive Euer,A2,Are you (plural) coming with your dog?,Kommt ihr mit [ ] Hund?,eurem,,cases.dat.em+cases.euer
+CA0223,Dative,Possessive Euer,A2,Are you (plural) writing to your grandparents?,Schreibt ihr [ ] Großeltern?,euren,,cases.dat.pl+cases.euer
+CA0224,Dative,Possessive Euer,A2,Are you (plural) playing with your friend (male)?,Spielt ihr mit [ ] Freund?,eurem,,cases.dat.em+cases.euer
+CA0225,Accusative,Definite Article,A1,She is reading the book,Sie liest [ ] Buch,das,,cases.acc.neut
+CA0226,Accusative,Definite Article,A1,I see the bus,Ich sehe [ ] Bus,den,,cases.acc.masc
+CA0227,Accusative,Indefinite Article,A1,He has a dog,Er hat [ ] Hund,einen,,cases.acc.masc
+CA0228,Accusative,Indefinite Article,A1,She is buying a book,Sie kauft [ ] Buch,ein,,cases.acc.neut
+CA0229,Accusative,Possessive Mein,A1,I love my family,Ich liebe [ ] Familie,meine,,cases.acc.fem-pl
+CA0230,Accusative,Possessive Mein,A1,I am looking for my key,Ich suche [ ] Schlüssel,meinen,,cases.acc.masc
+CA0231,Accusative,Possessive Dein,A1,Do you have your (informal) ticket?,Hast du [ ] Ticket?,dein,,cases.acc.neut
+CA0232,Accusative,Possessive Dein,A1,Are you calling your (informal) brother?,Rufst du [ ] Bruder an?,deinen,,cases.acc.masc
+CA0233,Accusative,Possessive Sein,A1,He is cleaning his room,Er putzt [ ] Zimmer,sein,,cases.acc.neut
+CA0234,Accusative,Possessive Sein,A1,He is visiting his aunt,Er besucht [ ] Tante,seine,,cases.acc.fem-pl
+CA0235,Accusative,Possessive Ihr,A1,She is reading her book,Sie liest [ ] Buch,ihr,,cases.acc.neut
+CA0236,Accusative,Possessive Ihr,A1,She is looking for her bag,Sie sucht [ ] Tasche,ihre,,cases.acc.fem-pl
+CA0237,Accusative,Possessive Unser,A1,We are selling our car,Wir verkaufen [ ] Auto,unser,,cases.acc.neut
+CA0238,Accusative,Possessive Unser,A1,We are visiting our grandfather,Wir besuchen [ ] Großvater,unseren,,cases.acc.masc
+CA0239,Accusative,Possessive Euer,A1,Are you (plural) looking for your cat?,Sucht ihr [ ] Katze?,eure,,cases.acc.fem-pl+cases.euer
+CA0240,Accusative,Possessive Euer,A1,Do you (plural) have your books?,Habt ihr [ ] Bücher?,eure,,cases.acc.fem-pl+cases.euer

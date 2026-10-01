@@ -1,0 +1,162 @@
+id,case,type,level,english,german,answer,adjective,note,rule
+AE0001,Nominative,Definite Article,A2,The old man lives here,Der [ ] Mann wohnt hier,alte,alt,,adj.def.nom.e
+AE0002,Nominative,Definite Article,A2,The big dog is barking,Der [ ] Hund bellt,große,groß,,adj.def.nom.e
+AE0003,Nominative,Definite Article,A2,The new teacher (female) is very nice,Die [ ] Lehrerin ist sehr nett,neue,neu,,adj.def.nom.e
+AE0004,Nominative,Definite Article,A2,The black cat is sleeping on the sofa,Die [ ] Katze schläft auf dem Sofa,schwarze,schwarz,,adj.def.nom.e
+AE0005,Nominative,Definite Article,A2,The red car belongs to my father,Das [ ] Auto gehört meinem Vater,rote,rot,,adj.def.nom.e
+AE0006,Nominative,Definite Article,A2,The green dress is expensive,Das [ ] Kleid ist teuer,grüne,grün,,adj.def.nom.e
+AE0007,Nominative,Definite Article,A2,The small children are playing in the garden,Die [ ] Kinder spielen im Garten,kleinen,klein,,adj.def.pl
+AE0008,Nominative,Definite Article,A2,The fresh rolls taste good,Die [ ] Brötchen schmecken gut,frischen,frisch,,adj.def.pl
+AE0009,Nominative,Indefinite Article,A2,A young man is waiting outside,Ein [ ] Mann wartet draußen,junger,jung,,adj.ein.er
+AE0010,Nominative,Indefinite Article,A2,A small dog is playing in the park,Ein [ ] Hund spielt im Park,kleiner,klein,,adj.ein.er
+AE0011,Nominative,Indefinite Article,A2,A new student (female) is coming tomorrow,Eine [ ] Studentin kommt morgen,neue,neu,,adj.ein.e
+AE0012,Nominative,Indefinite Article,A2,An old woman is sitting on the bench,Eine [ ] Frau sitzt auf der Bank,alte,alt,,adj.ein.e
+AE0013,Nominative,Indefinite Article,A2,That is a good idea,Das ist eine [ ] Idee,gute,gut,,adj.ein.e
+AE0014,Nominative,Indefinite Article,A2,A red car is parked in front of the house,Ein [ ] Auto steht vor dem Haus,rotes,rot,,adj.ein.es
+AE0015,Nominative,Indefinite Article,A2,A small child is crying,Ein [ ] Kind weint,kleines,klein,,adj.ein.es
+AE0016,Nominative,Indefinite Article,A2,That is an interesting book,Das ist ein [ ] Buch,interessantes,interessant,,adj.ein.es
+AE0017,Nominative,No Article,A2,That is good wine,Das ist [ ] Wein,guter,gut,,adj.none.nom.er
+AE0018,Nominative,No Article,A2,There is hot coffee on the table,Auf dem Tisch steht [ ] Kaffee,heißer,heiß,,adj.none.nom.er
+AE0019,Nominative,No Article,A2,There is fresh milk in the fridge,Im Kühlschrank ist [ ] Milch,frische,frisch,,adj.none.e
+AE0020,Nominative,No Article,A2,That is really good music,Das ist wirklich [ ] Musik,gute,gut,,adj.none.e
+AE0021,Nominative,No Article,A2,There is cold water in the bottle,In der Flasche ist [ ] Wasser,kaltes,kalt,,adj.none.es
+AE0022,Nominative,No Article,A2,That is German beer,Das ist [ ] Bier,deutsches,deutsch,,adj.none.es
+AE0023,Nominative,No Article,A2,New guests are arriving today,Heute kommen [ ] Gäste,neue,neu,,adj.none.e
+AE0024,Nominative,No Article,A2,Those are beautiful flowers,Das sind [ ] Blumen,schöne,schön,,adj.none.e
+AE0025,Accusative,Definite Article,A2,I am buying the blue jumper,Ich kaufe den [ ] Pullover,blauen,blau,,adj.def.acc.en
+AE0026,Accusative,Definite Article,A2,We are watching the new film,Wir sehen den [ ] Film,neuen,neu,,adj.def.acc.en
+AE0027,Accusative,Definite Article,A2,He opens the heavy door,Er öffnet die [ ] Tür,schwere,schwer,,adj.def.acc.e
+AE0028,Accusative,Definite Article,A2,We are visiting the famous church,Wir besuchen die [ ] Kirche,berühmte,berühmt,,adj.def.acc.e
+AE0029,Accusative,Definite Article,A2,She is wearing the red dress,Sie trägt das [ ] Kleid,rote,rot,,adj.def.acc.e
+AE0030,Accusative,Definite Article,A2,I am selling the old bike,Ich verkaufe das [ ] Fahrrad,alte,alt,,adj.def.acc.e
+AE0031,Accusative,Definite Article,A2,She is buying the cheap shoes,Sie kauft die [ ] Schuhe,billigen,billig,,adj.def.acc.en
+AE0032,Accusative,Definite Article,A2,We are inviting the new colleagues,Wir laden die [ ] Kollegen ein,neuen,neu,,adj.def.acc.en
+AE0033,Accusative,Indefinite Article,A2,I have a big brother,Ich habe einen [ ] Bruder,großen,groß,,adj.ein.acc.en
+AE0034,Accusative,Indefinite Article,A2,He is buying a new computer,Er kauft einen [ ] Computer,neuen,neu,,adj.ein.acc.en
+AE0035,Accusative,Indefinite Article,A2,We have a small garden,Wir haben einen [ ] Garten,kleinen,klein,,adj.ein.acc.en
+AE0036,Accusative,Indefinite Article,A2,She is looking for a new flat,Sie sucht eine [ ] Wohnung,neue,neu,,adj.ein.e
+AE0037,Accusative,Indefinite Article,A2,I need a big bag,Ich brauche eine [ ] Tasche,große,groß,,adj.ein.e
+AE0038,Accusative,Indefinite Article,A2,She has a black cat,Sie hat eine [ ] Katze,schwarze,schwarz,,adj.ein.e
+AE0039,Accusative,Indefinite Article,A2,He is reading an exciting book,Er liest ein [ ] Buch,spannendes,spannend,,adj.ein.es
+AE0040,Accusative,Indefinite Article,A2,We are renting a small car,Wir mieten ein [ ] Auto,kleines,klein,,adj.ein.es
+AE0041,Accusative,No Article,A2,I drink black coffee,Ich trinke [ ] Kaffee,schwarzen,schwarz,,adj.none.acc.en
+AE0042,Accusative,No Article,A2,They are drinking green tea,Sie trinken [ ] Tee,grünen,grün,,adj.none.acc.en
+AE0043,Accusative,No Article,A2,We need fresh milk,Wir brauchen [ ] Milch,frische,frisch,,adj.none.e
+AE0044,Accusative,No Article,A2,I like listening to classical music,Ich höre gern [ ] Musik,klassische,klassisch,,adj.none.e
+AE0045,Accusative,No Article,A2,He likes cold beer,Er mag [ ] Bier,kaltes,kalt,,adj.none.es
+AE0046,Accusative,No Article,A2,I am buying fresh bread,Ich kaufe [ ] Brot,frisches,frisch,,adj.none.es
+AE0047,Accusative,No Article,A2,She eats red apples,Sie isst [ ] Äpfel,rote,rot,,adj.none.e
+AE0048,Accusative,No Article,A2,He has blue eyes,Er hat [ ] Augen,blaue,blau,,adj.none.e
+AE0049,Dative,Definite Article,B1,I am talking to the new teacher,Ich spreche mit dem [ ] Lehrer,neuen,neu,,adj.dat
+AE0050,Dative,Definite Article,B1,I am travelling on the fast train,Ich fahre mit dem [ ] Zug,schnellen,schnell,,adj.dat
+AE0051,Dative,Definite Article,B1,The house belongs to the old woman,Das Haus gehört der [ ] Frau,alten,alt,,adj.dat
+AE0052,Dative,Definite Article,B1,We are sitting in the new kitchen,Wir sitzen in der [ ] Küche,neuen,neu,,adj.dat
+AE0053,Dative,Definite Article,B1,We live next to the yellow house,Wir wohnen neben dem [ ] Haus,gelben,gelb,,adj.dat
+AE0054,Dative,Definite Article,B1,The cat is sitting on the old roof,Die Katze sitzt auf dem [ ] Dach,alten,alt,,adj.dat
+AE0055,Dative,Definite Article,B1,She helps the small children,Sie hilft den [ ] Kindern,kleinen,klein,,adj.dat
+AE0056,Dative,Definite Article,B1,We thank the nice neighbours,Wir danken den [ ] Nachbarn,netten,nett,,adj.dat
+AE0057,Dative,Indefinite Article,B1,I am talking to a nice man,Ich spreche mit einem [ ] Mann,netten,nett,,adj.dat
+AE0058,Dative,Indefinite Article,B1,We are travelling with a good friend,Wir reisen mit einem [ ] Freund,guten,gut,,adj.dat
+AE0059,Dative,Indefinite Article,B1,I am writing with a black pen,Ich schreibe mit einem [ ] Stift,schwarzen,schwarz,,adj.dat
+AE0060,Dative,Indefinite Article,B1,He works for a big company,Er arbeitet bei einer [ ] Firma,großen,groß,,adj.dat
+AE0061,Dative,Indefinite Article,B1,She is helping an old woman,Sie hilft einer [ ] Frau,alten,alt,,adj.dat
+AE0062,Dative,Indefinite Article,B1,They live in a modern flat,Sie wohnen in einer [ ] Wohnung,modernen,modern,,adj.dat
+AE0063,Dative,Indefinite Article,B1,She lives in a small village,Sie wohnt in einem [ ] Dorf,kleinen,klein,,adj.dat
+AE0064,Dative,Indefinite Article,B1,He is sleeping in a comfortable bed,Er schläft in einem [ ] Bett,bequemen,bequem,,adj.dat
+AE0065,Dative,No Article,B1,He drinks tea with brown sugar,Er trinkt Tee mit [ ] Zucker,braunem,braun,,adj.none.dat.em
+AE0066,Dative,No Article,B1,I am eating bread with fresh cheese,Ich esse Brot mit [ ] Käse,frischem,frisch,,adj.none.dat.em
+AE0067,Dative,No Article,B1,I drink tea with warm milk,Ich trinke Tee mit [ ] Milch,warmer,warm,,adj.none.dat.er
+AE0068,Dative,No Article,B1,She paints with red paint,Sie malt mit [ ] Farbe,roter,rot,,adj.none.dat.er
+AE0069,Dative,No Article,B1,He cooks with fresh vegetables,Er kocht mit [ ] Gemüse,frischem,frisch,,adj.none.dat.em
+AE0070,Dative,No Article,B1,With great pleasure,Mit [ ] Vergnügen,großem,groß,,adj.none.dat.em
+AE0071,Dative,No Article,B1,We are travelling with good friends,Wir reisen mit [ ] Freunden,guten,gut,,adj.none.dat.en
+AE0072,Dative,No Article,B1,The children are playing with new toys,Die Kinder spielen mit [ ] Spielsachen,neuen,neu,,adj.none.dat.en
+AE0073,Genitive,Definite Article,B1,The old man's car is new.,Das Auto des [ ] Mannes ist neu.,alten,alt,,adj.gen
+AE0074,Genitive,Definite Article,B1,The colour of the new house is white.,Die Farbe des [ ] Hauses ist weiß.,neuen,neu,,adj.gen
+AE0075,Genitive,Definite Article,B1,The young woman's name is Lena.,Der Name der [ ] Frau ist Lena.,jungen,jung,,adj.gen
+AE0076,Genitive,Definite Article,B1,The small children's toys are here.,Die Spielsachen der [ ] Kinder liegen hier.,kleinen,klein,,adj.gen
+AE0077,Genitive,Definite Article,B1,The end of the long film was good.,Das Ende des [ ] Films war gut.,langen,lang,,adj.gen
+AE0078,Genitive,Definite Article,B1,The taste of the fresh bread is great.,Der Geschmack des [ ] Brotes ist toll.,frischen,frisch,,adj.gen
+AE0079,Genitive,Definite Article,B1,The price of the beautiful jacket is high.,Der Preis der [ ] Jacke ist hoch.,schönen,schön,,adj.gen
+AE0080,Genitive,Definite Article,B1,The good pupils' parents are proud.,Die Eltern der [ ] Schüler sind stolz.,guten,gut,,adj.gen
+AE0081,Genitive,Indefinite Article,B1,An old man's car is parked here.,Das Auto eines [ ] Mannes steht hier.,alten,alt,,adj.gen
+AE0082,Genitive,Indefinite Article,B1,The roof of a new house is red.,Das Dach eines [ ] Hauses ist rot.,neuen,neu,,adj.gen
+AE0083,Genitive,Indefinite Article,B1,The name of a young woman was written there.,Der Name einer [ ] Frau stand dort.,jungen,jung,,adj.gen
+AE0084,Genitive,Indefinite Article,B1,The end of a long day is quiet.,Das Ende eines [ ] Tages ist ruhig.,langen,lang,,adj.gen
+AE0085,Genitive,Indefinite Article,B1,The colour of my new car is blue.,Die Farbe meines [ ] Autos ist blau.,neuen,neu,,adj.gen
+AE0086,Genitive,Indefinite Article,B1,My old friend's house is big.,Das Haus meiner [ ] Freundin ist groß.,alten,alt,,adj.gen
+AE0087,Genitive,Indefinite Article,B1,Our small children's toys are everywhere.,Die Spielsachen unserer [ ] Kinder sind überall.,kleinen,klein,,adj.gen
+AE0088,Genitive,Indefinite Article,B1,The taste of a good coffee is important.,Der Geschmack eines [ ] Kaffees ist wichtig.,guten,gut,,adj.gen
+AE0089,Genitive,No Article,B1,Despite bad weather we went out.,Trotz [ ] Wetters gingen wir raus.,schlechten,schlecht,,adj.none.gen.en
+AE0090,Genitive,No Article,B1,Because of heavy rain we stayed at home.,Wegen [ ] Regens blieben wir zu Hause.,starken,stark,,adj.none.gen.en
+AE0091,Genitive,No Article,B1,During long meetings he gets tired.,Während [ ] Sitzungen wird er müde.,langer,lang,,adj.none.gen.er
+AE0092,Genitive,No Article,B1,The taste of fresh milk is good.,Der Geschmack [ ] Milch ist gut.,frischer,frisch,,adj.none.gen.er
+AE0093,Genitive,No Article,B1,Because of high prices we buy less.,Wegen [ ] Preise kaufen wir weniger.,hoher,hoch,,adj.none.gen.er
+AE0094,Genitive,No Article,B1,Despite great effort it didn't work.,Trotz [ ] Mühe hat es nicht geklappt.,großer,groß,,adj.none.gen.er
+AE0095,Genitive,No Article,B1,The smell of fresh bread is wonderful.,Der Duft [ ] Brotes ist wunderbar.,frischen,frisch,,adj.none.gen.en
+AE0096,Genitive,No Article,B1,During cold winters we stay indoors.,Während [ ] Winter bleiben wir drinnen.,kalter,kalt,,adj.none.gen.er
+AE0097,Nominative,Definite Article,A2,The small child is sleeping,Das [ ] Kind schläft,kleine,klein,,adj.def.nom.e
+AE0098,Nominative,Definite Article,A2,The young woman is a doctor,Die [ ] Frau ist Ärztin,junge,jung,,adj.def.nom.e
+AE0099,Nominative,Definite Article,A2,The red car is very fast,Das [ ] Auto ist sehr schnell,rote,rot,,adj.def.nom.e
+AE0100,Nominative,Definite Article,A2,The long journey was tiring,Die [ ] Reise war anstrengend,lange,lang,,adj.def.nom.e
+AE0101,Nominative,Definite Article,A2,The old houses are beautiful,Die [ ] Häuser sind schön,alten,alt,,adj.def.pl
+AE0102,Nominative,Definite Article,A2,The warm soup tastes good,Die [ ] Suppe schmeckt gut,warme,warm,,adj.def.nom.e
+AE0103,Nominative,Definite Article,A2,The cheap hotel is full,Das [ ] Hotel ist voll,billige,billig,,adj.def.nom.e
+AE0104,Nominative,Definite Article,A2,The tall man is my uncle,Der [ ] Mann ist mein Onkel,große,groß,,adj.def.nom.e
+AE0105,Nominative,Definite Article,A2,The green apples are sour,Die [ ] Äpfel sind sauer,grünen,grün,,adj.def.pl
+AE0106,Nominative,Definite Article,A2,The new phone is expensive,Das [ ] Handy ist teuer,neue,neu,,adj.def.nom.e
+AE0107,Nominative,Definite Article,A2,The friendly waiter brings the bill,Der [ ] Kellner bringt die Rechnung,freundliche,freundlich,,adj.def.nom.e
+AE0108,Nominative,Indefinite Article,A2,A small dog is barking,Ein [ ] Hund bellt,kleiner,klein,,adj.ein.er
+AE0109,Nominative,Indefinite Article,A2,That is a good question,Das ist eine [ ] Frage,gute,gut,,adj.ein.e
+AE0110,Nominative,Indefinite Article,A2,That is a beautiful garden,Das ist ein [ ] Garten,schöner,schön,,adj.ein.er
+AE0111,Nominative,Indefinite Article,A2,A young woman is waiting outside,Eine [ ] Frau wartet draußen,junge,jung,,adj.ein.e
+AE0112,Nominative,Indefinite Article,A2,That is an old picture,Das ist ein [ ] Bild,altes,alt,,adj.ein.es
+AE0113,Nominative,Indefinite Article,A2,A warm jacket is important in winter,Eine [ ] Jacke ist im Winter wichtig,warme,warm,,adj.ein.e
+AE0114,Nominative,Indefinite Article,A2,That is a difficult exercise,Das ist eine [ ] Übung,schwere,schwer,,adj.ein.e
+AE0115,Nominative,Indefinite Article,A2,A big lorry is standing in the street,Ein [ ] Lastwagen steht auf der Straße,großer,groß,,adj.ein.er
+AE0116,Nominative,Indefinite Article,A2,That is a cheap restaurant,Das ist ein [ ] Restaurant,billiges,billig,,adj.ein.es
+AE0117,Nominative,Indefinite Article,A2,That is a long story,Das ist eine [ ] Geschichte,lange,lang,,adj.ein.e
+AE0118,Nominative,Indefinite Article,A2,My sister is a good cook (female),Meine Schwester ist eine [ ] Köchin,gute,gut,,adj.ein.e
+AE0119,Nominative,No Article,A2,Cold water is refreshing,[ ] Wasser ist erfrischend,Kaltes,kalt,,adj.none.es
+AE0120,Nominative,No Article,A2,Fresh bread smells wonderful,[ ] Brot riecht wunderbar,Frisches,frisch,,adj.none.es
+AE0121,Nominative,No Article,A2,It is nice weather today,Heute ist [ ] Wetter,schönes,schön,,adj.none.es
+AE0122,Nominative,No Article,A2,Small children need a lot of sleep,[ ] Kinder brauchen viel Schlaf,Kleine,klein,,adj.none.e
+AE0123,Nominative,No Article,A2,Hot tea helps with a cold,[ ] Tee hilft bei einer Erkältung,Heißer,heiß,,adj.none.nom.er
+AE0124,Nominative,No Article,A2,Old friends are the best,[ ] Freunde sind die besten,Alte,alt,,adj.none.e
+AE0125,Nominative,No Article,A2,There is cold beer in the fridge,Im Kühlschrank ist [ ] Bier,kaltes,kalt,,adj.none.es
+AE0126,Nominative,No Article,A2,German bread is famous,[ ] Brot ist berühmt,Deutsches,deutsch,,adj.none.es
+AE0127,Nominative,No Article,A2,There is red wine on the table,Auf dem Tisch steht [ ] Wein,roter,rot,,adj.none.nom.er
+AE0128,Nominative,No Article,A2,Fresh eggs are healthy,[ ] Eier sind gesund,Frische,frisch,,adj.none.e
+AE0129,Nominative,No Article,A2,Warm milk helps you fall asleep,[ ] Milch hilft beim Einschlafen,Warme,warm,,adj.none.e
+AE0130,Accusative,Definite Article,A2,I am buying the red dress,Ich kaufe das [ ] Kleid,rote,rot,,adj.def.acc.e
+AE0131,Accusative,Definite Article,A2,She is reading the new book,Sie liest das [ ] Buch,neue,neu,,adj.def.acc.e
+AE0132,Accusative,Definite Article,A2,We are visiting the old city,Wir besuchen die [ ] Stadt,alte,alt,,adj.def.acc.e
+AE0133,Accusative,Definite Article,A2,He knows the tall man,Er kennt den [ ] Mann,großen,groß,,adj.def.acc.en
+AE0134,Accusative,Definite Article,A2,I like the small café,Ich mag das [ ] Café,kleine,klein,,adj.def.acc.e
+AE0135,Accusative,Definite Article,A2,They are taking the fast train,Sie nehmen den [ ] Zug,schnellen,schnell,,adj.def.acc.en
+AE0136,Accusative,Definite Article,A2,She is wearing the warm coat,Sie trägt den [ ] Mantel,warmen,warm,,adj.def.acc.en
+AE0137,Accusative,Definite Article,A2,We are eating the fresh rolls,Wir essen die [ ] Brötchen,frischen,frisch,,adj.def.acc.en
+AE0138,Accusative,Definite Article,A2,I need the black pen,Ich brauche den [ ] Stift,schwarzen,schwarz,,adj.def.acc.en
+AE0139,Accusative,Definite Article,A2,Do you see the white house?,Siehst du das [ ] Haus?,weiße,weiß,,adj.def.acc.e
+AE0140,Accusative,Indefinite Article,A2,I am looking for a cheap flat,Ich suche eine [ ] Wohnung,billige,billig,,adj.ein.e
+AE0141,Accusative,Indefinite Article,A2,He has a red bike,Er hat ein [ ] Fahrrad,rotes,rot,,adj.ein.es
+AE0142,Accusative,Indefinite Article,A2,We are buying a small car,Wir kaufen ein [ ] Auto,kleines,klein,,adj.ein.es
+AE0143,Accusative,Indefinite Article,A2,She is drinking a hot tea,Sie trinkt einen [ ] Tee,heißen,heiß,,adj.ein.acc.en
+AE0144,Accusative,Indefinite Article,A2,I have a good friend (male),Ich habe einen [ ] Freund,guten,gut,,adj.ein.acc.en
+AE0145,Accusative,Indefinite Article,A2,They are renting an old house,Sie mieten ein [ ] Haus,altes,alt,,adj.ein.es
+AE0146,Accusative,Indefinite Article,A2,He is writing a long letter,Er schreibt einen [ ] Brief,langen,lang,,adj.ein.acc.en
+AE0147,Accusative,Indefinite Article,A2,We need a big table,Wir brauchen einen [ ] Tisch,großen,groß,,adj.ein.acc.en
+AE0148,Accusative,Indefinite Article,A2,She is baking a sweet cake,Sie backt einen [ ] Kuchen,süßen,süß,,adj.ein.acc.en
+AE0149,Accusative,Indefinite Article,A2,I am wearing a warm jumper,Ich trage einen [ ] Pullover,warmen,warm,,adj.ein.acc.en
+AE0150,Accusative,Indefinite Article,A2,He is booking a cheap flight,Er bucht einen [ ] Flug,billigen,billig,,adj.ein.acc.en
+AE0151,Accusative,No Article,A2,I drink cold water,Ich trinke [ ] Wasser,kaltes,kalt,,adj.none.es
+AE0152,Accusative,No Article,A2,We eat fresh fruit,Wir essen [ ] Obst,frisches,frisch,,adj.none.es
+AE0153,Accusative,No Article,A2,She buys fresh flowers,Sie kauft [ ] Blumen,frische,frisch,,adj.none.e
+AE0154,Accusative,No Article,A2,He likes strong coffee,Er mag [ ] Kaffee,starken,stark,,adj.none.acc.en
+AE0155,Accusative,No Article,A2,I need warm socks,Ich brauche [ ] Socken,warme,warm,,adj.none.e
+AE0156,Accusative,No Article,A2,They sell old furniture,Sie verkaufen [ ] Möbel,alte,alt,,adj.none.e
+AE0157,Accusative,No Article,A2,We have good news,Wir haben [ ] Nachrichten,gute,gut,,adj.none.e
+AE0158,Accusative,No Article,A2,She wears red shoes,Sie trägt [ ] Schuhe,rote,rot,,adj.none.e
+AE0159,Accusative,No Article,A2,I love hot chocolate,Ich liebe [ ] Schokolade,heiße,heiß,,adj.none.e
+AE0160,Accusative,No Article,A2,He eats white bread,Er isst [ ] Brot,weißes,weiß,,adj.none.es
+AE0161,Accusative,No Article,A2,We are looking for cheap tickets,Wir suchen [ ] Tickets,billige,billig,,adj.none.e

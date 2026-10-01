@@ -1,0 +1,13 @@
+type,case,masculine,neuter,feminine,plural
+Definite Article,Nominative,-e,-e,-e,-en
+Definite Article,Accusative,-en,-e,-e,-en
+Definite Article,Dative,-en,-en,-en,-en
+Definite Article,Genitive,-en,-en,-en,-en
+Indefinite Article,Nominative,-er,-es,-e,-en
+Indefinite Article,Accusative,-en,-es,-e,-en
+Indefinite Article,Dative,-en,-en,-en,-en
+Indefinite Article,Genitive,-en,-en,-en,-en
+No Article,Nominative,-er,-es,-e,-e
+No Article,Accusative,-en,-es,-e,-e
+No Article,Dative,-em,-em,-er,-en
+No Article,Genitive,-en,-en,-er,-er

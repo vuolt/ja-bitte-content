@@ -1,0 +1,169 @@
+id,english,level,infinitive,ich,du,er,wir,ihr,sie,type,note,rule
+V0001,be,A1,sein,bin,bist,ist,sind,seid,sind,irregular,,verbs.sein
+V0002,have,A1,haben,habe,hast,hat,haben,habt,haben,irregular,,verbs.haben;verbs.regular
+V0003,go,A1,gehen,gehe,gehst,geht,gehen,geht,gehen,no stem change,,verbs.regular
+V0004,come,A1,kommen,komme,kommst,kommt,kommen,kommt,kommen,no stem change,,verbs.regular
+V0005,make,A1,machen,mache,machst,macht,machen,macht,machen,no stem change,,verbs.regular
+V0006,give,A1,geben,gebe,gibst,gibt,geben,gebt,geben,stem-changing,,verbs.e-i;verbs.regular
+V0007,see,A1,sehen,sehe,siehst,sieht,sehen,seht,sehen,stem-changing,,verbs.e-ie;verbs.regular
+V0008,visit,A1,besuchen,besuche,besuchst,besucht,besuchen,besucht,besuchen,no stem change,,verbs.regular
+V0009,love,A1,lieben,liebe,liebst,liebt,lieben,liebt,lieben,no stem change,,verbs.regular
+V0010,buy,A1,kaufen,kaufe,kaufst,kauft,kaufen,kauft,kaufen,no stem change,,verbs.regular
+V0011,find,A1,finden,finde,findest,findet,finden,findet,finden,no stem change,,verbs.t-stem;verbs.regular
+V0012,eat,A1,essen,esse,isst,isst,essen,esst,essen,stem-changing,,verbs.e-i-s;verbs.e-i;verbs.regular
+V0013,drink,A1,trinken,trinke,trinkst,trinkt,trinken,trinkt,trinken,no stem change,,verbs.regular
+V0014,sleep,A1,schlafen,schlafe,schläfst,schläft,schlafen,schlaft,schlafen,stem-changing,,verbs.a-ae;verbs.regular
+V0015,work,A1,arbeiten,arbeite,arbeitest,arbeitet,arbeiten,arbeitet,arbeiten,no stem change,,verbs.t-stem;verbs.regular
+V0016,drive,A1,fahren,fahre,fährst,fährt,fahren,fahrt,fahren,stem-changing,,verbs.a-ae;verbs.regular
+V0017,fly,A2,fliegen,fliege,fliegst,fliegt,fliegen,fliegt,fliegen,no stem change,,verbs.regular
+V0018,run,A1,laufen,laufe|renne,läufst|rennst,läuft|rennt,laufen|rennen,lauft|rennt,laufen|rennen,stem-changing,"laufen: au → äu in the du and er forms (du läufst, er läuft). rennen is regular: du rennst, er rennt.",verbs.au-aeu;verbs.regular
+V0019,say,A1,sagen,sage,sagst,sagt,sagen,sagt,sagen,no stem change,,verbs.regular
+V0020,can,A1,können,kann,kannst,kann,können,könnt,können,modal,,verbs.modal.sg;verbs.modal.pl
+V0021,should,A1,sollen,soll,sollst,soll,sollen,sollt,sollen,modal,,verbs.modal.sg;verbs.modal.pl
+V0022,want,A1,wollen,will,willst,will,wollen,wollt,wollen,modal,,verbs.modal.sg;verbs.modal.pl
+V0023,must,A1,müssen,muss,musst,muss,müssen,müsst,müssen,modal,,verbs.modal.sg;verbs.modal.pl
+V0024,may,A1,dürfen,darf,darfst,darf,dürfen,dürft,dürfen,modal,,verbs.modal.sg;verbs.modal.pl
+V0025,like,A1,mögen,mag,magst,mag,mögen,mögt,mögen,modal,,verbs.modal.sg;verbs.modal.pl
+V0026,hate,A2,hassen,hasse,hasst,hasst,hassen,hasst,hassen,no stem change,,verbs.s-stem;verbs.regular
+V0027,bring,A2,bringen,bringe,bringst,bringt,bringen,bringt,bringen,no stem change,,verbs.regular
+V0028,take,A1,nehmen,nehme,nimmst,nimmt,nehmen,nehmt,nehmen,stem-changing,,verbs.nehmen;verbs.regular
+V0029,help,A1,helfen,helfe,hilfst,hilft,helfen,helft,helfen,stem-changing,,verbs.e-i;verbs.regular
+V0030,wait,A1,warten,warte,wartest,wartet,warten,wartet,warten,no stem change,,verbs.t-stem;verbs.regular
+V0031,live,A1,wohnen,wohne|lebe,wohnst|lebst,wohnt|lebt,wohnen|leben,wohnt|lebt,wohnen|leben,no stem change,,verbs.regular
+V0032,think,A2,denken,denke,denkst,denkt,denken,denkt,denken,no stem change,,verbs.regular
+V0033,play,A1,spielen,spiele,spielst,spielt,spielen,spielt,spielen,no stem change,,verbs.regular
+V0034,read,A1,lesen,lese,liest,liest,lesen,lest,lesen,stem-changing,,verbs.e-ie-s;verbs.e-ie;verbs.regular
+V0035,write,A1,schreiben,schreibe,schreibst,schreibt,schreiben,schreibt,schreiben,no stem change,,verbs.regular
+V0036,speak,A1,sprechen,spreche,sprichst,spricht,sprechen,sprecht,sprechen,stem-changing,,verbs.e-i;verbs.regular
+V0037,ask,A1,fragen,frage,fragst,fragt,fragen,fragt,fragen,no stem change,,verbs.regular
+V0038,answer,A1,antworten,antworte,antwortest,antwortet,antworten,antwortet,antworten,no stem change,,verbs.t-stem;verbs.regular
+V0039,search,A1,suchen,suche,suchst,sucht,suchen,sucht,suchen,no stem change,,verbs.regular
+V0040,understand,A1,verstehen,verstehe,verstehst,versteht,verstehen,versteht,verstehen,no stem change,,verbs.regular
+V0041,open,A2,öffnen,öffne,öffnest,öffnet,öffnen,öffnet,öffnen,no stem change,,verbs.t-stem;verbs.regular
+V0042,close,A2,schließen,schließe,schließt,schließt,schließen,schließt,schließen,no stem change,,verbs.s-stem;verbs.regular
+V0043,begin,A2,beginnen,beginne,beginnst,beginnt,beginnen,beginnt,beginnen,no stem change,,verbs.regular
+V0044,swim,A2,schwimmen,schwimme,schwimmst,schwimmt,schwimmen,schwimmt,schwimmen,no stem change,,verbs.regular
+V0045,meet,A2,treffen,treffe,triffst,trifft,treffen,trefft,treffen,stem-changing,,verbs.e-i;verbs.regular
+V0046,become,A1,werden,werde,wirst,wird,werden,werdet,werden,irregular,,verbs.werden;verbs.t-stem;verbs.regular
+V0047,know (a fact),A1,wissen,weiß,weißt,weiß,wissen,wisst,wissen,irregular,,verbs.wissen;verbs.regular
+V0048,be called,A1,heißen,heiße,heißt,heißt,heißen,heißt,heißen,no stem change,,verbs.s-stem;verbs.regular
+V0049,learn,A1,lernen,lerne,lernst,lernt,lernen,lernt,lernen,no stem change,,verbs.regular
+V0050,cook,A1,kochen,koche,kochst,kocht,kochen,kocht,kochen,no stem change,,verbs.regular
+V0051,dance,A1,tanzen,tanze,tanzt,tanzt,tanzen,tanzt,tanzen,no stem change,,verbs.s-stem;verbs.regular
+V0052,hear,A1,hören,höre,hörst,hört,hören,hört,hören,no stem change,,verbs.regular
+V0053,know (be familiar with),A1,kennen,kenne,kennst,kennt,kennen,kennt,kennen,no stem change,,verbs.regular
+V0054,stand,A1,stehen,stehe,stehst,steht,stehen,steht,stehen,no stem change,,verbs.regular
+V0055,sit,A1,sitzen,sitze,sitzt,sitzt,sitzen,sitzt,sitzen,no stem change,,verbs.s-stem;verbs.regular
+V0056,lie (be lying),A1,liegen,liege,liegst,liegt,liegen,liegt,liegen,no stem change,,verbs.regular
+V0057,wear (or) carry,A2,tragen,trage,trägst,trägt,tragen,tragt,tragen,stem-changing,,verbs.a-ae;verbs.regular
+V0058,forget,A2,vergessen,vergesse,vergisst,vergisst,vergessen,vergesst,vergessen,stem-changing,,verbs.e-i-s;verbs.e-i;verbs.regular
+V0059,stay,A1,bleiben,bleibe,bleibst,bleibt,bleiben,bleibt,bleiben,no stem change,,verbs.regular
+V0060,fall,A2,fallen,falle,fällst,fällt,fallen,fallt,fallen,stem-changing,,verbs.a-ae;verbs.regular
+V0061,recommend,B1,empfehlen,empfehle,empfiehlst,empfiehlt,empfehlen,empfehlt,empfehlen,stem-changing,,verbs.e-ie;verbs.regular
+V0062,decide,B1,entscheiden,entscheide,entscheidest,entscheidet,entscheiden,entscheidet,entscheiden,no stem change,,verbs.t-stem;verbs.regular
+V0063,develop,B1,entwickeln,entwickle|entwickele,entwickelst,entwickelt,entwickeln,entwickelt,entwickeln,no stem change,,verbs.eln.ich;verbs.eln-ern.wir;verbs.regular
+V0064,achieve (or) reach,B1,erreichen,erreiche,erreichst,erreicht,erreichen,erreicht,erreichen,no stem change,,verbs.regular
+V0065,experience,B1,erleben,erlebe,erlebst,erlebt,erleben,erlebt,erleben,no stem change,,verbs.regular
+V0066,allow,B1,erlauben,erlaube,erlaubst,erlaubt,erlauben,erlaubt,erlauben,no stem change,,verbs.regular
+V0067,find out,B1,erfahren,erfahre,erfährst,erfährt,erfahren,erfahrt,erfahren,stem-changing,,verbs.a-ae;verbs.regular
+V0068,invent,B1,erfinden,erfinde,erfindest,erfindet,erfinden,erfindet,erfinden,no stem change,,verbs.t-stem;verbs.regular
+V0069,tell (a story),B1,erzählen,erzähle,erzählst,erzählt,erzählen,erzählt,erzählen,no stem change,,verbs.regular
+V0070,explain,B1,erklären,erkläre,erklärst,erklärt,erklären,erklärt,erklären,no stem change,,verbs.regular
+V0071,recognise,B1,erkennen,erkenne,erkennst,erkennt,erkennen,erkennt,erkennen,no stem change,,verbs.regular
+V0072,"receive (formal, e.g. a letter)",B1,erhalten,erhalte,erhältst,erhält,erhalten,erhaltet,erhalten,stem-changing,,verbs.a-ae-t;verbs.t-stem;verbs.regular
+V0073,expect,B1,erwarten,erwarte,erwartest,erwartet,erwarten,erwartet,erwarten,no stem change,,verbs.t-stem;verbs.regular
+V0074,mention,B1,erwähnen,erwähne,erwähnst,erwähnt,erwähnen,erwähnt,erwähnen,no stem change,,verbs.regular
+V0075,avoid,B1,vermeiden,vermeide,vermeidest,vermeidet,vermeiden,vermeidet,vermeiden,no stem change,,verbs.t-stem;verbs.regular
+V0076,miss (someone),B1,vermissen,vermisse,vermisst,vermisst,vermissen,vermisst,vermissen,no stem change,,verbs.s-stem;verbs.regular
+V0077,promise,B1,versprechen,verspreche,versprichst,verspricht,versprechen,versprecht,versprechen,stem-changing,,verbs.e-i;verbs.regular
+V0078,try,B1,versuchen,versuche|probiere,versuchst|probierst,versucht|probiert,versuchen|probieren,versucht|probiert,versuchen|probieren,no stem change,,verbs.regular
+V0079,lose,B1,verlieren,verliere,verlierst,verliert,verlieren,verliert,verlieren,no stem change,,verbs.regular
+V0080,compare,B1,vergleichen,vergleiche,vergleichst,vergleicht,vergleichen,vergleicht,vergleichen,no stem change,,verbs.regular
+V0081,improve,B1,verbessern,verbessere,verbesserst,verbessert,verbessern,verbessert,verbessern,no stem change,,verbs.eln-ern.wir;verbs.regular
+V0082,change,B1,verändern,verändere|ändere,veränderst|änderst,verändert|ändert,verändern|ändern,verändert|ändert,verändern|ändern,no stem change,,verbs.eln-ern.wir;verbs.regular
+V0083,earn (or) deserve,B1,verdienen,verdiene,verdienst,verdient,verdienen,verdient,verdienen,no stem change,,verbs.regular
+V0084,sell,B1,verkaufen,verkaufe,verkaufst,verkauft,verkaufen,verkauft,verkaufen,no stem change,,verbs.regular
+V0085,postpone (or) move,B1,verschieben,verschiebe,verschiebst,verschiebt,verschieben,verschiebt,verschieben,no stem change,,verbs.regular
+V0086,belong to,B1,gehören,gehöre,gehörst,gehört,gehören,gehört,gehören,no stem change,,verbs.regular
+V0087,win,B1,gewinnen,gewinne,gewinnst,gewinnt,gewinnen,gewinnt,gewinnen,no stem change,,verbs.regular
+V0088,describe,B1,beschreiben,beschreibe,beschreibst,beschreibt,beschreiben,beschreibt,beschreiben,no stem change,,verbs.regular
+V0089,resolve (formally decide),B1,beschließen,beschließe,beschließt,beschließt,beschließen,beschließt,beschließen,no stem change,,verbs.s-stem;verbs.regular
+V0090,influence,B1,beeinflussen,beeinflusse,beeinflusst,beeinflusst,beeinflussen,beeinflusst,beeinflussen,no stem change,,verbs.s-stem;verbs.regular
+V0091,prove,B1,beweisen,beweise,beweist,beweist,beweisen,beweist,beweisen,no stem change,,verbs.s-stem;verbs.regular
+V0092,consider (or) think about,B1,überlegen,überlege,überlegst,überlegt,überlegen,überlegt,überlegen,no stem change,,verbs.regular
+V0093,convince,B1,überzeugen,überzeuge,überzeugst,überzeugt,überzeugen,überzeugt,überzeugen,no stem change,,verbs.regular
+V0094,translate,B1,übersetzen,übersetze,übersetzt,übersetzt,übersetzen,übersetzt,übersetzen,no stem change,,verbs.s-stem;verbs.regular
+V0095,support,B1,unterstützen,unterstütze,unterstützt,unterstützt,unterstützen,unterstützt,unterstützen,no stem change,,verbs.s-stem;verbs.regular
+V0096,distinguish,B1,unterscheiden,unterscheide,unterscheidest,unterscheidet,unterscheiden,unterscheidet,unterscheiden,no stem change,,verbs.t-stem;verbs.regular
+V0097,interrupt,B1,unterbrechen,unterbreche,unterbrichst,unterbricht,unterbrechen,unterbrecht,unterbrechen,stem-changing,,verbs.e-i;verbs.regular
+V0098,hold (or) stop,B1,halten,halte,hältst,hält,halten,haltet,halten,stem-changing,,verbs.a-ae-t;verbs.t-stem;verbs.regular
+V0099,let (or) leave,B1,lassen,lasse,lässt,lässt,lassen,lasst,lassen,stem-changing,,verbs.a-ae-s;verbs.a-ae;verbs.regular
+V0100,throw,B1,werfen,werfe,wirfst,wirft,werfen,werft,werfen,stem-changing,,verbs.e-i;verbs.regular
+V0101,push (or) press,B1,drücken,drücke,drückst,drückt,drücken,drückt,drücken,no stem change,,verbs.regular
+V0102,pull (or) move (house),B1,ziehen,ziehe,ziehst,zieht,ziehen,zieht,ziehen,no stem change,,verbs.regular
+V0103,shine (or) seem,B1,scheinen,scheine,scheinst,scheint,scheinen,scheint,scheinen,no stem change,,verbs.regular
+V0104,grow,B1,wachsen,wachse,wächst,wächst,wachsen,wachst,wachsen,stem-changing,,verbs.a-ae-s;verbs.a-ae;verbs.regular
+V0105,die,B1,sterben,sterbe,stirbst,stirbt,sterben,sterbt,sterben,stem-changing,,verbs.e-i;verbs.regular
+V0106,lie (tell a lie),B1,lügen,lüge,lügst,lügt,lügen,lügt,lügen,no stem change,,verbs.regular
+V0107,cry,A2,weinen,weine,weinst,weint,weinen,weint,weinen,no stem change,,verbs.regular
+V0108,build,A2,bauen,baue,baust,baut,bauen,baut,bauen,no stem change,,verbs.regular
+V0109,bake,A2,backen,backe,backst|bäckst,backt|bäckt,backen,backt,backen,no stem change,,verbs.backen;verbs.regular
+V0110,sing,A2,singen,singe,singst,singt,singen,singt,singen,no stem change,,verbs.regular
+V0111,determine,B1,bestimmen,bestimme,bestimmst,bestimmt,bestimmen,bestimmt,bestimmen,no stem change,,verbs.regular
+V0112,plan,B1,planen,plane,planst,plant,planen,plant,planen,no stem change,,verbs.regular
+V0113,solve,B1,lösen,löse,löst,löst,lösen,löst,lösen,no stem change,,verbs.s-stem;verbs.regular
+V0114,repair,B1,reparieren,repariere,reparierst,repariert,reparieren,repariert,reparieren,no stem change,,verbs.regular
+V0115,organise,B1,organisieren,organisiere,organisierst,organisiert,organisieren,organisiert,organisieren,no stem change,,verbs.regular
+V0116,discuss,B1,diskutieren,diskutiere|bespreche,diskutierst|besprichst,diskutiert|bespricht,diskutieren|besprechen,diskutiert|besprecht,diskutieren|besprechen,no stem change,"diskutieren is regular. besprechen: e → i in the du and er forms: du besprichst, er bespricht.",verbs.regular
+V0117,inform,B1,informieren,informiere,informierst,informiert,informieren,informiert,informieren,no stem change,,verbs.regular
+V0118,check,B1,prüfen,prüfe|kontrolliere|überprüfe,prüfst|kontrollierst|überprüfst,prüft|kontrolliert|überprüft,prüfen|kontrollieren|überprüfen,prüft|kontrolliert|überprüft,prüfen|kontrollieren|überprüfen,no stem change,,verbs.regular
+V0119,touch (or) concern,B1,berühren,berühre,berührst,berührt,berühren,berührt,berühren,no stem change,,verbs.regular
+V0120,greet,B1,grüßen,grüße,grüßt,grüßt,grüßen,grüßt,grüßen,no stem change,,verbs.s-stem;verbs.regular
+V0121,need,A1,brauchen,brauche,brauchst,braucht,brauchen,braucht,brauchen,no stem change,,verbs.regular
+V0122,cost,A1,kosten,koste,kostest,kostet,kosten,kostet,kosten,no stem change,,verbs.t-stem;verbs.regular
+V0123,show,A1,zeigen,zeige,zeigst,zeigt,zeigen,zeigt,zeigen,no stem change,,verbs.regular
+V0124,"pay (as in ""Zahlen, bitte!"")",A1,zahlen,zahle,zahlst,zahlt,zahlen,zahlt,zahlen,no stem change,,verbs.regular
+V0125,pay for (something),A1,bezahlen,bezahle,bezahlst,bezahlt,bezahlen,bezahlt,bezahlen,no stem change,,verbs.regular
+V0126,laugh,A1,lachen,lache,lachst,lacht,lachen,lacht,lachen,no stem change,,verbs.regular
+V0127,travel,A1,reisen,reise,reist,reist,reisen,reist,reisen,no stem change,,verbs.s-stem;verbs.regular
+V0128,believe,A1,glauben,glaube,glaubst,glaubt,glauben,glaubt,glauben,no stem change,,verbs.regular
+V0129,taste,A1,schmecken,schmecke,schmeckst,schmeckt,schmecken,schmeckt,schmecken,no stem change,,verbs.regular
+V0130,wish,A1,wünschen,wünsche,wünschst,wünscht,wünschen,wünscht,wünschen,no stem change,,verbs.regular
+V0131,give (as a present),A1,schenken,schenke,schenkst,schenkt,schenken,schenkt,schenken,no stem change,,verbs.regular
+V0132,fetch (or) get,A1,holen,hole,holst,holt,holen,holt,holen,no stem change,,verbs.regular
+V0133,study (at university),A1,studieren,studiere,studierst,studiert,studieren,studiert,studieren,no stem change,,verbs.regular
+V0134,telephone (or) call,A1,telefonieren,telefoniere,telefonierst,telefoniert,telefonieren,telefoniert,telefonieren,no stem change,,verbs.regular
+V0135,celebrate,A1,feiern,feiere,feierst,feiert,feiern,feiert,feiern,no stem change,,verbs.eln-ern.wir;verbs.regular
+V0136,fit (or) suit,A1,passen,passe,passt,passt,passen,passt,passen,no stem change,,verbs.s-stem;verbs.regular
+V0137,send,A1,schicken,schicke|sende,schickst|sendest,schickt|sendet,schicken|senden,schickt|sendet,schicken|senden,no stem change,"schicken is regular. senden: the stem ends in -d, so an e goes in: du sendest, er sendet, ihr sendet.",verbs.regular
+V0138,thank,A1,danken,danke,dankst,dankt,danken,dankt,danken,no stem change,,verbs.regular
+V0139,shower,A1,duschen,dusche,duschst,duscht,duschen,duscht,duschen,no stem change,,verbs.regular
+V0140,have breakfast,A1,frühstücken,frühstücke,frühstückst,frühstückt,frühstücken,frühstückt,frühstücken,no stem change,,verbs.regular
+V0141,order (food or goods),A1,bestellen,bestelle,bestellst,bestellt,bestellen,bestellt,bestellen,no stem change,,verbs.regular
+V0142,get (or) receive,A1,bekommen,bekomme|erhalte|kriege,bekommst|erhältst|kriegst,bekommt|erhält|kriegt,bekommen|erhalten|kriegen,bekommt|erhaltet|kriegt,bekommen|erhalten|kriegen,no stem change,"bekommen and kriegen are regular. erhalten: a → ä and no extra e in the du and er forms: du erhältst, er erhält.",verbs.regular
+V0143,please (or) appeal to,A1,gefallen,gefalle,gefällst,gefällt,gefallen,gefallt,gefallen,stem-changing,,verbs.a-ae;verbs.regular
+V0144,smoke,A1,rauchen,rauche,rauchst,raucht,rauchen,raucht,rauchen,no stem change,,verbs.regular
+V0145,wash,A1,waschen,wasche,wäschst,wäscht,waschen,wascht,waschen,stem-changing,,verbs.a-ae;verbs.regular
+V0146,lay (or) put down,A2,legen,lege,legst,legt,legen,legt,legen,no stem change,,verbs.regular
+V0147,put (upright) (or) place,A2,stellen,stelle,stellst,stellt,stellen,stellt,stellen,no stem change,,verbs.regular
+V0148,hang (something up),A2,hängen,hänge,hängst,hängt,hängen,hängt,hängen,no stem change,,verbs.regular
+V0149,hope,A2,hoffen,hoffe,hoffst,hofft,hoffen,hofft,hoffen,no stem change,,verbs.regular
+V0150,clean,A2,putzen,putze,putzt,putzt,putzen,putzt,putzen,no stem change,,verbs.s-stem;verbs.regular
+V0151,be missing (or) be absent,A2,fehlen,fehle,fehlst,fehlt,fehlen,fehlt,fehlen,no stem change,,verbs.regular
+V0152,practise,A2,üben,übe,übst,übt,üben,übt,üben,no stem change,,verbs.regular
+V0153,hike,A2,wandern,wandere,wanderst,wandert,wandern,wandert,wandern,no stem change,,verbs.eln-ern.wir;verbs.regular
+V0154,feel,A2,fühlen,fühle,fühlst,fühlt,fühlen,fühlt,fühlen,no stem change,,verbs.regular
+V0155,pack,A2,packen,packe,packst,packt,packen,packt,packen,no stem change,,verbs.regular
+V0156,park,A2,parken,parke,parkst,parkt,parken,parkt,parken,no stem change,,verbs.regular
+V0157,save (money),A2,sparen,spare,sparst,spart,sparen,spart,sparen,no stem change,,verbs.regular
+V0158,disturb,A2,stören,störe,störst,stört,stören,stört,stören,no stem change,,verbs.regular
+V0159,share (or) divide,A2,teilen,teile,teilst,teilt,teilen,teilt,teilen,no stem change,,verbs.regular
+V0160,choose (or) vote,A2,wählen,wähle,wählst,wählt,wählen,wählt,wählen,no stem change,,verbs.regular
+V0161,cut,A2,schneiden,schneide,schneidest,schneidet,schneiden,schneidet,schneiden,no stem change,,verbs.t-stem;verbs.regular
+V0162,hit (or) beat,A2,schlagen,schlage,schlägst,schlägt,schlagen,schlagt,schlagen,stem-changing,,verbs.a-ae;verbs.regular
+V0163,break,A2,brechen,breche,brichst,bricht,brechen,brecht,brechen,stem-changing,,verbs.e-i;verbs.regular
+V0164,advise (or) guess,A2,raten,rate,rätst,rät,raten,ratet,raten,stem-changing,,verbs.a-ae-t;verbs.t-stem;verbs.regular
+V0165,sleep in (or) oversleep,A2,verschlafen,verschlafe,verschläfst,verschläft,verschlafen,verschlaft,verschlafen,stem-changing,,verbs.a-ae;verbs.regular
+V0166,rent (or) hire,A2,mieten,miete,mietest,mietet,mieten,mietet,mieten,no stem change,,verbs.t-stem;verbs.regular
+V0167,book (a table or a trip),A2,buchen,buche|reserviere,buchst|reservierst,bucht|reserviert,buchen|reservieren,bucht|reserviert,buchen|reservieren,no stem change,,verbs.regular
+V0168,collect (or) gather,A2,sammeln,sammle|sammele,sammelst,sammelt,sammeln,sammelt,sammeln,no stem change,,verbs.eln.ich;verbs.eln-ern.wir;verbs.regular

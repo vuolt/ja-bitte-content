@@ -1,0 +1,101 @@
+id,type,level,english,german,answer,hint,note,rule
+GE0001,Definite article,B1,The man's car is new.,Das Auto [ ] Mannes ist neu.,des,,,gen.des
+GE0002,Definite article,B1,The girl's mother is a doctor.,Die Mutter [ ] Mädchens ist Ärztin.,des,,,gen.des
+GE0003,Definite article,B1,The colour of the flower is red.,Die Farbe [ ] Blume ist rot.,der,,,gen.der
+GE0004,Definite article,B1,The children's names are long.,Die Namen [ ] Kinder sind lang.,der,,,gen.der
+GE0005,Definite article,B1,The end of the film was sad.,Das Ende [ ] Films war traurig.,des,,,gen.des
+GE0006,Definite article,B1,The door of the house is open.,Die Tür [ ] Hauses ist offen.,des,,,gen.des
+GE0007,Definite article,B1,The centre of the city is old.,Das Zentrum [ ] Stadt ist alt.,der,,,gen.der
+GE0008,Definite article,B1,The price of the tickets is high.,Der Preis [ ] Tickets ist hoch.,der,,,gen.der
+GE0009,Definite article,B1,The beginning of the year is cold.,Der Anfang [ ] Jahres ist kalt.,des,,,gen.des
+GE0010,Definite article,B1,The roof of the church is high.,Das Dach [ ] Kirche ist hoch.,der,,,gen.der
+GE0011,Definite article,B1,The dog's owner is nice.,Der Besitzer [ ] Hundes ist nett.,des,,,gen.des
+GE0012,Definite article,B1,The window of the room is small.,Das Fenster [ ] Zimmers ist klein.,des,,,gen.des
+GE0013,Definite article,B1,The capital of the country is Berlin.,Die Hauptstadt [ ] Landes ist Berlin.,des,,,gen.des
+GE0014,Definite article,B1,The colour of the walls is white.,Die Farbe [ ] Wände ist weiß.,der,,,gen.der
+GE0015,Definite article,B1,The boss of the company is strict.,Der Chef [ ] Firma ist streng.,der,,,gen.der
+GE0016,Definite article,B1,The taste of the soup is good.,Der Geschmack [ ] Suppe ist gut.,der,,,gen.der
+GE0017,Definite article,B1,The author of the book is famous.,Der Autor [ ] Buches ist bekannt.,des,,,gen.des
+GE0018,Definite article,B1,The wheels of the bike are new.,Die Räder [ ] Fahrrads sind neu.,des,,,gen.des
+GE0019,Definite article,B1,The meaning of the word is clear.,Die Bedeutung [ ] Wortes ist klar.,des,,,gen.des
+GE0020,Definite article,B1,The students' parents are coming today.,Die Eltern [ ] Schüler kommen heute.,der,,,gen.der
+GE0021,Definite article,B1,The history of the city is interesting.,Die Geschichte [ ] Stadt ist interessant.,der,,,gen.der
+GE0022,Definite article,B1,The neighbour's son is studying.,Der Sohn [ ] Nachbarn studiert.,des,,"Nachbar is an n-noun: des Nachbarn, with -n instead of -s.",gen.des
+GE0023,Definite article,B1,The teacher's office is upstairs.,Das Büro [ ] Lehrerin ist oben.,der,,,gen.der
+GE0024,Definite article,B1,The end of the week is free.,Das Ende [ ] Woche ist frei.,der,,,gen.der
+GE0025,Definite article,B1,The garden of the hotel is beautiful.,Der Garten [ ] Hotels ist schön.,des,,,gen.des
+GE0026,Definite article,B1,The doctor's wife is a teacher.,Die Frau [ ] Arztes ist Lehrerin.,des,,,gen.des
+GE0027,Definite article,B1,The result of the exam was good.,Das Ergebnis [ ] Prüfung war gut.,der,,,gen.der
+GE0028,Definite article,B1,The lights of the cars are bright.,Die Lichter [ ] Autos sind hell.,der,,,gen.der
+GE0029,Definite article,B1,He came home at the end of the night.,Er kam am Ende [ ] Nacht nach Hause.,der,,,gen.der
+GE0030,Definite article,B1,The colour of the sky is blue.,Die Farbe [ ] Himmels ist blau.,des,,,gen.des
+GE0031,Indefinite and possessive,B1,A friend's car is broken.,Das Auto [ ] Freundes ist kaputt.,eines,,,gen.es
+GE0032,Indefinite and possessive,B1,The name of a street was new to me.,Der Name [ ] Straße war mir neu.,einer,,,gen.er
+GE0033,Indefinite and possessive,B1,The end of a long day is quiet.,Das Ende [ ] langen Tages ist ruhig.,eines,,,gen.es
+GE0034,Indefinite and possessive,B1,The roof of a house is red.,Das Dach [ ] Hauses ist rot.,eines,,,gen.es
+GE0035,Indefinite and possessive,B1,My father's car is old.,Das Auto [ ] Vaters ist alt.,meines,,,gen.es
+GE0036,Indefinite and possessive,B1,My sister's dog is small.,Der Hund [ ] Schwester ist klein.,meiner,,,gen.er
+GE0037,Indefinite and possessive,B1,Your brother's bike is new. (du),Das Fahrrad [ ] Bruders ist neu.,deines,,,gen.es
+GE0038,Indefinite and possessive,B1,Your mother's name is Eva. (du),Der Name [ ] Mutter ist Eva.,deiner,,,gen.er
+GE0039,Indefinite and possessive,B1,The colour of his car is blue.,Die Farbe [ ] Autos ist blau.,seines,,,gen.es
+GE0040,Indefinite and possessive,B1,His wife's job is interesting.,Der Beruf [ ] Frau ist interessant.,seiner,,,gen.er
+GE0041,Indefinite and possessive,B1,Her son's school is big.,Die Schule [ ] Sohnes ist groß.,ihres,,,gen.es
+GE0042,Indefinite and possessive,B1,Her daughter's room is colourful.,Das Zimmer [ ] Tochter ist bunt.,ihrer,,,gen.er
+GE0043,Indefinite and possessive,B1,The garden of our house is big.,Der Garten [ ] Hauses ist groß.,unseres,,,gen.es
+GE0044,Indefinite and possessive,B1,Our city's history is long.,Die Geschichte [ ] Stadt ist lang.,unserer,,,gen.er
+GE0045,Indefinite and possessive,B1,Your team's coach is strict. (ihr),Der Trainer [ ] Teams ist streng.,eures,,,gen.es+cases.euer
+GE0046,Indefinite and possessive,B1,Your school's name is well known. (ihr),Der Name [ ] Schule ist bekannt.,eurer,,,gen.er+cases.euer
+GE0047,Indefinite and possessive,B1,Their children's toys are here.,Die Spielsachen [ ] Kinder liegen hier.,ihrer,,,gen.er
+GE0048,Indefinite and possessive,B1,My friends' parents are nice.,Die Eltern [ ] Freunde sind nett.,meiner,,,gen.er
+GE0049,Indefinite and possessive,B1,The price of a ticket is 10 euros.,Der Preis [ ] Tickets ist 10 Euro.,eines,,,gen.es
+GE0050,Indefinite and possessive,B1,A colleague's wife works here.,Die Frau [ ] Kollegen arbeitet hier.,eines,,"Genitive, masculine: eines. Kollege is an n-noun, so it takes -n, not -s: eines Kollegen.",gen.es
+GE0051,Indefinite and possessive,B1,"The address of your company, please. (Sie)","Die Adresse [ ] Firma, bitte.",Ihrer,,,gen.er
+GE0052,Indefinite and possessive,B1,My grandmother's house is old.,Das Haus [ ] Großmutter ist alt.,meiner,,,gen.er
+GE0053,Indefinite and possessive,B1,This is the beginning of a new life.,Das ist der Beginn [ ] neuen Lebens.,eines,,,gen.es
+GE0054,Indefinite and possessive,B1,His parents' house is big.,Das Haus [ ] Eltern ist groß.,seiner,,,gen.er
+GE0055,Prepositions,B1,Because of the weather we stayed at home.,Wegen [ ] Wetters blieben wir zu Hause.,des,,,gen.prep+gen.des
+GE0056,Prepositions,B1,Despite the rain we went out.,Trotz [ ] Regens gingen wir raus.,des,,,gen.prep+gen.des
+GE0057,Prepositions,B1,During the holidays the school is closed.,Während [ ] Ferien ist die Schule zu.,der,,,gen.prep+gen.der
+GE0058,Prepositions,B1,Instead of the car he takes the bike.,Statt [ ] Autos nimmt er das Fahrrad.,des,,,gen.prep+gen.des
+GE0059,Prepositions,B1,Because of the traffic jam I was late.,Wegen [ ] Staus kam ich zu spät.,des,,,gen.prep+gen.des
+GE0060,Prepositions,B1,Despite the cold she wears a dress.,Trotz [ ] Kälte trägt sie ein Kleid.,der,,,gen.prep+gen.der
+GE0061,Prepositions,B1,During the lesson he sleeps.,Während [ ] Unterrichts schläft er.,des,,,gen.prep+gen.des
+GE0062,Prepositions,B1,Outside the city it's quiet.,Außerhalb [ ] Stadt ist es ruhig.,der,,,gen.prep+gen.der
+GE0063,Prepositions,B1,We'll answer within a week.,Innerhalb [ ] Woche antworten wir.,einer,,,gen.prep+gen.er
+GE0064,Prepositions,B1,Because of the illness he stayed at home.,Wegen [ ] Krankheit blieb er zu Hause.,der,,,gen.prep+gen.der
+GE0065,Prepositions,B1,Despite the problems they are happy.,Trotz [ ] Probleme sind sie glücklich.,der,,,gen.prep+gen.der
+GE0066,Prepositions,B1,During the meal nobody spoke.,Während [ ] Essens sprach niemand.,des,,,gen.prep+gen.des
+GE0067,Prepositions,B1,Instead of a letter she sent an email.,Statt [ ] Briefes schickte sie eine E-Mail.,eines,,,gen.prep+gen.es
+GE0068,Prepositions,B1,Because of the noise I couldn't sleep.,Wegen [ ] Lärms konnte ich nicht schlafen.,des,,,gen.prep+gen.des
+GE0069,Prepositions,B1,Despite his age he is fit.,Trotz [ ] Alters ist er fit.,seines,,,gen.prep+gen.es
+GE0070,Prepositions,B1,During the trip we saw a lot.,Während [ ] Reise sahen wir viel.,der,,,gen.prep+gen.der
+GE0071,Prepositions,B1,Because of my work I have little time.,Wegen [ ] Arbeit habe ich wenig Zeit.,meiner,,,gen.prep+gen.er
+GE0072,Prepositions,B1,Despite the price he buys the car.,Trotz [ ] Preises kauft er das Auto.,des,,,gen.prep+gen.des
+GE0073,Prepositions,B1,During the concert it was quiet.,Während [ ] Konzerts war es still.,des,,,gen.prep+gen.des
+GE0074,Prepositions,B1,Because of the children we are staying.,Wegen [ ] Kinder bleiben wir.,der,,,gen.prep+gen.der
+GE0075,Prepositions,B1,Within the city there are many parks.,Innerhalb [ ] Stadt gibt es viele Parks.,der,,,gen.prep+gen.der
+GE0076,Prepositions,B1,Outside the house it's cold.,Außerhalb [ ] Hauses ist es kalt.,des,,,gen.prep+gen.des
+GE0077,Prepositions,B1,Due to the storm the trains are late.,Aufgrund [ ] Sturms haben die Züge Verspätung.,des,,,gen.prep+gen.des
+GE0078,Prepositions,B1,Despite the long journey we were happy.,Trotz [ ] langen Reise waren wir froh.,der,,,gen.prep+gen.der
+GE0079,Prepositions,B1,During the summer it's hot here.,Während [ ] Sommers ist es hier heiß.,des,,,gen.prep+gen.des
+GE0080,Prepositions,B1,Because of a mistake we lost.,Wegen [ ] Fehlers haben wir verloren.,eines,,,gen.prep+gen.es
+GE0081,Prepositions,B1,Despite my tiredness I kept working.,Trotz [ ] Müdigkeit arbeitete ich weiter.,meiner,,,gen.prep+gen.er
+GE0082,Prepositions,B1,During the night it snowed.,Während [ ] Nacht hat es geschneit.,der,,,gen.prep+gen.der
+GE0083,Prepositions,B1,Instead of the meat she takes fish.,Statt [ ] Fleisches nimmt sie Fisch.,des,,,gen.prep+gen.des
+GE0084,Prepositions,B1,Because of the exam he is nervous.,Wegen [ ] Prüfung ist er nervös.,der,,,gen.prep+gen.der
+GE0085,Noun ending,B1,The man's car is new.,Das Auto des [ ] ist neu.,Mannes|Manns,der Mann,,gen.noun.es
+GE0086,Noun ending,B1,The child's name is Max.,Der Name des [ ] ist Max.,Kindes|Kinds,das Kind,,gen.noun.es
+GE0087,Noun ending,B1,The roof of the house is red.,Das Dach des [ ] ist rot.,Hauses,das Haus,,gen.noun.es.must
+GE0088,Noun ending,B1,The door of the room is open.,Die Tür des [ ] ist offen.,Zimmers,das Zimmer,,gen.noun.s
+GE0089,Noun ending,B1,The end of the film was good.,Das Ende des [ ] war gut.,Films|Filmes,der Film,,gen.noun.s
+GE0090,Noun ending,B1,The price of the car is high.,Der Preis des [ ] ist hoch.,Autos,das Auto,,gen.noun.s
+GE0091,Noun ending,B1,The colour of the sky is blue.,Die Farbe des [ ] ist blau.,Himmels,der Himmel,,gen.noun.s
+GE0092,Noun ending,B1,The course begins at eight.,Der Beginn des [ ] ist um acht.,Kurses,der Kurs,,gen.noun.es.must
+GE0093,Noun ending,B1,The doctor's wife works here.,Die Frau des [ ] arbeitet hier.,Arztes,der Arzt,,gen.noun.es
+GE0094,Noun ending,B1,The neighbour's son is called Paul.,Der Sohn des [ ] heißt Paul.,Nachbarn,der Nachbar,"Nachbar is an n-noun: it adds -n in every case but the nominative, so the genitive is des Nachbarn (no -s).",
+GE0095,Noun ending,B1,The boss's office is big.,Das Büro des [ ] ist groß.,Chefs,der Chef,,gen.noun.s
+GE0096,Noun ending,B1,The size of the table is important.,Die Größe des [ ] ist wichtig.,Tisches,der Tisch,,gen.noun.es.must
+GE0097,Noun ending,B1,The beginning of the book was boring.,Der Anfang des [ ] war langweilig.,Buches|Buchs,das Buch,,gen.noun.es
+GE0098,Noun ending,B1,The centre of the village is old.,Das Zentrum des [ ] ist alt.,Dorfes|Dorfs,das Dorf,,gen.noun.es
+GE0099,Noun ending,B1,The dog's head is big.,Der Kopf des [ ] ist groß.,Hundes|Hunds,der Hund,,gen.noun.es
+GE0100,Noun ending,B1,The student's photo hangs here.,Das Foto des [ ] hängt hier.,Studenten,der Student,"Student is an n-noun: des Studenten, dem Studenten, den Studenten.",

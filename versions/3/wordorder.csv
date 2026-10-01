@@ -1,0 +1,121 @@
+id,type,level,english,german,answer,hint,note,rule
+WO0001,weil / dass / ob,B1,I'm staying at home because I'm ill.,"Ich bleibe zu Hause, weil [ ].",ich krank bin,,,wo.weil
+WO0002,weil / dass / ob,B1,She's happy because the sun is shining.,"Sie ist froh, weil [ ].",die Sonne scheint,,,wo.weil
+WO0003,weil / dass / ob,B1,He is tired because he worked a lot.,"Er ist müde, weil [ ].",er viel gearbeitet hat,,,wo.weil+wo.two
+WO0004,weil / dass / ob,B1,We are late because the bus didn't come.,"Wir sind spät dran, weil [ ].",der Bus nicht gekommen ist,,,wo.weil+wo.two
+WO0005,weil / dass / ob,B1,I know that you are right.,"Ich weiß, dass [ ].",du recht hast,,,wo.dass
+WO0006,weil / dass / ob,B1,She says that she has no time.,"Sie sagt, dass [ ].",sie keine Zeit hat,,,wo.dass
+WO0007,weil / dass / ob,B1,I think that the film is good.,"Ich glaube, dass [ ].",der Film gut ist,,,wo.dass
+WO0008,weil / dass / ob,B1,He hopes that it won't rain.,"Er hofft, dass [ ].",es nicht regnet,,,wo.dass
+WO0009,weil / dass / ob,B1,I don't know if he is coming.,"Ich weiß nicht, ob [ ].",er kommt,,,wo.ob
+WO0010,weil / dass / ob,B1,She asks whether we have time.,"Sie fragt, ob [ ].",wir Zeit haben,,,wo.ob
+WO0011,weil / dass / ob,B1,I'm learning German because I live in Berlin.,"Ich lerne Deutsch, weil [ ].",ich in Berlin wohne,,,wo.weil
+WO0012,weil / dass / ob,B1,We're not coming because we have to work.,"Wir kommen nicht, weil [ ].",wir arbeiten müssen,,,wo.weil+wo.two
+WO0013,weil / dass / ob,B1,He can't sleep because it's too loud.,"Er kann nicht schlafen, weil [ ].",es zu laut ist,,,wo.weil
+WO0014,weil / dass / ob,B1,I hope that you can come.,"Ich hoffe, dass [ ].",du kommen kannst,,,wo.dass+wo.two
+WO0015,weil / dass / ob,B1,It's important that we are on time.,"Es ist wichtig, dass [ ].",wir pünktlich sind,,,wo.dass
+WO0016,weil / dass / ob,B1,Do you know if the shop is open?,"Weißt du, ob [ ]?",der Laden offen ist,,,wo.ob
+WO0017,weil / dass / ob,B1,I'm asking whether you can help me. (Sie),"Ich frage, ob [ ].",Sie mir helfen können,,,wo.ob+wo.two
+WO0018,weil / dass / ob,B1,She is sad because her cat has died.,"Sie ist traurig, weil [ ].",ihre Katze gestorben ist,,,wo.weil+wo.two
+WO0019,weil / dass / ob,B1,I think that he is lying.,"Ich denke, dass [ ].",er lügt,,,wo.dass
+WO0020,weil / dass / ob,B1,We're glad that you are here. (ihr),"Wir freuen uns, dass [ ].",ihr hier seid,,,wo.dass
+WO0021,weil / dass / ob,B1,He doesn't know whether she loves him.,"Er weiß nicht, ob [ ].",sie ihn liebt,,,wo.ob
+WO0022,weil / dass / ob,B1,I'm eating because I'm hungry.,"Ich esse, weil [ ].",ich Hunger habe,,,wo.weil
+WO0023,weil / dass / ob,B1,She's staying because she likes the city.,"Sie bleibt, weil [ ].",sie die Stadt mag,,,wo.weil
+WO0024,weil / dass / ob,B1,I believe that everything will be fine.,"Ich glaube, dass [ ].",alles gut wird,,,wo.dass
+WO0025,weil / dass / ob,B1,He is sure that he will win.,"Er ist sicher, dass [ ].",er gewinnen wird,,,wo.dass+wo.two
+WO0026,weil / dass / ob,B1,We don't know if the train is late.,"Wir wissen nicht, ob [ ].",der Zug Verspätung hat,,,wo.ob
+WO0027,weil / dass / ob,B1,I'm happy because I have a new job.,"Ich bin glücklich, weil [ ].",ich eine neue Arbeit habe,,,wo.weil
+WO0028,weil / dass / ob,B1,She thinks that we should go.,"Sie meint, dass [ ].",wir gehen sollten,,,wo.dass+wo.two
+WO0029,weil / dass / ob,B1,Tell me if you're coming. (du),"Sag mir, ob [ ].",du kommst,,,wo.ob
+WO0030,weil / dass / ob,B1,He is angry because I forgot his birthday.,"Er ist sauer, weil [ ].",ich seinen Geburtstag vergessen habe,,,wo.weil+wo.two
+WO0031,wenn / als / obwohl,B1,I'll call you when I'm home.,"Ich rufe dich an, wenn [ ].",ich zu Hause bin,,,wo.wenn
+WO0032,wenn / als / obwohl,B1,"When I was a child, I lived in Hamburg.","Als [ ], wohnte ich in Hamburg.",ich ein Kind war,,,wo.als
+WO0033,wenn / als / obwohl,B1,We go for a walk even though it's raining.,"Wir gehen spazieren, obwohl [ ].",es regnet,,,wo.obwohl
+WO0034,wenn / als / obwohl,B1,"If you have time, we can meet.","Wenn du Zeit hast, [ ].",können wir uns treffen,,,wo.wenn+wo.after
+WO0035,wenn / als / obwohl,B1,"When he came home, dinner was ready.","Als er nach Hause kam, [ ].",war das Essen fertig,,,wo.als+wo.after
+WO0036,wenn / als / obwohl,B1,"Although she is tired, she keeps working.","Obwohl sie müde ist, [ ].",arbeitet sie weiter,,,wo.obwohl+wo.after
+WO0037,wenn / als / obwohl,B1,I'll help you if you want. (du),"Ich helfe dir, wenn [ ].",du willst,,,wo.wenn
+WO0038,wenn / als / obwohl,B1,"When I was in Paris, I saw the Eiffel Tower.","Als [ ], sah ich den Eiffelturm.",ich in Paris war,,,wo.als
+WO0039,wenn / als / obwohl,B1,He goes to work although he is ill.,"Er geht zur Arbeit, obwohl [ ].",er krank ist,,,wo.obwohl
+WO0040,wenn / als / obwohl,B1,"If it snows, we'll stay at home.","Wenn es schneit, [ ].",bleiben wir zu Hause,,,wo.wenn+wo.after
+WO0041,wenn / als / obwohl,B1,"When the film ended, everyone clapped.","Als der Film zu Ende war, [ ].",klatschten alle,,,wo.als+wo.after
+WO0042,wenn / als / obwohl,B1,"Although it was expensive, I bought it.","Obwohl es teuer war, [ ].",habe ich es gekauft,,,wo.obwohl+wo.after
+WO0043,wenn / als / obwohl,B1,She gets nervous when she has to give a talk.,"Sie wird nervös, wenn [ ].",sie einen Vortrag halten muss,,,wo.wenn+wo.two
+WO0044,wenn / als / obwohl,B1,"When we arrived, it was already dark.","Als wir ankamen, [ ].",war es schon dunkel,,,wo.als+wo.after
+WO0045,wenn / als / obwohl,B1,We were happy even though we lost.,"Wir waren froh, obwohl [ ].",wir verloren haben,,,wo.obwohl+wo.two
+WO0046,wenn / als / obwohl,B1,"If you're ill, you should stay in bed. (du)","Wenn du krank bist, [ ].",solltest du im Bett bleiben,,,wo.wenn+wo.after
+WO0047,wenn / als / obwohl,B1,"When she was 18, she moved out.","Als [ ], zog sie aus.",sie 18 war,,,wo.als
+WO0048,wenn / als / obwohl,B1,"Although he has a lot of money, he is unhappy.","Obwohl [ ], ist er unglücklich.",er viel Geld hat,,,wo.obwohl
+WO0049,wenn / als / obwohl,B1,Call me if you need help. (du),"Ruf mich an, wenn [ ].",du Hilfe brauchst,,,wo.wenn
+WO0050,wenn / als / obwohl,B1,"When I saw him, I had to laugh.","Als [ ], musste ich lachen.",ich ihn sah,,,wo.als
+WO0051,wenn / als / obwohl,B1,I'm going out even though it's cold.,"Ich gehe raus, obwohl [ ].",es kalt ist,,,wo.obwohl
+WO0052,wenn / als / obwohl,B1,"If the weather is good, we'll go swimming.","Wenn das Wetter gut ist, [ ].",gehen wir schwimmen,,,wo.wenn+wo.after
+WO0053,wenn / als / obwohl,B1,"When the phone rang, I was asleep.","Als das Telefon klingelte, [ ].",schlief ich,,,wo.als+wo.after
+WO0054,wenn / als / obwohl,B1,"Although I studied a lot, I failed.","Obwohl ich viel gelernt habe, [ ].",bin ich durchgefallen,,,wo.obwohl+wo.after
+WO0055,Indirect questions,B1,I don't know where he lives.,"Ich weiß nicht, wo [ ].",er wohnt,,,wo.indirect
+WO0056,Indirect questions,B1,She asks why you are sad. (du),"Sie fragt, warum [ ].",du traurig bist,,,wo.indirect
+WO0057,Indirect questions,B1,Do you know when the train leaves?,"Weißt du, wann [ ]?",der Zug abfährt,,,wo.indirect
+WO0058,Indirect questions,B1,I wonder how old she is.,"Ich frage mich, wie alt [ ].",sie ist,,,wo.indirect
+WO0059,Indirect questions,B1,Tell me what you want. (du),"Sag mir, was [ ].",du willst,,,wo.indirect
+WO0060,Indirect questions,B1,He wants to know who called.,"Er will wissen, wer [ ].",angerufen hat,,,wo.indirect+wo.two
+WO0061,Indirect questions,B1,I don't know how much it costs.,"Ich weiß nicht, wie viel [ ].",es kostet,,,wo.indirect
+WO0062,Indirect questions,B1,Can you tell me where the station is? (Sie),"Können Sie mir sagen, wo [ ]?",der Bahnhof ist,,,wo.indirect
+WO0063,Indirect questions,B1,I'd like to know why he isn't here.,"Ich möchte wissen, warum [ ].",er nicht hier ist,,,wo.indirect
+WO0064,Indirect questions,B1,Nobody knows when he is coming back.,"Niemand weiß, wann [ ].",er zurückkommt,,,wo.indirect
+WO0065,Indirect questions,B1,She doesn't know what she should do.,"Sie weiß nicht, was [ ].",sie tun soll,,,wo.indirect+wo.two
+WO0066,Indirect questions,B1,I wonder where I left my keys.,"Ich frage mich, wo [ ].",ich meine Schlüssel gelassen habe,,,wo.indirect+wo.two
+WO0067,Verb second,B1,Tomorrow I'm going to Berlin.,Morgen [ ].,fahre ich nach Berlin,,,wo.v2
+WO0068,Verb second,B1,In the evening we eat together.,Am Abend [ ].,essen wir zusammen,,,wo.v2
+WO0069,Verb second,B1,On Monday the shop is closed.,Am Montag [ ].,ist der Laden geschlossen,,,wo.v2+wo.v2.end
+WO0070,Verb second,B1,Yesterday it rained.,Gestern [ ].,hat es geregnet,,,wo.v2+wo.v2.end
+WO0071,Verb second,B1,Now I have to go.,Jetzt [ ].,muss ich gehen,,,wo.v2+wo.v2.end
+WO0072,Verb second,B1,At eight the film starts.,Um acht Uhr [ ].,beginnt der Film,,,wo.v2
+WO0073,Verb second,B1,In summer it's hot here.,Im Sommer [ ].,ist es hier heiß|ist es heiß hier,,,wo.v2
+WO0074,Verb second,B1,Today she has no time.,Heute [ ].,hat sie keine Zeit,,,wo.v2
+WO0075,Verb second,B1,Next year we're moving house.,Nächstes Jahr [ ].,ziehen wir um,,,wo.v2+wo.v2.end
+WO0076,Verb second,B1,Unfortunately he is ill.,Leider [ ].,ist er krank,,,wo.v2
+WO0077,Verb second,B1,Then we went home.,Dann [ ].,sind wir nach Hause gegangen,,,wo.v2+wo.v2.end
+WO0078,Verb second,B1,In Berlin there are many museums.,In Berlin [ ].,gibt es viele Museen,,,wo.v2
+WO0079,Verb second,B1,At the weekend I sleep late.,Am Wochenende [ ].,schlafe ich lange,,,wo.v2
+WO0080,Verb second,B1,Maybe she is coming later.,Vielleicht [ ].,kommt sie später,,,wo.v2
+WO0081,Verb second,B1,After work he plays football.,Nach der Arbeit [ ].,spielt er Fußball,,,wo.v2
+WO0082,Verb second,B1,Every day I learn German.,Jeden Tag [ ].,lerne ich Deutsch,,,wo.v2
+WO0083,Verb second,B1,Last week we were in Vienna.,Letzte Woche [ ].,waren wir in Wien,,,wo.v2
+WO0084,Verb second,B1,Of course you can come. (du),Natürlich [ ].,kannst du kommen,,,wo.v2+wo.v2.end
+WO0085,Verb second,B1,In the morning I drink coffee.,Morgens [ ].,trinke ich Kaffee,,,wo.v2
+WO0086,Verb second,B1,She has lived here since 2010.,Seit 2010 [ ].,wohnt sie hier,,,wo.v2
+WO0087,Verb second,B1,At the moment I have a lot to do.,Im Moment [ ].,habe ich viel zu tun,,,wo.v2
+WO0088,Verb second,B1,Tonight we're watching a film.,Heute Abend [ ].,sehen wir einen Film,,,wo.v2
+WO0089,Verb second,B1,Hopefully the sun will shine tomorrow.,Hoffentlich [ ].,scheint morgen die Sonne|scheint die Sonne morgen,,,wo.v2
+WO0090,Verb second,B1,"First we eat, then we go.","Zuerst [ ], dann gehen wir.",essen wir,,,wo.v2
+WO0091,Modal + infinitive,B1,I can speak German.,Ich [ ].,kann Deutsch sprechen,,,wo.modal
+WO0092,Modal + infinitive,B1,She has to get up early.,Sie [ ].,muss früh aufstehen,,,wo.modal
+WO0093,Modal + infinitive,B1,We want to buy a house.,Wir [ ].,wollen ein Haus kaufen,,,wo.modal
+WO0094,Modal + infinitive,B1,He isn't allowed to drive.,Er [ ].,darf nicht Auto fahren,,,wo.modal
+WO0095,Modal + infinitive,B1,You should drink more water. (du),Du [ ].,solltest mehr Wasser trinken,,,wo.modal
+WO0096,Modal + infinitive,B1,I would like to order a coffee.,Ich [ ].,möchte einen Kaffee bestellen,,,wo.modal
+WO0097,Modal + infinitive,B1,They can't come today.,Sie [ ].,können heute nicht kommen,,,wo.modal
+WO0098,Modal + infinitive,B1,We have to learn a lot.,Wir [ ].,müssen viel lernen,,,wo.modal
+WO0099,Modal + infinitive,B1,Can you help me? (du),[ ]?,Kannst du mir helfen,,,wo.modal.q
+WO0100,Modal + infinitive,B1,May I open the window?,[ ]?,Darf ich das Fenster öffnen,,,wo.modal.q
+WO0101,Modal + infinitive,B1,Do we have to wait long?,[ ]?,Müssen wir lange warten,,,wo.modal.q
+WO0102,Modal + infinitive,B1,She wants to become a teacher.,Sie [ ].,will Lehrerin werden,,,wo.modal
+WO0103,Modal + infinitive,B1,The children are allowed to play outside.,Die Kinder [ ].,dürfen draußen spielen,,,wo.modal
+WO0104,Modal + infinitive,B1,I have to work tomorrow.,Ich [ ].,muss morgen arbeiten,,,wo.modal
+WO0105,Modal + infinitive,B1,Would you like to eat something? (du),[ ]?,Möchtest du etwas essen,,,wo.modal.q
+WO0106,Perfekt: participle at the end,B1,I bought a book.,Ich [ ].,habe ein Buch gekauft,,,wo.perfekt
+WO0107,Perfekt: participle at the end,B1,She went to Berlin.,Sie [ ].,ist nach Berlin gefahren,,,wo.perfekt
+WO0108,Perfekt: participle at the end,B1,We ate pizza.,Wir [ ].,haben Pizza gegessen,,,wo.perfekt
+WO0109,Perfekt: participle at the end,B1,He slept for a long time.,Er [ ].,hat lange geschlafen,,,wo.perfekt
+WO0110,Perfekt: participle at the end,B1,They visited us.,Sie [ ].,haben uns besucht,,,wo.perfekt
+WO0111,Perfekt: participle at the end,B1,Have you seen the film? (du),[ ]?,Hast du den Film gesehen,,,wo.perfekt.q
+WO0112,Perfekt: participle at the end,B1,I called my mother.,Ich [ ].,habe meine Mutter angerufen,,,wo.perfekt
+WO0113,Perfekt: participle at the end,B1,We got up early.,Wir [ ].,sind früh aufgestanden,,,wo.perfekt
+WO0114,Perfekt: participle at the end,B1,She learned German.,Sie [ ].,hat Deutsch gelernt,,,wo.perfekt
+WO0115,Perfekt: participle at the end,B1,Did you hear that? (ihr),[ ]?,Habt ihr das gehört,,,wo.perfekt.q
+WO0116,Perfekt: participle at the end,B1,He stayed at home.,Er [ ].,ist zu Hause geblieben,,,wo.perfekt
+WO0117,Perfekt: participle at the end,B1,I drank a coffee.,Ich [ ].,habe einen Kaffee getrunken,,,wo.perfekt
+WO0118,Perfekt: participle at the end,B1,They flew to Rome.,Sie [ ].,sind nach Rom geflogen,,,wo.perfekt
+WO0119,Perfekt: participle at the end,B1,We played football.,Wir [ ].,haben Fußball gespielt,,,wo.perfekt
+WO0120,Perfekt: participle at the end,B1,She wrote a letter.,Sie [ ].,hat einen Brief geschrieben,,,wo.perfekt

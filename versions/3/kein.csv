@@ -1,0 +1,110 @@
+id,case,level,english,german,answer,note,rule
+KE0001,Nominative,A1,There is no cat in the house,Im Haus ist [ ] Katze,keine,,kein.nom.e
+KE0002,Nominative,A1,There is no dog here,Hier ist [ ] Hund,kein,,kein.nom.none
+KE0003,Nominative,A1,That is not a car,Das ist [ ] Auto,kein,,kein.nom.none
+KE0004,Nominative,A1,No child is crying,[ ] Kind weint,Kein,,kein.nom.none
+KE0005,Nominative,A1,No women are here,[ ] Frauen sind hier,Keine,,kein.nom.e
+KE0006,Nominative,A1,No book is on the table,[ ] Buch liegt auf dem Tisch,Kein,,kein.nom.none
+KE0007,Nominative,A1,No books are on the shelf,[ ] Bücher stehen im Regal,Keine,,kein.nom.e
+KE0008,Nominative,A1,No toys are lying on the floor,[ ] Spielsachen liegen auf dem Boden,Keine,,kein.nom.e
+KE0009,Nominative,A1,No job is perfect,[ ] Job ist perfekt,Kein,,kein.nom.none
+KE0010,Nominative,A1,That is not a problem,Das ist [ ] Problem,kein,,kein.nom.none
+KE0011,Nominative,A1,He is not a teacher,Er ist [ ] Lehrer,kein,,kein.nom.none
+KE0012,Nominative,A1,She is not a doctor,Sie ist [ ] Ärztin,keine,,kein.nom.e
+KE0013,Nominative,A1,No bus is coming,Es kommt [ ] Bus,kein,,kein.nom.none
+KE0014,Nominative,A1,No pupil knows the answer,[ ] Schüler weiß die Antwort,Kein,,kein.nom.none
+KE0015,Nominative,A1,No shop is open today,Heute ist [ ] Geschäft geöffnet,kein,,kein.nom.none
+KE0016,Accusative,A1,I don't see a car,Ich sehe [ ] Auto,kein,,kein.acc.neut
+KE0017,Accusative,A1,We don't have an apple,Wir haben [ ] Apfel,keinen,,kein.acc.en
+KE0018,Accusative,A1,They don't have any bread,Sie haben [ ] Brot,kein,,kein.acc.neut
+KE0019,Accusative,A1,She has no pen,Sie hat [ ] Stift,keinen,,kein.acc.en
+KE0020,Accusative,A1,I don't drink milk,Ich trinke [ ] Milch,keine,,kein.acc.e
+KE0021,Accusative,A1,They have no money,Sie haben [ ] Geld,kein,,kein.acc.neut
+KE0022,Accusative,A1,I don't want tea,Ich möchte [ ] Tee,keinen,,kein.acc.en
+KE0023,Accusative,A1,You have no idea,Du hast [ ] Ahnung,keine,,kein.acc.e
+KE0024,Accusative,A1,She doesn't have a cat,Sie hat [ ] Katze,keine,,kein.acc.e
+KE0025,Accusative,A1,We don't see any children,Wir sehen [ ] Kinder,keine,,kein.acc.e
+KE0026,Accusative,A1,He doesn't know any people here,Er kennt hier [ ] Leute,keine,,kein.acc.e
+KE0027,Accusative,A1,She doesn't buy apples,Sie kauft [ ] Äpfel,keine,,kein.acc.e
+KE0028,Accusative,A1,We aren't inviting any guests,Wir laden [ ] Gäste ein,keine,,kein.acc.e
+KE0029,Accusative,A1,I don't see a train,Ich sehe [ ] Zug,keinen,,kein.acc.en
+KE0030,Accusative,A1,We don't have a garden,Wir haben [ ] Garten,keinen,,kein.acc.en
+KE0031,Accusative,A1,I don't need a car,Ich brauche [ ] Auto,kein,,kein.acc.neut
+KE0032,Accusative,A1,He doesn't have a job,Er hat [ ] Arbeit,keine,,kein.acc.e
+KE0033,Accusative,A1,I don't eat soup,Ich esse [ ] Suppe,keine,,kein.acc.e
+KE0034,Accusative,A1,We have no time,Wir haben [ ] Zeit,keine,,kein.acc.e
+KE0035,Accusative,A1,I don't have a brother,Ich habe [ ] Bruder,keinen,,kein.acc.en
+KE0036,Accusative,A1,He doesn't eat meat,Er isst [ ] Fleisch,kein,,kein.acc.neut
+KE0037,Dative,A2,I haven't talked to any teacher,Ich habe mit [ ] Lehrer gesprochen,keinem,,kein.dat.em
+KE0038,Dative,A2,In no country is it as cold as here,In [ ] Land ist es so kalt wie hier,keinem,,kein.dat.em
+KE0039,Dative,A2,I don't live in a big city,Ich wohne in [ ] Großstadt,keiner,,kein.dat.er
+KE0040,Dative,A2,He doesn't work for any company,Er arbeitet bei [ ] Firma,keiner,,kein.dat.er
+KE0041,Dative,A2,I don't trust any politician,Ich vertraue [ ] Politiker,keinem,,kein.dat.em
+KE0042,Dative,A2,The shoes don't fit any child,Die Schuhe passen [ ] Kind,keinem,,kein.dat.em
+KE0043,Dative,A2,We didn't talk to any parents,Wir haben mit [ ] Eltern gesprochen,keinen,,kein.dat.pl
+KE0044,Dative,A2,Under no circumstances,Unter [ ] Umständen,keinen,,kein.dat.pl
+KE0045,Dative,A2,He isn't afraid of any dog,Er hat vor [ ] Hund Angst,keinem,,kein.dat.em
+KE0046,Dative,A2,The children aren't playing with any toy,Die Kinder spielen mit [ ] Spielzeug,keinem,,kein.dat.em
+KE0047,Dative,A2,We didn't find it in any shop,Wir haben es in [ ] Geschäft gefunden,keinem,,kein.dat.em
+KE0048,Dative,A2,We haven't heard from any pupil,Wir haben von [ ] Schüler gehört,keinem,,kein.dat.em
+KE0049,Dative,A2,She doesn't agree with any idea,Sie ist mit [ ] Idee einverstanden,keiner,,kein.dat.er
+KE0050,Dative,A2,The film didn't appeal to any child,Der Film hat [ ] Kind gefallen,keinem,,kein.dat.em
+KE0051,Nominative,A1,That is not a question,Das ist [ ] Frage,keine,,kein.nom.e
+KE0052,Nominative,A1,There is no milk in the fridge,Im Kühlschrank ist [ ] Milch,keine,,kein.nom.e
+KE0053,Nominative,A1,No train is coming today,Heute kommt [ ] Zug,kein,,kein.nom.none
+KE0054,Nominative,A1,She is not a teacher (female),Sie ist [ ] Lehrerin,keine,,kein.nom.e
+KE0055,Nominative,A1,That is not a good idea,Das ist [ ] gute Idee,keine,,kein.nom.e
+KE0056,Nominative,A1,No shops are open on Sunday,Am Sonntag sind [ ] Geschäfte offen,keine,,kein.nom.e
+KE0057,Nominative,A1,There is no bus stop here,Hier ist [ ] Haltestelle,keine,,kein.nom.e
+KE0058,Nominative,A1,He is not a student,Er ist [ ] Student,kein,,kein.nom.none
+KE0059,Nominative,A1,That is not a joke,Das ist [ ] Witz,kein,,kein.nom.none
+KE0060,Nominative,A1,There is no bread left,Es ist [ ] Brot mehr da,kein,,kein.nom.none
+KE0061,Accusative,A1,I have no time today,Ich habe heute [ ] Zeit,keine,,kein.acc.e
+KE0062,Accusative,A1,We don't have a dog,Wir haben [ ] Hund,keinen,,kein.acc.en
+KE0063,Accusative,A1,She doesn't drink coffee,Sie trinkt [ ] Kaffee,keinen,,kein.acc.en
+KE0064,Accusative,A1,He doesn't eat fish,Er isst [ ] Fisch,keinen,,kein.acc.en
+KE0065,Accusative,A1,I don't have a bike,Ich habe [ ] Fahrrad,kein,,kein.acc.neut
+KE0066,Accusative,A1,We don't need a taxi,Wir brauchen [ ] Taxi,kein,,kein.acc.neut
+KE0067,Accusative,A1,They don't have children,Sie haben [ ] Kinder,keine,,kein.acc.e
+KE0068,Accusative,A1,I'm not buying a ticket,Ich kaufe [ ] Ticket,kein,,kein.acc.neut
+KE0069,Accusative,A1,He doesn't have a girlfriend,Er hat [ ] Freundin,keine,,kein.acc.e
+KE0070,Accusative,A1,I don't understand a word,Ich verstehe [ ] Wort,kein,,kein.acc.neut
+KE0071,Accusative,A1,There are no free seats,Es gibt [ ] freien Plätze,keine,,kein.acc.e
+KE0072,Accusative,A1,She has no siblings,Sie hat [ ] Geschwister,keine,,kein.acc.e
+KE0073,Accusative,A1,I don't have an umbrella,Ich habe [ ] Regenschirm,keinen,,kein.acc.en
+KE0074,Accusative,A1,We don't have a key,Wir haben [ ] Schlüssel,keinen,,kein.acc.en
+KE0075,Dative,A2,I don't live in a village,Ich wohne in [ ] Dorf,keinem,,kein.dat.em
+KE0076,Dative,A2,She doesn't help any stranger,Sie hilft [ ] Fremden,keinem|keiner,"der/die Fremde can be a man or a woman, and the English doesn't say which: keinem (masculine) or keiner (feminine). Dative, because of helfen.",kein.dat.em
+KE0077,Dative,A2,We aren't sitting at a table,Wir sitzen an [ ] Tisch,keinem,,kein.dat.em
+KE0078,Dative,A2,He doesn't believe any newspaper,Er glaubt [ ] Zeitung,keiner,,kein.dat.er
+KE0079,Dative,A2,The child doesn't play with any children,Das Kind spielt mit [ ] Kindern,keinen,,kein.dat.pl
+KE0080,Dative,A2,She isn't talking to any colleague (female),Sie spricht mit [ ] Kollegin,keiner,,kein.dat.er
+KE0081,Dative,A2,He doesn't work in an office,Er arbeitet in [ ] Büro,keinem,,kein.dat.em
+KE0082,Dative,A2,I don't come from a big family,Ich komme aus [ ] großen Familie,keiner,,kein.dat.er
+KE0083,Dative,A2,We aren't going to any party,Wir gehen zu [ ] Party,keiner,,kein.dat.er
+KE0084,Dative,A2,The book doesn't belong to any pupil,Das Buch gehört [ ] Schüler,keinem,,kein.dat.em
+KE0085,Dative,A2,She hasn't thanked any teacher,Sie hat [ ] Lehrer gedankt,keinem,,kein.dat.em
+KE0086,Dative,A2,We didn't meet up with any friends,Wir haben uns mit [ ] Freunden getroffen,keinen,,kein.dat.pl
+KE0087,Dative,A2,I don't trust any stranger,Ich vertraue [ ] Fremden,keinem|keiner,"der/die Fremde can be a man or a woman, and the English doesn't say which: keinem (masculine) or keiner (feminine). Dative, because of vertrauen.",kein.dat.em
+KE0088,Dative,A2,The keys are in no drawer,Die Schlüssel sind in [ ] Schublade,keiner,,kein.dat.er
+KE0089,Dative,A2,The cat isn't sleeping in a basket,Die Katze schläft in [ ] Korb,keinem,,kein.dat.em
+KE0090,Dative,A2,There isn't a picture on any wall,An [ ] Wand hängt ein Bild,keiner,,kein.dat.er
+KE0091,Dative,A2,He isn't waiting at any bus stop,Er wartet an [ ] Haltestelle,keiner,,kein.dat.er
+KE0092,Dative,A2,I'm not sleeping in a hotel,Ich schlafe in [ ] Hotel,keinem,,kein.dat.em
+KE0093,Dative,A2,She isn't sitting on any chair,Sie sitzt auf [ ] Stuhl,keinem,,kein.dat.em
+KE0094,Dative,A2,It doesn't taste good to any guest,Es schmeckt [ ] Gast,keinem,,kein.dat.em
+KE0095,Dative,A2,That doesn't belong to any woman,Das gehört [ ] Frau,keiner,,kein.dat.er
+KE0096,Dative,A2,I'm not writing to any friend today,Ich schreibe heute [ ] Freund,keinem,,kein.dat.em
+KE0097,Dative,A2,We aren't travelling with any group,Wir reisen mit [ ] Gruppe,keiner,,kein.dat.er
+KE0098,Dative,A2,She doesn't work for any doctor,Sie arbeitet bei [ ] Arzt,keinem,,kein.dat.em
+KE0099,Dative,A2,The bus doesn't stop at any station,Der Bus hält an [ ] Bahnhof,keinem,,kein.dat.em
+KE0100,Dative,A2,I haven't been to a concert for a long time,Ich war schon lange auf [ ] Konzert mehr,keinem,,kein.dat.em
+KE0101,Dative,A2,The children don't need help from any adult,Die Kinder brauchen Hilfe von [ ] Erwachsenen,keinem|keiner,"der/die Erwachsene can be a man or a woman, and the English doesn't say which: keinem (masculine) or keiner (feminine). Dative, because of von.",kein.dat.em
+KE0102,Dative,A2,She doesn't shop at any market,Sie kauft auf [ ] Markt ein,keinem,,kein.dat.em
+KE0103,Dative,A2,He doesn't go to any doctor,Er geht zu [ ] Arzt,keinem,,kein.dat.em
+KE0104,Dative,A2,I'm not going to any wedding this year,Ich gehe dieses Jahr zu [ ] Hochzeit,keiner,,kein.dat.er
+KE0105,Dative,A2,The film isn't showing in any cinema,Der Film läuft in [ ] Kino,keinem,,kein.dat.em
+KE0106,Dative,A2,You can't get that at any petrol station,Das bekommt man an [ ] Tankstelle,keiner,,kein.dat.er
+KE0107,Dative,A2,We don't live on any main road,Wir wohnen an [ ] Hauptstraße,keiner,,kein.dat.er
+KE0108,Dative,A2,He doesn't sleep in any bed,Er schläft in [ ] Bett,keinem,,kein.dat.em
+KE0109,Dative,A2,She doesn't stay in any hotel,Sie übernachtet in [ ] Hotel,keinem,,kein.dat.em

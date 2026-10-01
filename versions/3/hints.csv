@@ -1,0 +1,66 @@
+key,text,comment
+gender.suffix,Nouns ending in -{suffix} are {frequency} {gender}.,A noun whose ending matches its gender.
+gender.exception,"Exception: nouns ending in -{suffix} are {frequency} {ruleGender}, but it's {article} {noun}.",A noun that breaks its ending’s usual gender.
+gender.name.M,masculine (der),
+gender.name.F,feminine (die),
+gender.name.N,neuter (das),
+frequency.usually,usually,
+frequency.often,often,
+gender.person,"der {noun} for a man, die {noun} for a woman.",Nouns marked M|F (people).
+gender.both,Both are used: {articles} {noun}.,Nouns with two correct articles; {articles} is e.g. “der or das”.
+gender.or,or,Joins two articles in gender.both.
+vocabulary.pluralOnly,Usually used in the plural: die {noun}.,"Nouns marked P. For nouns with no singular at all, the row’s gender_note says so."
+vocabulary.otherPlurals,Plural: die {plural} (also {others}).,
+plural.afterNumber,After a number it stays singular: 5 {noun}.,"Added for Euro, Cent, Dollar, Pfund, Grad."
+plural.also,Also correct: {plurals}.,"{plurals} is e.g. “die Visen, die Visa”."
+plural.same.diminutive,Nouns ending in -chen or -lein never change in the plural.,
+plural.same.erElEn,"Masculine and neuter nouns ending in -er, -el or -en often don't change in the plural.",
+plural.same.feminine,Same as the singular: die {noun} → die {plural}.,
+plural.same,This plural is the same as the singular – only the article changes to die.,
+plural.adjectival,"Declined like an adjective, not an n-noun: der {noun}, ein {noun}r, die {plural}, (viele) {noun}.","der/die Verwandte, Bekannte…"
+plural.mixed,"Like der Kollege, it adds -n in the plural and in the accusative and dative (den {noun}n), but the genitive is des {noun}ns.","der Name, der Buchstabe…"
+plural.nNoun,"An n-noun (like der Kollege, der Mensch, der Student): -(e)n in the plural, and in every case but the nominative (den Kollegen).",
+plural.umlautEr,This plural adds an umlaut and -er (like das Buch → die Bücher).,
+plural.umlaut,This plural adds an umlaut – watch the vowel change.,
+plural.feminineN,Most feminine nouns form the plural with -(e)n.,
+plural.s,"Words from other languages, and nouns ending in -a, -i, -o, -u or -y, often add -s (Auto → Autos, Oma → Omas).",
+plural.e,Many masculine and neuter nouns add -e in the plural.,
+pronouns.personal,"Personal pronouns: ich · du · er / sie / es · wir · ihr · sie (they) · Sie (you, formal). The verb ending must match.",
+pronouns.reflexive,"Reflexive pronouns – accusative: mich · dich · sich · uns · euch · sich. Dative: mir · dir · sich · uns · euch · sich. Use the dative when there is already another object (Ich wasche mir die Hände), or when the verb takes the dative (helfen: Ich helfe mir).",
+pronouns.interrogative,wer = who (subject) · wen = whom (accusative) · wem = whom (dative: Wem hilfst du? Mit wem?) · wessen = whose · was = what · welcher / welche / welches = which (ends like der / die / das).,
+perfekt.alwaysSein,{infinitive} always takes sein in the Perfekt: er ist {participle}.,sein and bleiben.
+perfekt.werden,werden takes sein in the Perfekt (a change of state): er ist {participle}.,
+perfekt.sein,{infinitive} forms the Perfekt with sein (movement or a change of state): er ist {participle}.,
+perfekt.regional,"{infinitive} takes haben in the north (er hat {participle}); in southern Germany, Austria and Switzerland, sein (er ist {participle}).","stehen, sitzen, liegen."
+perfekt.haben,"{infinitive} forms the Perfekt with haben, like most verbs: er hat {participle}.",
+kein.forms,{case} forms of kein: {forms},
+cases.forms,{case} forms of {word}: {forms},
+adjectives.endings,Endings {context} in the {case}: {forms},
+adjectives.detail,Adjective: {adjective},Shown under the question.
+prepositions.accusative,{preposition} – {meaning} – always takes the accusative.,
+prepositions.dative,{preposition} – {meaning} – always takes the dative.,
+prepositions.twoWay,{preposition} – {meaning} – is a two-way preposition. {why},
+prepositions.moving,"Here there is movement to a place (wohin?), so accusative.",
+prepositions.location,"Here it's about location (wo?), so dative.",
+forms.masculine,(masc.),Labels in the forms lists.
+forms.neuter,(neut.),
+forms.feminine,(fem.),
+forms.plural,(plural),
+table.kein.title,Forms of kein,
+table.kein.note,kein takes the same endings as ein – and it also has a plural.,
+table.cases.Nominative.note,The subject – who or what does something.,
+table.cases.Accusative.note,"The direct object. Only the masculine changes: der → den, ein → einen. n-nouns add -(e)n: den Kollegen, einen Kunden.",
+table.cases.Dative.note,"The indirect object, after dative verbs (helfen, danken…) and dative prepositions. Plural nouns add -n unless they already end in -n or -s (den Kindern, den Autos). n-nouns add -(e)n: dem Kollegen, einem Kunden.",
+table.cases.Genitive.note,"Possession – des Mannes, der Frau.",
+table.adjectives.Definite Article.title,After der / die / das,
+table.adjectives.Definite Article.note,"The article already shows the case, so the adjective only ends in -e or -en.",
+table.adjectives.Indefinite Article.title,After ein / eine / mein / kein,
+table.adjectives.Indefinite Article.note,"Where ein has no ending, the adjective shows the gender: ein kleiner Hund, ein kleines Kind.",
+table.adjectives.No Article.title,No article,
+table.adjectives.No Article.note,"With no article, the adjective takes the ending the article would have had – except the genitive masculine and neuter: -en (trotz schlechten Wetters).",
+table.prepositions.accusative.title,Always accusative,
+table.prepositions.accusative.note,"durch, ohne, gegen, für, um – remember them as “DOGFU” – plus bis and entlang (entlang goes after the noun: den Fluss entlang).",
+table.prepositions.dative.title,Always dative,
+table.prepositions.dative.note,"aus, außer, bei, gegenüber, mit, nach, seit, von, zu – always dative.",
+table.prepositions.two-way.title,Two-way prepositions,
+table.prepositions.two-way.note,"Accusative for movement to some place (wohin?), dative for a location (wo?).",
