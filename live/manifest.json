@@ -1,9 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "format": 1,
-  "published": "2026-10-01T05:14:53+00:00",
+  "published": "2026-10-01T05:21:01+00:00",
   "message": "2.0",
-  "path": "versions/2",
+  "path": "versions/3",
   "files": {
     "adjectiverules.csv": "1f259fdd4e9320317e822ddfc5212ee2aa3a54b8a88daac18e07bc38380059ba",
     "adjectives.csv": "c1798a6577791741893514838e68e762bc46c6dc188e402507f711884b120625",
@@ -15,7 +15,7 @@
     "futur.csv": "120cd5fa0f009a0a1709c96dbd5def275192c579638eeea651717b9498211abc",
     "genitive.csv": "88f575ff41fdd5a8484ecdb7a6dcee0e809be4e5979f62e1bb4f0d4b30b0e8fa",
     "german_nouns.csv": "e99644a839ba0a636060ea3f0e0acb38fb304f243a5a7dee2186377182c3eca2",
-    "hints.csv": "07b9e602f9d886c4950c9e956dda3fd3715a21ad42e9bcf8016e4f9ed301fd16",
+    "hints.csv": "fa2572e2918debee897f0113f327a510a542a6c4bd986436a66f2ef6580c1ca5",
     "kein.csv": "cdd7454eb6dd0e855b1e0f7d090d52e35b429eab5d4e3b45e67949faf561f77d",
     "keinrules.csv": "359c4c41d7660b492e48f300f9011734b2589beb2740cd8701da7acb98c3e366",
     "konjunktiv.csv": "76b6700337e8fea9f16bd18266cded5d74c31f5264d6d7e9978964d9c988342a",
@@ -35,5 +35,5 @@
     "verbs.csv": "1fbb5667169bd96160a4ca8fb387d3dbec69ba903438642267e520abce5d4fb7",
     "wordorder.csv": "f117c9e91bd6631e2afdde30f2993b8afb7775bfc4517cdd302eff12140f858c"
   },
-  "promoted": "2026-10-01T05:15:21+00:00"
+  "promoted": "2026-10-01T05:21:07+00:00"
 }
