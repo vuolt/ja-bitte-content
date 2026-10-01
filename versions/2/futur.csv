@@ -1,0 +1,61 @@
+id,type,level,english,german,answer,hint,note,rule
+FU0001,werden + infinitive,B1,I will come tomorrow.,Ich [ ] morgen kommen.,werde,,,fu.werden
+FU0002,werden + infinitive,B1,You will see. (du),Du [ ] sehen.,wirst,,,fu.werden
+FU0003,werden + infinitive,B1,She will help us.,Sie [ ] uns helfen.,wird,,,fu.werden
+FU0004,werden + infinitive,B1,We will travel to Italy next year.,Wir [ ] nächstes Jahr nach Italien reisen.,werden,,,fu.werden
+FU0005,werden + infinitive,B1,You will learn a lot. (ihr),Ihr [ ] viel lernen.,werdet,,,fu.werden
+FU0006,werden + infinitive,B1,They will build a house.,Sie [ ] ein Haus bauen.,werden,,,fu.werden
+FU0007,werden + infinitive,B1,Will you be there? (Sie),[ ] Sie da sein?,Werden,,,fu.werden
+FU0008,werden + infinitive,B1,It will rain tomorrow.,Es [ ] morgen regnen.,wird,,,fu.werden
+FU0009,werden + infinitive,B1,I will call you.,Ich [ ] dich anrufen.,werde,,,fu.werden
+FU0010,werden + infinitive,B1,He will study medicine.,Er [ ] Medizin studieren.,wird,,,fu.werden
+FU0011,werden + infinitive,B1,We will win.,Wir [ ] gewinnen.,werden,,,fu.werden
+FU0012,werden + infinitive,B1,Will you come with us? (du),[ ] du mitkommen?,Wirst,,,fu.werden
+FU0013,werden + infinitive,B1,The train will be late.,Der Zug [ ] Verspätung haben.,wird,,,fu.werden
+FU0014,werden + infinitive,B1,I will never forget that.,Ich [ ] das nie vergessen.,werde,,,fu.werden
+FU0015,werden + infinitive,B1,My parents will visit me.,Meine Eltern [ ] mich besuchen.,werden,,,fu.werden
+FU0016,werden + infinitive,B1,You will like it. (ihr),Ihr [ ] es mögen.,werdet,,,fu.werden
+FU0017,werden + infinitive,B1,She will move to Berlin.,Sie [ ] nach Berlin ziehen.,wird,,,fu.werden
+FU0018,werden + infinitive,B1,We will see each other again.,Wir [ ] uns wiedersehen.,werden,,,fu.werden
+FU0019,werden + infinitive,B1,In 2050 there will be more people.,2050 [ ] es mehr Menschen geben.,wird,,,fu.werden
+FU0020,werden + infinitive,B1,The shops will close soon.,Die Geschäfte [ ] bald schließen.,werden,,,fu.werden
+FU0021,werden + infinitive,B1,He will pay.,Er [ ] bezahlen.,wird,,,fu.werden
+FU0022,werden + infinitive,B1,You will pass the exam. (du),Du [ ] die Prüfung bestehen.,wirst,,,fu.werden
+FU0023,werden + infinitive,B1,We will not give up.,Wir [ ] nicht aufgeben.,werden,,,fu.werden
+FU0024,werden + infinitive,B1,They will get married in June.,Sie [ ] im Juni heiraten.,werden,,,fu.werden
+FU0025,werden + infinitive,B1,I will write to you.,Ich [ ] dir schreiben.,werde,,,fu.werden
+FU0026,werden + infinitive,B1,Everything will be fine.,Alles [ ] gut werden.,wird,,,fu.werden
+FU0027,werden + infinitive,B1,Will you help? (ihr),[ ] ihr helfen?,Werdet,,,fu.werden
+FU0028,werden + infinitive,B1,The weather will get better.,Das Wetter [ ] besser werden.,wird,,,fu.werden
+FU0029,werden + infinitive,B1,I will wait for you.,Ich [ ] auf dich warten.,werde,,,fu.werden
+FU0030,werden + infinitive,B1,She will not come.,Sie [ ] nicht kommen.,wird,,,fu.werden
+FU0031,werden + infinitive,B1,We will eat at seven.,Wir [ ] um sieben essen.,werden,,,fu.werden
+FU0032,werden + infinitive,B1,He will be angry.,Er [ ] sauer sein.,wird,,,fu.werden
+FU0033,werden + infinitive,B1,You will need a visa. (du),Du [ ] ein Visum brauchen.,wirst,,,fu.werden
+FU0034,werden + infinitive,B1,I will think about it.,Ich [ ] darüber nachdenken.,werde,,,fu.werden
+FU0035,werden + infinitive,B1,They will be back soon.,Sie [ ] bald zurück sein.,werden,,,fu.werden
+FU0036,Probably (wohl),B1,He is probably at home.,Er [ ] wohl zu Hause sein.,wird,,,fu.wohl
+FU0037,Probably (wohl),B1,They are probably tired.,Sie [ ] wohl müde sein.,werden,,,fu.wohl
+FU0038,Probably (wohl),B1,She is probably sleeping.,Sie [ ] wohl schlafen.,wird,,,fu.wohl
+FU0039,Probably (wohl),B1,You are probably right. (du),Du [ ] wohl recht haben.,wirst,,,fu.wohl
+FU0040,Probably (wohl),B1,It is probably raining (right now).,Es [ ] wohl gerade regnen.,wird,,,fu.wohl
+FU0041,Probably (wohl),B1,The children are probably hungry.,Die Kinder [ ] wohl Hunger haben.,werden,,,fu.wohl
+FU0042,Probably (wohl),B1,He probably knows that.,Er [ ] das wohl wissen.,wird,,,fu.wohl
+FU0043,Probably (wohl),B1,That is probably true.,Das [ ] wohl stimmen.,wird,,,fu.wohl
+FU0044,Probably (wohl),B1,We are probably too late.,Wir [ ] wohl zu spät sein.,werden,,,fu.wohl
+FU0045,Probably (wohl),B1,The shop is probably closed.,Der Laden [ ] wohl geschlossen sein.,wird,,,fu.wohl
+FU0046,Probably (wohl),B1,She probably has no time.,Sie [ ] wohl keine Zeit haben.,wird,,,fu.wohl
+FU0047,Probably (wohl),B1,You are probably tired. (ihr),Ihr [ ] wohl müde sein.,werdet,,,fu.wohl
+FU0048,Infinitive at the end,B1,We will fly to Rome.,Wir werden nach Rom [ ].,fliegen,,,fu.end
+FU0049,Infinitive at the end,B1,I will buy a new phone.,Ich werde ein neues Handy [ ].,kaufen,,,fu.end
+FU0050,Infinitive at the end,B1,She will come tomorrow.,Sie wird morgen [ ].,kommen,,,fu.end
+FU0051,Infinitive at the end,B1,They will sell the house.,Sie werden das Haus [ ].,verkaufen,,,fu.end
+FU0052,Infinitive at the end,B1,He will learn Spanish.,Er wird Spanisch [ ].,lernen,,,fu.end
+FU0053,Infinitive at the end,B1,You will find a job. (du),Du wirst eine Arbeit [ ].,finden,,,fu.end
+FU0054,Infinitive at the end,B1,We will eat at home.,Wir werden zu Hause [ ].,essen,,,fu.end
+FU0055,Infinitive at the end,B1,I will call my mother.,Ich werde meine Mutter [ ].,anrufen,,,fu.end
+FU0056,Infinitive at the end,B1,It will snow tonight.,Es wird heute Nacht [ ].,schneien,,,fu.end
+FU0057,Infinitive at the end,B1,They will get married.,Sie werden [ ].,heiraten,,,fu.end
+FU0058,Infinitive at the end,B1,He will stay here.,Er wird hier [ ].,bleiben,,,fu.end
+FU0059,Infinitive at the end,B1,I will read the book.,Ich werde das Buch [ ].,lesen,,,fu.end
+FU0060,Infinitive at the end,B1,We will visit you. (euch),Wir werden euch [ ].,besuchen,,,fu.end

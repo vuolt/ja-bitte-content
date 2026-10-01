@@ -1,0 +1,48 @@
+type,english,german
+Personal Pronouns,I,ich
+Personal Pronouns,You,du
+Personal Pronouns,He,er
+Personal Pronouns,She,sie
+Personal Pronouns,It,es (er / sie for der / die nouns)
+Personal Pronouns,We,wir
+Personal Pronouns,You (plural),ihr
+Personal Pronouns,They,sie
+Personal Pronouns,You (formal),Sie
+Reflexive Pronouns,Myself,mich/mir
+Reflexive Pronouns,Yourself,dich/dir
+Reflexive Pronouns,Himself,sich
+Reflexive Pronouns,Herself,sich
+Reflexive Pronouns,Itself,sich
+Reflexive Pronouns,Ourselves,uns
+Reflexive Pronouns,Yourselves,euch
+Reflexive Pronouns,Themselves,sich
+Reflexive Pronouns,Yourself (formal),sich
+Possessive Pronouns,My,mein
+Possessive Pronouns,Your,dein
+Possessive Pronouns,His,sein
+Possessive Pronouns,Her,ihr
+Possessive Pronouns,Its,sein / ihr
+Possessive Pronouns,Our,unser
+Possessive Pronouns,Your (plural),euer
+Possessive Pronouns,Their,ihr
+Possessive Pronouns,Your (formal),Ihr
+Demonstrative Pronouns,This (masculine),dieser
+Demonstrative Pronouns,This (feminine),diese
+Demonstrative Pronouns,This (neuter),dieses
+Demonstrative Pronouns,These,diese
+Demonstrative Pronouns,"That (masculine) – formal, mostly written",jener
+Demonstrative Pronouns,"That (feminine) – formal, mostly written",jene
+Demonstrative Pronouns,"That (neuter) – formal, mostly written",jenes
+Demonstrative Pronouns,"Those – formal, mostly written",jene
+Interrogative Pronouns,Who,wer
+Interrogative Pronouns,Whom (accusative),wen
+Interrogative Pronouns,Whom (dative),wem
+Interrogative Pronouns,Whose,wessen
+Interrogative Pronouns,What,was
+Interrogative Pronouns,Which (m) (nom.),welcher
+Interrogative Pronouns,Which (m) (acc.),welchen
+Interrogative Pronouns,Which (m) (dat.),welchem
+Interrogative Pronouns,Which (f) (nom./acc.),welche
+Interrogative Pronouns,Which (f) (dat.),welcher
+Interrogative Pronouns,Which (n) (nom./acc.),welches
+Interrogative Pronouns,Which (n) (dat.),welchem

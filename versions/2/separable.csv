@@ -1,0 +1,101 @@
+id,type,level,english,german,answer,hint,note,rule
+SV0001,Present: prefix at the end,B1,I'll call you tomorrow.,Ich rufe dich morgen [ ].,an,,,sv.present
+SV0002,Present: prefix at the end,B1,She gets up at six.,Sie steht um sechs Uhr [ ].,auf,,,sv.present
+SV0003,Present: prefix at the end,B1,We are going shopping today.,Wir kaufen heute [ ].,ein,,,sv.present
+SV0004,Present: prefix at the end,B1,The train leaves at nine.,Der Zug fährt um neun Uhr [ ].,ab|los,,,sv.present
+SV0005,Present: prefix at the end,B1,He is coming along.,Er kommt [ ].,mit,,,sv.present
+SV0006,Present: prefix at the end,B1,When does the film start?,Wann fängt der Film [ ]?,an,,,sv.present
+SV0007,Present: prefix at the end,B1,I'm picking you up.,Ich hole dich [ ].,ab,,,sv.present
+SV0008,Present: prefix at the end,B1,Please close the door. (du),Mach bitte die Tür [ ].,zu,,,sv.present
+SV0009,Present: prefix at the end,B1,She opens the window.,Sie macht das Fenster [ ].,auf,,,sv.present
+SV0010,Present: prefix at the end,B1,We're inviting our friends.,Wir laden unsere Freunde [ ].,ein,,,sv.present
+SV0011,Present: prefix at the end,B1,He is watching TV.,Er sieht [ ].,fern,,,sv.present
+SV0012,Present: prefix at the end,B1,I'm bringing a cake.,Ich bringe einen Kuchen [ ].,mit,,,sv.present
+SV0013,Present: prefix at the end,B1,The plane takes off at ten.,Das Flugzeug fliegt um zehn Uhr [ ].,ab,,,sv.present
+SV0014,Present: prefix at the end,B1,She is tidying up her room.,Sie räumt ihr Zimmer [ ].,auf,,,sv.present
+SV0015,Present: prefix at the end,B1,Are you coming back? (du),Kommst du [ ]?,zurück|wieder,,,sv.present
+SV0016,Present: prefix at the end,B1,I'm getting off at the next stop.,Ich steige an der nächsten Haltestelle [ ].,aus,,,sv.present
+SV0017,Present: prefix at the end,B1,We're getting on the train.,Wir steigen in den Zug [ ].,ein,,,sv.present
+SV0018,Present: prefix at the end,B1,He is putting on his jacket.,Er zieht seine Jacke [ ].,an,,,sv.present
+SV0019,Present: prefix at the end,B1,She is taking off her shoes.,Sie zieht ihre Schuhe [ ].,aus,,,sv.present
+SV0020,Present: prefix at the end,B1,The lesson ends at twelve.,Der Unterricht hört um zwölf Uhr [ ].,auf,,,sv.present
+SV0021,Present: prefix at the end,B1,I'm preparing the dinner.,Ich bereite das Abendessen [ ].,vor|zu,,,sv.present
+SV0022,Present: prefix at the end,B1,They are moving in tomorrow.,Sie ziehen morgen [ ].,ein,,,sv.present
+SV0023,Present: prefix at the end,B1,Please fill in the form. (Sie),Füllen Sie bitte das Formular [ ].,aus,,,sv.present
+SV0024,Present: prefix at the end,B1,I'm switching on the light.,Ich mache das Licht [ ].,an,,,sv.present
+SV0025,Present: prefix at the end,B1,Turn off the TV! (du),Mach den Fernseher [ ]!,aus,,,sv.present
+SV0026,Present: prefix at the end,B1,We are going out tonight.,Wir gehen heute Abend [ ].,aus|weg,,,sv.present
+SV0027,Present: prefix at the end,B1,He is listening.,Er hört [ ].,zu,,,sv.present
+SV0028,Present: prefix at the end,B1,When do you arrive? (ihr),Wann kommt ihr [ ]?,an,,,sv.present
+SV0029,Present: prefix at the end,B1,The meeting takes place on Monday.,Das Treffen findet am Montag [ ].,statt,,,sv.present
+SV0030,Present: prefix at the end,B1,She is looking at the picture.,Sie sieht sich das Bild [ ].,an,,,sv.present
+SV0031,Present: prefix at the end,B1,I'm sending the letter off.,Ich schicke den Brief [ ].,ab,,,sv.present
+SV0032,Present: prefix at the end,B1,He is taking part in the course.,Er nimmt am Kurs [ ].,teil,,,sv.present
+SV0033,Present: prefix at the end,B1,She introduces her friend.,Sie stellt ihren Freund [ ].,vor,,,sv.present
+SV0034,Present: prefix at the end,B1,Come in! (Sie),Kommen Sie [ ]!,herein|rein,,,sv.present
+SV0035,Present: prefix at the end,B1,I'm going back.,Ich gehe [ ].,zurück,,,sv.present
+SV0036,Present: prefix at the end,B1,We're staying up late.,Wir bleiben lange [ ].,auf,,,sv.present
+SV0037,Perfekt: -ge- in the middle,B1,I called her.,Ich habe sie [ ].,angerufen,,,sv.perfekt
+SV0038,Perfekt: -ge- in the middle,B1,She got up early.,Sie ist früh [ ].,aufgestanden,,,sv.perfekt
+SV0039,Perfekt: -ge- in the middle,B1,We went shopping.,Wir haben [ ].,eingekauft,,,sv.perfekt
+SV0040,Perfekt: -ge- in the middle,B1,The train has left.,Der Zug ist [ ].,abgefahren|losgefahren,,,sv.perfekt
+SV0041,Perfekt: -ge- in the middle,B1,He came along.,Er ist [ ].,mitgekommen,,,sv.perfekt
+SV0042,Perfekt: -ge- in the middle,B1,The film has started.,Der Film hat [ ].,angefangen,,,sv.perfekt
+SV0043,Perfekt: -ge- in the middle,B1,I picked him up.,Ich habe ihn [ ].,abgeholt,,,sv.perfekt
+SV0044,Perfekt: -ge- in the middle,B1,She closed the door.,Sie hat die Tür [ ].,zugemacht,,,sv.perfekt
+SV0045,Perfekt: -ge- in the middle,B1,They invited us.,Sie haben uns [ ].,eingeladen,,,sv.perfekt
+SV0046,Perfekt: -ge- in the middle,B1,We watched TV.,Wir haben [ ].,ferngesehen,,,sv.perfekt
+SV0047,Perfekt: -ge- in the middle,B1,He brought wine.,Er hat Wein [ ].,mitgebracht,,,sv.perfekt
+SV0048,Perfekt: -ge- in the middle,B1,The plane took off.,Das Flugzeug ist [ ].,abgeflogen,,,sv.perfekt
+SV0049,Perfekt: -ge- in the middle,B1,I tidied up.,Ich habe [ ].,aufgeräumt,,,sv.perfekt
+SV0050,Perfekt: -ge- in the middle,B1,They came back.,Sie sind [ ].,zurückgekommen|wiedergekommen,,,sv.perfekt
+SV0051,Perfekt: -ge- in the middle,B1,We got off.,Wir sind [ ].,ausgestiegen,,,sv.perfekt
+SV0052,Perfekt: -ge- in the middle,B1,She put on her coat.,Sie hat ihren Mantel [ ].,angezogen,,,sv.perfekt
+SV0053,Perfekt: -ge- in the middle,B1,The rain has stopped.,Der Regen hat [ ].,aufgehört,,,sv.perfekt
+SV0054,Perfekt: -ge- in the middle,B1,I prepared everything.,Ich habe alles [ ].,vorbereitet,,"vorbereiten: the ge- would go between vor and bereiten, but bereiten has no ge- at all (like all -be- verbs), so it's vorbereitet.",sv.perfekt
+SV0055,Perfekt: -ge- in the middle,B1,They moved in.,Sie sind [ ].,eingezogen,,,sv.perfekt
+SV0056,Perfekt: -ge- in the middle,B1,Have you filled in the form? (du),Hast du das Formular [ ]?,ausgefüllt,,,sv.perfekt
+SV0057,Perfekt: -ge- in the middle,B1,We arrived at ten.,Wir sind um zehn Uhr [ ].,angekommen,,,sv.perfekt
+SV0058,Perfekt: -ge- in the middle,B1,The concert took place.,Das Konzert hat [ ].,stattgefunden,,,sv.perfekt
+SV0059,Perfekt: -ge- in the middle,B1,He took part.,Er hat [ ].,teilgenommen,,,sv.perfekt
+SV0060,Perfekt: -ge- in the middle,B1,She introduced herself.,Sie hat sich [ ].,vorgestellt,,,sv.perfekt
+SV0061,zu: prefix + zu + verb,B1,I'm trying to get up earlier.,"Ich versuche, früher [ ].",aufzustehen,,,sv.zu
+SV0062,zu: prefix + zu + verb,B1,It's important to call him.,"Es ist wichtig, ihn [ ].",anzurufen,,,sv.zu
+SV0063,zu: prefix + zu + verb,B1,I don't feel like going shopping.,"Ich habe keine Lust, [ ].",einzukaufen,,,sv.zu
+SV0064,zu: prefix + zu + verb,B1,He forgot to close the door.,"Er hat vergessen, die Tür [ ].",zuzumachen,,,sv.zu
+SV0065,zu: prefix + zu + verb,B1,It's time to tidy up.,"Es ist Zeit, [ ].",aufzuräumen,,,sv.zu
+SV0066,zu: prefix + zu + verb,B1,We plan to come back.,Wir haben vor [ ].,zurückzukommen,,,sv.zu
+SV0067,zu: prefix + zu + verb,B1,She promised to pick me up.,"Sie hat versprochen, mich [ ].",abzuholen,,,sv.zu
+SV0068,zu: prefix + zu + verb,B1,It's fun to watch TV.,"Es macht Spaß, [ ].",fernzusehen,,,sv.zu
+SV0069,zu: prefix + zu + verb,B1,I'm trying to take part.,Ich versuche [ ].,teilzunehmen,,,sv.zu
+SV0070,zu: prefix + zu + verb,B1,Don't forget to bring something! (du),"Vergiss nicht, etwas [ ]!",mitzubringen,,,sv.zu
+SV0071,zu: prefix + zu + verb,B1,It's nice to go out.,"Es ist schön, [ ].",auszugehen,,,sv.zu
+SV0072,zu: prefix + zu + verb,B1,He has decided to move in.,Er hat beschlossen [ ].,einzuziehen,,,sv.zu
+SV0073,zu: prefix + zu + verb,B1,It's difficult to get off here.,"Es ist schwierig, hier [ ].",auszusteigen,,,sv.zu
+SV0074,zu: prefix + zu + verb,B1,I forgot to turn off the light.,"Ich habe vergessen, das Licht [ ].",auszumachen,,,sv.zu
+SV0075,zu: prefix + zu + verb,B1,It's polite to listen.,"Es ist höflich, [ ].",zuzuhören,,,sv.zu
+SV0076,zu: prefix + zu + verb,B1,She began to prepare the meal.,"Sie begann, das Essen [ ].",vorzubereiten|zuzubereiten,,,sv.zu
+SV0077,zu: prefix + zu + verb,B1,Please try to arrive on time. (Sie),"Versuchen Sie bitte, pünktlich [ ].",anzukommen,,,sv.zu
+SV0078,zu: prefix + zu + verb,B1,We have decided to invite them.,"Wir haben beschlossen, sie [ ].",einzuladen,,,sv.zu
+SV0079,zu: prefix + zu + verb,B1,It's healthy to stop smoking.,"Es ist gesund, mit dem Rauchen [ ].",aufzuhören,,,sv.zu
+SV0080,zu: prefix + zu + verb,B1,I'm planning to introduce him.,"Ich habe vor, ihn [ ].",vorzustellen,,,sv.zu
+SV0081,Modal verbs: whole verb at the end,B1,I have to get up early.,Ich muss früh [ ].,aufstehen,,,sv.modal
+SV0082,Modal verbs: whole verb at the end,B1,Can you pick me up? (du),Kannst du mich [ ]?,abholen,,,sv.modal
+SV0083,Modal verbs: whole verb at the end,B1,We want to go shopping.,Wir wollen [ ].,einkaufen,,,sv.modal
+SV0084,Modal verbs: whole verb at the end,B1,She has to call her boss.,Sie muss ihren Chef [ ].,anrufen,,,sv.modal
+SV0085,Modal verbs: whole verb at the end,B1,May I come along?,Darf ich [ ]?,mitkommen,,,sv.modal
+SV0086,Modal verbs: whole verb at the end,B1,You should tidy up. (ihr),Ihr sollt [ ].,aufräumen,,,sv.modal
+SV0087,Modal verbs: whole verb at the end,B1,He wants to watch TV.,Er will [ ].,fernsehen,,,sv.modal
+SV0088,Modal verbs: whole verb at the end,B1,We can't take part.,Wir können nicht [ ].,teilnehmen,,,sv.modal
+SV0089,Modal verbs: whole verb at the end,B1,I would like to invite you. (dich),Ich möchte dich [ ].,einladen,,,sv.modal
+SV0090,Modal verbs: whole verb at the end,B1,You must fill in the form. (du),Du musst das Formular [ ].,ausfüllen,,,sv.modal
+SV0091,Modal verbs: whole verb at the end,B1,They want to move in on Monday.,Sie wollen am Montag [ ].,einziehen,,,sv.modal
+SV0092,Modal verbs: whole verb at the end,B1,Shall we go out?,Sollen wir [ ]?,ausgehen,,,sv.modal
+SV0093,Inseparable prefixes,B1,I understand the question.,Ich [ ] die Frage.,verstehe,,,sv.insep
+SV0094,Inseparable prefixes,B1,She is visiting her aunt.,Sie [ ] ihre Tante.,besucht,,,sv.insep
+SV0095,Inseparable prefixes,B1,We get a lot of post.,Wir [ ] viel Post.,bekommen,,,sv.insep
+SV0096,Inseparable prefixes,B1,He is telling a story.,Er [ ] eine Geschichte.,erzählt,,,sv.insep
+SV0097,Inseparable prefixes,B1,They are paying the bill.,Sie [ ] die Rechnung.,bezahlen|zahlen,,,sv.insep
+SV0098,Inseparable prefixes,B1,I always forget his name.,Ich [ ] immer seinen Namen.,vergesse,,,sv.insep
+SV0099,Inseparable prefixes,B1,She explains the rule.,Sie [ ] die Regel.,erklärt,,,sv.insep
+SV0100,Inseparable prefixes,B1,The story begins in Berlin.,Die Geschichte [ ] in Berlin.,beginnt,,,sv.insep

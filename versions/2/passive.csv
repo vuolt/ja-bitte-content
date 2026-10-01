@@ -1,0 +1,91 @@
+id,type,level,english,german,answer,hint,note,rule
+PA0001,Present,B1,The house is being built.,Das Haus [ ] gebaut.,wird,,,pa.present
+PA0002,Present,B1,The letters are being written.,Die Briefe [ ] geschrieben.,werden,,,pa.present
+PA0003,Present,B1,I am being picked up.,Ich [ ] abgeholt.,werde,,,pa.present
+PA0004,Present,B1,You are being called. (du),Du [ ] gerufen.,wirst,,,pa.present
+PA0005,Present,B1,The car is being repaired.,Das Auto [ ] repariert.,wird,,,pa.present
+PA0006,Present,B1,The children are being taken to school.,Die Kinder [ ] zur Schule gebracht.,werden,,,pa.present
+PA0007,Present,B1,Bread is baked here.,Hier [ ] Brot gebacken.,wird,,,pa.present
+PA0008,Present,B1,German is spoken here.,Hier [ ] Deutsch gesprochen.,wird,,,pa.present
+PA0009,Present,B1,The shop is opened at nine.,Der Laden [ ] um neun geöffnet.,wird,,,pa.present
+PA0010,Present,B1,You are being invited. (ihr),Ihr [ ] eingeladen.,werdet,,,pa.present
+PA0011,Present,B1,The room is being cleaned.,Das Zimmer [ ] geputzt.,wird,,,pa.present
+PA0012,Present,B1,The bills are being paid.,Die Rechnungen [ ] bezahlt.,werden,,,pa.present
+PA0013,Present,B1,The film is being shown.,Der Film [ ] gezeigt.,wird,,,pa.present
+PA0014,Present,B1,I'm being asked.,Ich [ ] gefragt.,werde,,,pa.present
+PA0015,Present,B1,The food is being cooked.,Das Essen [ ] gekocht.,wird,,,pa.present
+PA0016,Present,B1,The windows are being cleaned.,Die Fenster [ ] geputzt.,werden,,,pa.present
+PA0017,Present,B1,The book is being read.,Das Buch [ ] gelesen.,wird,,,pa.present
+PA0018,Present,B1,The tickets are being sold.,Die Tickets [ ] verkauft.,werden,,,pa.present
+PA0019,Present,B1,The door is being closed.,Die Tür [ ] geschlossen.,wird,,,pa.present
+PA0020,Present,B1,The song is being sung.,Das Lied [ ] gesungen.,wird,,,pa.present
+PA0021,Present,B1,The patients are being examined.,Die Patienten [ ] untersucht.,werden,,,pa.present
+PA0022,Present,B1,The homework is being checked.,Die Hausaufgaben [ ] kontrolliert.,werden,,,pa.present
+PA0023,Present,B1,The dog is being fed.,Der Hund [ ] gefüttert.,wird,,,pa.present
+PA0024,Present,B1,You are expected. (du),Du [ ] erwartet.,wirst,,,pa.present
+PA0025,Present,B1,The cake is being cut.,Der Kuchen [ ] geschnitten.,wird,,,pa.present
+PA0026,Present,B1,The flowers are being watered.,Die Blumen [ ] gegossen.,werden,,,pa.present
+PA0027,Present,B1,The letter is being sent.,Der Brief [ ] geschickt.,wird,,,pa.present
+PA0028,Present,B1,The presents are being wrapped.,Die Geschenke [ ] eingepackt.,werden,,,pa.present
+PA0029,Present,B1,The table is being set.,Der Tisch [ ] gedeckt.,wird,,,pa.present
+PA0030,Present,B1,The photo is being taken.,Das Foto [ ] gemacht.,wird,,,pa.present
+PA0031,Präteritum,B1,The house was built in 1990.,Das Haus [ ] 1990 gebaut.,wurde,,,pa.past
+PA0032,Präteritum,B1,The letters were sent.,Die Briefe [ ] geschickt.,wurden,,,pa.past
+PA0033,Präteritum,B1,I was invited by phone.,Ich [ ] telefonisch eingeladen.,wurde,,,pa.past
+PA0034,Präteritum,B1,You were called. (du),Du [ ] angerufen.,wurdest,,,pa.past
+PA0035,Präteritum,B1,The car was repaired yesterday.,Das Auto [ ] gestern repariert.,wurde,,,pa.past
+PA0036,Präteritum,B1,The children were picked up.,Die Kinder [ ] abgeholt.,wurden,,,pa.past
+PA0037,Präteritum,B1,The bridge was opened.,Die Brücke [ ] eröffnet.,wurde,,,pa.past
+PA0038,Präteritum,B1,The shop was closed down last year.,Der Laden [ ] letztes Jahr geschlossen.,wurde,,,pa.past
+PA0039,Präteritum,B1,You were seen. (ihr),Ihr [ ] gesehen.,wurdet,,,pa.past
+PA0040,Präteritum,B1,The film was shot in Berlin.,Der Film [ ] in Berlin gedreht.,wurde,,,pa.past
+PA0041,Präteritum,B1,The windows were cleaned yesterday.,Die Fenster [ ] gestern geputzt.,wurden,,,pa.past
+PA0042,Präteritum,B1,The book was written in 1850.,Das Buch [ ] 1850 geschrieben.,wurde,,,pa.past
+PA0043,Präteritum,B1,The bill was paid yesterday.,Die Rechnung [ ] gestern bezahlt.,wurde,,,pa.past
+PA0044,Präteritum,B1,The thief was caught.,Der Dieb [ ] gefasst.,wurde,,,pa.past
+PA0045,Präteritum,B1,The tickets were sold.,Die Tickets [ ] verkauft.,wurden,,,pa.past
+PA0046,Präteritum,B1,The city was destroyed in 1945.,Die Stadt [ ] 1945 zerstört.,wurde,,,pa.past
+PA0047,Präteritum,B1,The letter was found.,Der Brief [ ] gefunden.,wurde,,,pa.past
+PA0048,Präteritum,B1,The pupils were praised.,Die Schüler [ ] gelobt.,wurden,,,pa.past
+PA0049,Präteritum,B1,The dog was fed.,Der Hund [ ] gefüttert.,wurde,,,pa.past
+PA0050,Präteritum,B1,We were picked up.,Wir [ ] abgeholt.,wurden,,,pa.past
+PA0051,Präteritum,B1,The problem was solved yesterday.,Das Problem [ ] gestern gelöst.,wurde,,,pa.past
+PA0052,Präteritum,B1,The photos were taken yesterday.,Die Fotos [ ] gestern gemacht.,wurden,,,pa.past
+PA0053,Präteritum,B1,I was asked.,Ich [ ] gefragt.,wurde,,,pa.past
+PA0054,Präteritum,B1,The presents were wrapped yesterday.,Die Geschenke [ ] gestern eingepackt.,wurden,,,pa.past
+PA0055,Perfekt,B1,The house has been built.,Das Haus ist gebaut [ ].,worden,,,pa.perf.worden
+PA0056,Perfekt,B1,The letters have been sent.,Die Briefe sind geschickt [ ].,worden,,,pa.perf.worden
+PA0057,Perfekt,B1,I have been invited.,Ich [ ] eingeladen worden.,bin,,,pa.perf.sein
+PA0058,Perfekt,B1,You have been called. (du),Du [ ] angerufen worden.,bist,,,pa.perf.sein
+PA0059,Perfekt,B1,The car has been repaired.,Das Auto [ ] repariert worden.,ist,,,pa.perf.sein
+PA0060,Perfekt,B1,The children have been picked up.,Die Kinder [ ] abgeholt worden.,sind,,,pa.perf.sein
+PA0061,Perfekt,B1,The shop has been closed.,Der Laden ist geschlossen [ ].,worden,,,pa.perf.worden
+PA0062,Perfekt,B1,The bill has been paid.,Die Rechnung ist bezahlt [ ].,worden,,,pa.perf.worden
+PA0063,Perfekt,B1,We have been seen.,Wir [ ] gesehen worden.,sind,,,pa.perf.sein
+PA0064,Perfekt,B1,The problem has been solved.,Das Problem ist gelöst [ ].,worden,,,pa.perf.worden
+PA0065,Perfekt,B1,You have been invited. (ihr),Ihr [ ] eingeladen worden.,seid,,,pa.perf.sein
+PA0066,Perfekt,B1,The thief has been caught.,Der Dieb ist gefasst [ ].,worden,,,pa.perf.worden
+PA0067,With modal verbs,B1,The car must be repaired.,Das Auto muss repariert [ ].,werden,,,pa.modal.werden
+PA0068,With modal verbs,B1,The letter has to be sent today.,Der Brief muss heute geschickt [ ].,werden,,,pa.modal.werden
+PA0069,With modal verbs,B1,The window can be opened.,Das Fenster kann geöffnet [ ].,werden,,,pa.modal.werden
+PA0070,With modal verbs,B1,The homework must be done.,Die Hausaufgaben [ ] gemacht werden.,müssen,,,pa.modal.modal
+PA0071,With modal verbs,B1,The room should be cleaned.,Das Zimmer [ ] geputzt werden.,soll|sollte,,,pa.modal.modal
+PA0072,With modal verbs,B1,The tickets can be bought online.,Die Tickets [ ] online gekauft werden.,können,,,pa.modal.modal
+PA0073,With modal verbs,B1,The dog must be fed.,Der Hund [ ] gefüttert werden.,muss,,,pa.modal.modal
+PA0074,With modal verbs,B1,The film may be shown.,Der Film darf gezeigt [ ].,werden,,,pa.modal.werden
+PA0075,With modal verbs,B1,The bill must be paid.,Die Rechnung [ ] bezahlt werden.,muss,,,pa.modal.modal
+PA0076,With modal verbs,B1,The door has to be closed.,Die Tür muss geschlossen [ ].,werden,,,pa.modal.werden
+PA0077,With modal verbs,B1,The children must be picked up.,Die Kinder [ ] abgeholt werden.,müssen,,,pa.modal.modal
+PA0078,With modal verbs,B1,The problem can be solved.,Das Problem kann gelöst [ ].,werden,,,pa.modal.werden
+PA0079,Participle,B1,The house is being built.,Das Haus wird [ ].,gebaut,,,pa.part.ge
+PA0080,Participle,B1,The letter is being written.,Der Brief wird [ ].,geschrieben,,,pa.part.ge
+PA0081,Participle,B1,The car was repaired.,Das Auto wurde [ ].,repariert,,,pa.part.nog
+PA0082,Participle,B1,The children are being picked up.,Die Kinder werden [ ].,abgeholt,,,pa.part.sep
+PA0083,Participle,B1,The shop was closed.,Der Laden wurde [ ].,geschlossen,,,pa.part.ge
+PA0084,Participle,B1,The food is being cooked.,Das Essen wird [ ].,gekocht,,,pa.part.ge
+PA0085,Participle,B1,The problem was solved.,Das Problem wurde [ ].,gelöst,,,pa.part.ge
+PA0086,Participle,B1,The tickets are being sold.,Die Tickets werden [ ].,verkauft,,,pa.part.nog
+PA0087,Participle,B1,The thief was caught.,Der Dieb wurde [ ].,gefasst|gefangen|erwischt,,"fassen → gefasst and fangen → gefangen take ge-, as in the Perfekt. erwischen has the unstressed prefix er-, so no ge-: erwischt.",pa.part.ge
+PA0088,Participle,B1,The bill has been paid.,Die Rechnung ist [ ] worden.,bezahlt|gezahlt,,"bezahlen has the prefix be-, so no ge-: bezahlt. zahlen takes ge-: gezahlt.",pa.part.nog
+PA0089,Participle,B1,The song is being sung.,Das Lied wird [ ].,gesungen,,,pa.part.ge
+PA0090,Participle,B1,The city was destroyed.,Die Stadt wurde [ ].,zerstört,,,pa.part.nog
