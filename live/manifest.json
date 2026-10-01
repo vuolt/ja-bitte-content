@@ -1,14 +1,14 @@
 {
-  "version": 1,
+  "version": 2,
   "format": 1,
-  "published": "2026-10-01T05:03:08+00:00",
+  "published": "2026-10-01T05:14:53+00:00",
   "message": "2.0",
-  "path": "versions/1",
+  "path": "versions/2",
   "files": {
     "adjectiverules.csv": "1f259fdd4e9320317e822ddfc5212ee2aa3a54b8a88daac18e07bc38380059ba",
     "adjectives.csv": "c1798a6577791741893514838e68e762bc46c6dc188e402507f711884b120625",
     "adjectivewords.csv": "653ffa12852f3fde1dc5e949984463547108881f55183d90300cd8623f037e89",
-    "b1rules.csv": "0336882d92060594e2100548da27976446fd0dfd36a01fc8e9470fb01865c2e2",
+    "b1rules.csv": "eae02bc1de85f56d9414b9076bded5f8eabcf79603f2bdf2164b9e52a21ac627",
     "Cases.csv": "d705e35a8a4a9cbc444875d0dd5f181a9a6e7901400e9dc1f633f1c77a45c510",
     "casesrules.csv": "b838308f50b71fd0858c6cda87b425c22a82e59eaab733deb9f3ef75ce2eb3e8",
     "comparison.csv": "642c01f1b860db16b21252bc2e4461469b4ad583728d6af090d3cd42448ffa6f",
@@ -35,5 +35,5 @@
     "verbs.csv": "1fbb5667169bd96160a4ca8fb387d3dbec69ba903438642267e520abce5d4fb7",
     "wordorder.csv": "f117c9e91bd6631e2afdde30f2993b8afb7775bfc4517cdd302eff12140f858c"
   },
-  "promoted": "2026-10-01T05:03:50+00:00"
+  "promoted": "2026-10-01T05:15:21+00:00"
 }
