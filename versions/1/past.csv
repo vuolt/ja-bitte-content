@@ -1,0 +1,164 @@
+id,english,level,infinitive,auxiliary,participle,note,rule
+PT0001,go,A1,gehen,sein,gegangen,,past.strong.change+past.sein.move
+PT0002,come,A1,kommen,sein,gekommen,,past.strong.same+past.sein.move
+PT0003,make,A1,machen,haben,gemacht,,past.weak+past.haben
+PT0004,give,A2,geben,haben,gegeben,,past.strong.same+past.haben
+PT0005,see,A1,sehen,haben,gesehen,,past.strong.same+past.haben
+PT0006,visit,A1,besuchen,haben,besucht,,past.insep+past.haben
+PT0007,love,A2,lieben,haben,geliebt,,past.weak+past.haben
+PT0008,buy,A1,kaufen,haben,gekauft,,past.weak+past.haben
+PT0009,find,A2,finden,haben,gefunden,,past.strong.change+past.haben
+PT0010,eat,A1,essen,haben,gegessen,,past.essen+past.haben
+PT0011,drink,A1,trinken,haben,getrunken,,past.strong.change+past.haben
+PT0012,sleep,A1,schlafen,haben,geschlafen,,past.strong.same+past.haben
+PT0013,work,A1,arbeiten,haben,gearbeitet,,past.weak-et+past.haben
+PT0014,play,A1,spielen,haben,gespielt,,past.weak+past.haben
+PT0015,drive,A1,fahren,sein,gefahren,fahren takes sein when you travel: er ist gefahren. With an object it takes haben: er hat das Auto gefahren.,past.strong.same+past.sein.move
+PT0016,fly,A2,fliegen,sein,geflogen,,past.strong.change+past.sein.move
+PT0017,run,A2,laufen,sein,gelaufen,,past.strong.same+past.sein.move
+PT0018,speak,A1,sprechen,haben,gesprochen,,past.strong.change+past.haben
+PT0019,say,A1,sagen,haben,gesagt,,past.weak+past.haben
+PT0020,ask,A1,fragen,haben,gefragt,,past.weak+past.haben
+PT0021,hate,A2,hassen,haben,gehasst,,past.weak+past.haben
+PT0022,bring,A2,bringen,haben,gebracht,,past.mixed+past.haben
+PT0023,take,A2,nehmen,haben,genommen,,past.strong.change+past.haben
+PT0024,help,A2,helfen,haben,geholfen,,past.strong.change+past.haben
+PT0025,wait,A2,warten,haben,gewartet,,past.weak-et+past.haben
+PT0026,live,A1,wohnen,haben,gewohnt,,past.weak+past.haben
+PT0027,think,A2,denken,haben,gedacht,,past.mixed+past.haben
+PT0028,read,A1,lesen,haben,gelesen,,past.strong.same+past.haben
+PT0029,write,A1,schreiben,haben,geschrieben,,past.strong.change+past.haben
+PT0030,answer,A2,antworten,haben,geantwortet,,past.weak-et+past.haben
+PT0031,search,A2,suchen,haben,gesucht,,past.weak+past.haben
+PT0032,understand,A2,verstehen,haben,verstanden,,past.insep+past.haben
+PT0033,open,A2,öffnen,haben,geöffnet,,past.weak-et+past.haben
+PT0034,close,A2,schließen,haben,geschlossen,,past.strong.change+past.haben
+PT0035,begin,A2,beginnen,haben,begonnen,,past.insep+past.haben
+PT0036,meet,A2,treffen,haben,getroffen,,past.strong.change+past.haben
+PT0037,swim,A2,schwimmen,sein,geschwommen,schwimmen usually takes sein (movement): er ist geschwommen. For the activity itself haben is also correct: Ich habe zwei Stunden geschwommen.,past.strong.change+past.sein.move
+PT0038,shower,A1,duschen,haben,geduscht,,past.weak+past.haben
+PT0039,travel,A1,reisen,sein,gereist,,past.weak+past.sein.move
+PT0040,laugh,A1,lachen,haben,gelacht,,past.weak+past.haben
+PT0041,be,A1,sein,sein,gewesen,,past.gewesen+past.sein.stay
+PT0042,have,A1,haben,haben,gehabt,,past.weak+past.haben
+PT0043,become,A2,werden,sein,geworden,,past.strong.change+past.sein.change
+PT0044,know (a fact),A2,wissen,haben,gewusst,,past.mixed+past.haben
+PT0045,be called,A2,heißen,haben,geheißen,,past.strong.same+past.haben
+PT0046,learn,A1,lernen,haben,gelernt,,past.weak+past.haben
+PT0047,cook,A1,kochen,haben,gekocht,,past.weak+past.haben
+PT0048,dance,A2,tanzen,haben,getanzt,,past.weak+past.haben
+PT0049,hear,A1,hören,haben,gehört,,past.weak+past.haben
+PT0050,know (be familiar with),A2,kennen,haben,gekannt,,past.mixed+past.haben
+PT0051,stand,A2,stehen,haben,gestanden,,past.strong.change+past.regional
+PT0052,sit,A2,sitzen,haben,gesessen,,past.strong.change+past.regional
+PT0053,lie (be lying),A2,liegen,haben,gelegen,,past.strong.change+past.regional
+PT0054,wear (or) carry,A2,tragen,haben,getragen,,past.strong.same+past.haben
+PT0055,forget,A2,vergessen,haben,vergessen,,past.insep+past.haben
+PT0056,stay,A2,bleiben,sein,geblieben,,past.strong.change+past.sein.stay
+PT0057,fall,A2,fallen,sein,gefallen,,past.strong.same+past.sein.move
+PT0058,recommend,B1,empfehlen,haben,empfohlen,,past.insep+past.haben
+PT0059,decide,B1,entscheiden,haben,entschieden,,past.insep+past.haben
+PT0060,develop,B1,entwickeln,haben,entwickelt,,past.insep+past.haben
+PT0061,achieve (or) reach,B1,erreichen,haben,erreicht,,past.insep+past.haben
+PT0062,experience,B1,erleben,haben,erlebt,,past.insep+past.haben
+PT0063,allow,B1,erlauben,haben,erlaubt,,past.insep+past.haben
+PT0064,find out,B1,erfahren,haben,erfahren,,past.insep+past.haben
+PT0065,invent,B1,erfinden,haben,erfunden,,past.insep+past.haben
+PT0066,tell (a story),B1,erzählen,haben,erzählt,,past.insep+past.haben
+PT0067,explain,B1,erklären,haben,erklärt,,past.insep+past.haben
+PT0068,recognise,B1,erkennen,haben,erkannt,,past.insep+past.haben
+PT0069,receive (or) get,B1,erhalten,haben,erhalten,,past.insep+past.haben
+PT0070,expect,B1,erwarten,haben,erwartet,,past.insep+past.haben
+PT0071,mention,B1,erwähnen,haben,erwähnt,,past.insep+past.haben
+PT0072,avoid,B1,vermeiden,haben,vermieden,,past.insep+past.haben
+PT0073,miss (someone),B1,vermissen,haben,vermisst,,past.insep+past.haben
+PT0074,promise,B1,versprechen,haben,versprochen,,past.insep+past.haben
+PT0075,try,B1,versuchen,haben,versucht,,past.insep+past.haben
+PT0076,lose,B1,verlieren,haben,verloren,,past.insep+past.haben
+PT0077,compare,B1,vergleichen,haben,verglichen,,past.insep+past.haben
+PT0078,improve,B1,verbessern,haben,verbessert,,past.insep+past.haben
+PT0079,change,B1,verändern,haben,verändert,,past.insep+past.haben
+PT0080,earn (or) deserve,B1,verdienen,haben,verdient,,past.insep+past.haben
+PT0081,sell,B1,verkaufen,haben,verkauft,,past.insep+past.haben
+PT0082,postpone (or) move,B1,verschieben,haben,verschoben,,past.insep+past.haben
+PT0083,belong to,B1,gehören,haben,gehört,,past.insep+past.haben
+PT0084,win,B1,gewinnen,haben,gewonnen,,past.insep+past.haben
+PT0085,describe,B1,beschreiben,haben,beschrieben,,past.insep+past.haben
+PT0086,decide (or) resolve,B1,beschließen,haben,beschlossen,,past.insep+past.haben
+PT0087,influence,B1,beeinflussen,haben,beeinflusst,,past.insep+past.haben
+PT0088,prove,B1,beweisen,haben,bewiesen,,past.insep+past.haben
+PT0089,consider (or) think about,B1,überlegen,haben,überlegt,,past.insep+past.haben
+PT0090,convince,B1,überzeugen,haben,überzeugt,,past.insep+past.haben
+PT0091,translate,B1,übersetzen,haben,übersetzt,,past.insep+past.haben
+PT0092,support,B1,unterstützen,haben,unterstützt,,past.insep+past.haben
+PT0093,distinguish,B1,unterscheiden,haben,unterschieden,,past.insep+past.haben
+PT0094,interrupt,B1,unterbrechen,haben,unterbrochen,,past.insep+past.haben
+PT0095,hold (or) stop,B1,halten,haben,gehalten,,past.strong.same+past.haben
+PT0096,let (or) leave,B1,lassen,haben,gelassen,,past.strong.same+past.haben
+PT0097,throw,B1,werfen,haben,geworfen,,past.strong.change+past.haben
+PT0098,push (or) press,B1,drücken,haben,gedrückt,,past.weak+past.haben
+PT0099,pull,B1,ziehen,haben,gezogen,,past.strong.change+past.haben
+PT0100,move (house),B1,umziehen,sein,umgezogen,,past.sep+past.sein.move
+PT0101,shine (or) seem,B1,scheinen,haben,geschienen,,past.strong.change+past.haben
+PT0102,grow,B1,wachsen,sein,gewachsen,,past.strong.same+past.sein.change
+PT0103,die,B1,sterben,sein,gestorben,,past.strong.change+past.sein.change
+PT0104,lie (tell a lie),B1,lügen,haben,gelogen,,past.strong.change+past.haben
+PT0105,cry,B1,weinen,haben,geweint,,past.weak+past.haben
+PT0106,build,B1,bauen,haben,gebaut,,past.weak+past.haben
+PT0107,bake,B1,backen,haben,gebacken,,past.strong.same+past.haben
+PT0108,sing,B1,singen,haben,gesungen,,past.strong.change+past.haben
+PT0109,decide (or) determine,B1,bestimmen,haben,bestimmt,,past.insep+past.haben
+PT0110,plan,B1,planen,haben,geplant,,past.weak+past.haben
+PT0111,solve,B1,lösen,haben,gelöst,,past.weak+past.haben
+PT0112,repair,B1,reparieren,haben,repariert,,past.ieren+past.haben
+PT0113,organise,B1,organisieren,haben,organisiert,,past.ieren+past.haben
+PT0114,discuss,B1,diskutieren,haben,diskutiert,,past.ieren+past.haben
+PT0115,inform,B1,informieren,haben,informiert,,past.ieren+past.haben
+PT0116,check,B1,prüfen,haben,geprüft,,past.weak+past.haben
+PT0117,touch (or) concern,B1,berühren,haben,berührt,,past.insep+past.haben
+PT0118,greet,B1,grüßen,haben,gegrüßt,,past.weak+past.haben
+PT0119,need,A1,brauchen,haben,gebraucht,,past.weak+past.haben
+PT0120,cost,A1,kosten,haben,gekostet,,past.weak-et+past.haben
+PT0121,show,A1,zeigen,haben,gezeigt,,past.weak+past.haben
+PT0122,pay,A1,zahlen,haben,gezahlt,,past.weak+past.haben
+PT0123,pay (for),A1,bezahlen,haben,bezahlt,,past.insep+past.haben
+PT0124,believe,A1,glauben,haben,geglaubt,,past.weak+past.haben
+PT0125,taste,A1,schmecken,haben,geschmeckt,,past.weak+past.haben
+PT0126,wish,A1,wünschen,haben,gewünscht,,past.weak+past.haben
+PT0127,give (as a present),A1,schenken,haben,geschenkt,,past.weak+past.haben
+PT0128,fetch (or) get,A1,holen,haben,geholt,,past.weak+past.haben
+PT0129,study (at university),A1,studieren,haben,studiert,,past.ieren+past.haben
+PT0130,telephone (or) call,A1,telefonieren,haben,telefoniert,,past.ieren+past.haben
+PT0131,celebrate,A1,feiern,haben,gefeiert,,past.weak+past.haben
+PT0132,fit (or) suit,A1,passen,haben,gepasst,,past.weak+past.haben
+PT0133,send,A1,schicken,haben,geschickt,,past.weak+past.haben
+PT0134,thank,A1,danken,haben,gedankt,,past.weak+past.haben
+PT0135,have breakfast,A1,frühstücken,haben,gefrühstückt,,past.weak+past.haben
+PT0136,order (food or goods),A1,bestellen,haben,bestellt,,past.insep+past.haben
+PT0137,get (or) receive,A1,bekommen,haben,bekommen,,past.insep+past.haben
+PT0138,please (or) appeal to,A1,gefallen,haben,gefallen,,past.insep+past.haben
+PT0139,smoke,A1,rauchen,haben,geraucht,,past.weak+past.haben
+PT0140,wash,A1,waschen,haben,gewaschen,,past.strong.same+past.haben
+PT0141,lay (or) put down,A2,legen,haben,gelegt,,past.weak+past.haben
+PT0142,put (upright) (or) place,A2,stellen,haben,gestellt,,past.weak+past.haben
+PT0143,hang (something up),A2,hängen,haben,gehängt,,past.weak+past.haben
+PT0144,hope,A2,hoffen,haben,gehofft,,past.weak+past.haben
+PT0145,clean,A2,putzen,haben,geputzt,,past.weak+past.haben
+PT0146,be missing (or) be absent,A2,fehlen,haben,gefehlt,,past.weak+past.haben
+PT0147,practise,A2,üben,haben,geübt,,past.weak+past.haben
+PT0148,hike,A2,wandern,sein,gewandert,,past.weak+past.sein.move
+PT0149,feel,A2,fühlen,haben,gefühlt,,past.weak+past.haben
+PT0150,pack,A2,packen,haben,gepackt,,past.weak+past.haben
+PT0151,park,A2,parken,haben,geparkt,,past.weak+past.haben
+PT0152,save (money),A2,sparen,haben,gespart,,past.weak+past.haben
+PT0153,disturb,A2,stören,haben,gestört,,past.weak+past.haben
+PT0154,share (or) divide,A2,teilen,haben,geteilt,,past.weak+past.haben
+PT0155,choose (or) vote,A2,wählen,haben,gewählt,,past.weak+past.haben
+PT0156,cut,A2,schneiden,haben,geschnitten,,past.strong.change+past.haben
+PT0157,hit (or) beat,A2,schlagen,haben,geschlagen,,past.strong.same+past.haben
+PT0158,break (something),A2,brechen,haben,gebrochen,"brechen takes haben when you break something: Er hat sich das Bein gebrochen. Sie hat ihr Versprechen gebrochen. When something breaks by itself, it takes sein: Das Eis ist gebrochen.",past.strong.change+past.haben
+PT0159,advise (or) guess,A2,raten,haben,geraten,,past.strong.same+past.haben
+PT0160,sleep in (or) oversleep,A2,verschlafen,haben,verschlafen,,past.insep+past.haben
+PT0161,rent (or) hire,A2,mieten,haben,gemietet,,past.weak-et+past.haben
+PT0162,book (a table or a trip),A2,buchen,haben,gebucht,,past.weak+past.haben
+PT0163,collect (or) gather,A2,sammeln,haben,gesammelt,,past.weak+past.haben

@@ -1,0 +1,101 @@
+id,type,level,english,german,answer,hint,note,rule
+RE0001,Nominative,B1,The man who lives there is my teacher.,"Der Mann, [ ] dort wohnt, ist mein Lehrer.",der,,,rel.nom
+RE0002,Nominative,B1,The woman who is speaking is my boss.,"Die Frau, [ ] gerade spricht, ist meine Chefin.",die,,,rel.nom
+RE0003,Nominative,B1,The child that is playing there is my son.,"Das Kind, [ ] dort spielt, ist mein Sohn.",das,,,rel.nom
+RE0004,Nominative,B1,The people who live here are friendly.,"Die Leute, [ ] hier wohnen, sind freundlich.",die,,,rel.nom
+RE0005,Nominative,B1,The car that is parked there is new.,"Das Auto, [ ] dort steht, ist neu.",das,,,rel.nom
+RE0006,Nominative,B1,The dog that is barking belongs to me.,"Der Hund, [ ] bellt, gehört mir.",der,,,rel.nom
+RE0007,Nominative,B1,The flowers that are on the table are from him.,"Die Blumen, [ ] auf dem Tisch stehen, sind von ihm.",die,,,rel.nom
+RE0008,Nominative,B1,I have a friend who lives in Rome.,"Ich habe einen Freund, [ ] in Rom wohnt.",der,,,rel.nom
+RE0009,Nominative,B1,That's the bakery that has the best bread.,"Das ist die Bäckerei, [ ] das beste Brot hat.",die,,,rel.nom
+RE0010,Nominative,B1,That's the book that was so popular.,"Das ist das Buch, [ ] so beliebt war.",das,,,rel.nom
+RE0011,Nominative,B1,I know a woman who speaks five languages.,"Ich kenne eine Frau, [ ] fünf Sprachen spricht.",die,,,rel.nom
+RE0012,Nominative,B1,The train that goes to Munich leaves at nine.,"Der Zug, [ ] nach München fährt, geht um neun.",der,,,rel.nom
+RE0013,Nominative,B1,The students who are learning German are motivated.,"Die Studenten, [ ] Deutsch lernen, sind motiviert.",die,,,rel.nom
+RE0014,Nominative,B1,The film that is on now is boring.,"Der Film, [ ] gerade läuft, ist langweilig.",der,,,rel.nom
+RE0015,Nominative,B1,The house that is for sale is old.,"Das Haus, [ ] zum Verkauf steht, ist alt.",das,,,rel.nom
+RE0016,Nominative,B1,The teacher who teaches us is strict.,"Die Lehrerin, [ ] uns unterrichtet, ist streng.",die,,,rel.nom
+RE0017,Nominative,B1,The bus that goes to the airport is late.,"Der Bus, [ ] zum Flughafen fährt, hat Verspätung.",der,,,rel.nom
+RE0018,Nominative,B1,The apple that is on the table is mine.,"Der Apfel, [ ] auf dem Tisch liegt, gehört mir.",der,,,rel.nom
+RE0019,Nominative,B1,The girl who is singing is my sister.,"Das Mädchen, [ ] singt, ist meine Schwester.",das,,,rel.nom
+RE0020,Nominative,B1,The shoes that are in the window are expensive.,"Die Schuhe, [ ] im Schaufenster stehen, sind teuer.",die,,,rel.nom
+RE0021,Nominative,B1,The doctor who treated me was very nice.,"Der Arzt, [ ] mich behandelt hat, war sehr nett.",der,,,rel.nom
+RE0022,Nominative,B1,The city that lies on the Rhine is Cologne.,"Die Stadt, [ ] am Rhein liegt, ist Köln.",die,,,rel.nom
+RE0023,Nominative,B1,The problem that worries me is money.,"Das Problem, [ ] mich beschäftigt, ist Geld.",das,,,rel.nom
+RE0024,Nominative,B1,The children who live next door are loud.,"Die Kinder, [ ] nebenan wohnen, sind laut.",die,,,rel.nom
+RE0025,Nominative,B1,The restaurant that just opened is good.,"Das Restaurant, [ ] gerade eröffnet hat, ist gut.",das,,,rel.nom
+RE0026,Nominative,B1,The man who is wearing the hat is my uncle.,"Der Mann, [ ] den Hut trägt, ist mein Onkel.",der,,,rel.nom
+RE0027,Nominative,B1,The woman who just called is my mother.,"Die Frau, [ ] gerade angerufen hat, ist meine Mutter.",die,,,rel.nom
+RE0028,Nominative,B1,The bike that is in the garage is broken.,"Das Fahrrad, [ ] in der Garage steht, ist kaputt.",das,,,rel.nom
+RE0029,Nominative,B1,The colleagues who work here are nice.,"Die Kollegen, [ ] hier arbeiten, sind nett.",die,,,rel.nom
+RE0030,Nominative,B1,The cake that is on the table is for you.,"Der Kuchen, [ ] auf dem Tisch steht, ist für dich.",der,,,rel.nom
+RE0031,Accusative,B1,The man I met is a doctor.,"Der Mann, [ ] ich getroffen habe, ist Arzt.",den,,,rel.acc.den
+RE0032,Accusative,B1,The woman you see is my aunt.,"Die Frau, [ ] du siehst, ist meine Tante.",die,,,rel.acc
+RE0033,Accusative,B1,The book I'm reading is exciting.,"Das Buch, [ ] ich lese, ist spannend.",das,,,rel.acc
+RE0034,Accusative,B1,The friends we invited are coming at eight.,"Die Freunde, [ ] wir eingeladen haben, kommen um acht.",die,,,rel.acc
+RE0035,Accusative,B1,The film we saw was great.,"Der Film, [ ] wir gesehen haben, war toll.",den,,,rel.acc.den
+RE0036,Accusative,B1,The car he bought is red.,"Das Auto, [ ] er gekauft hat, ist rot.",das,,,rel.acc
+RE0037,Accusative,B1,The cake she baked tastes good.,"Der Kuchen, [ ] sie gebacken hat, schmeckt gut.",den,,,rel.acc.den
+RE0038,Accusative,B1,The music I like is old.,"Die Musik, [ ] ich mag, ist alt.",die,,,rel.acc
+RE0039,Accusative,B1,The city we visited was beautiful.,"Die Stadt, [ ] wir besucht haben, war schön.",die,,,rel.acc
+RE0040,Accusative,B1,The dog I'm looking for is small.,"Der Hund, [ ] ich suche, ist klein.",den,,,rel.acc.den
+RE0041,Accusative,B1,The letter I wrote is long.,"Der Brief, [ ] ich geschrieben habe, ist lang.",den,,,rel.acc.den
+RE0042,Accusative,B1,The children she teaches are eight.,"Die Kinder, [ ] sie unterrichtet, sind acht.",die,,,rel.acc
+RE0043,Accusative,B1,The house they are building is huge.,"Das Haus, [ ] sie bauen, ist riesig.",das,,,rel.acc
+RE0044,Accusative,B1,The teacher everyone likes is retiring.,"Der Lehrer, [ ] alle mögen, geht in Rente.",den,,,rel.acc.den
+RE0045,Accusative,B1,The picture you painted is beautiful.,"Das Bild, [ ] du gemalt hast, ist wunderschön.",das,,,rel.acc
+RE0046,Accusative,B1,The soup he cooked was too salty.,"Die Suppe, [ ] er gekocht hat, war zu salzig.",die,,,rel.acc
+RE0047,Accusative,B1,The jacket I bought is too small.,"Die Jacke, [ ] ich gekauft habe, ist zu klein.",die,,,rel.acc
+RE0048,Accusative,B1,The song we hear is famous.,"Das Lied, [ ] wir hören, ist berühmt.",das,,,rel.acc
+RE0049,Accusative,B1,The man she loves lives far away.,"Der Mann, [ ] sie liebt, wohnt weit weg.",den,,,rel.acc.den
+RE0050,Accusative,B1,The words I don't understand are long.,"Die Wörter, [ ] ich nicht verstehe, sind lang.",die,,,rel.acc
+RE0051,Accusative,B1,The computer I use is old.,"Der Computer, [ ] ich benutze, ist alt.",den,,,rel.acc.den
+RE0052,Accusative,B1,The pizza we ordered was cold.,"Die Pizza, [ ] wir bestellt haben, war kalt.",die,,,rel.acc
+RE0053,Accusative,B1,The exam I passed was hard.,"Die Prüfung, [ ] ich bestanden habe, war schwer.",die,,,rel.acc
+RE0054,Accusative,B1,The hotel we booked is by the sea.,"Das Hotel, [ ] wir gebucht haben, liegt am Meer.",das,,,rel.acc
+RE0055,Dative,B1,The man I helped is my neighbour.,"Der Mann, [ ] ich geholfen habe, ist mein Nachbar.",dem,,,rel.dat
+RE0056,Dative,B1,The woman I thanked is a doctor.,"Die Frau, [ ] ich gedankt habe, ist Ärztin.",der,,,rel.dat
+RE0057,Dative,B1,The child the dog belongs to is happy.,"Das Kind, [ ] der Hund gehört, ist glücklich.",dem,,,rel.dat
+RE0058,Dative,B1,The friends we congratulated are celebrating today.,"Die Freunde, [ ] wir gratuliert haben, feiern heute.",denen,,,rel.dat.pl
+RE0059,Dative,B1,The colleague I trust is honest.,"Der Kollege, [ ] ich vertraue, ist ehrlich.",dem,,,rel.dat
+RE0060,Dative,B1,The girl I answered is laughing.,"Das Mädchen, [ ] ich geantwortet habe, lacht.",dem,,,rel.dat
+RE0061,Dative,B1,The pupils the teacher helps learn quickly.,"Die Schüler, [ ] der Lehrer hilft, lernen schnell.",denen,,,rel.dat.pl
+RE0062,Dative,B1,The woman the house belongs to is rich.,"Die Frau, [ ] das Haus gehört, ist reich.",der,,,rel.dat
+RE0063,Dative,B1,The man I trust is my father.,"Der Mann, [ ] ich vertraue, ist mein Vater.",dem,,,rel.dat
+RE0064,Dative,B1,The people who like the city stay longer.,"Die Leute, [ ] die Stadt gefällt, bleiben länger.",denen,,,rel.dat.pl
+RE0065,Dative,B1,The boy the ball belongs to is crying.,"Der Junge, [ ] der Ball gehört, weint.",dem,,,rel.dat
+RE0066,Dative,B1,The neighbour I helped is old.,"Die Nachbarin, [ ] ich geholfen habe, ist alt.",der,,,rel.dat
+RE0067,Dative,B1,The team the fans are thanking has won.,"Das Team, [ ] die Fans danken, hat gewonnen.",dem,,,rel.dat
+RE0068,Dative,B1,The children I'm reading to are tired.,"Die Kinder, [ ] ich vorlese, sind müde.",denen,,,rel.dat.pl
+RE0069,Dative,B1,The friend who likes the picture is buying it.,"Der Freund, [ ] das Bild gefällt, kauft es.",dem,,,rel.dat
+RE0070,Dative,B1,The aunt I'm writing to lives in Bern.,"Die Tante, [ ] ich schreibe, wohnt in Bern.",der,,,rel.dat
+RE0071,Dative,B1,The customer the waiter is answering is impatient.,"Der Kunde, [ ] der Kellner antwortet, ist ungeduldig.",dem,,,rel.dat
+RE0072,Dative,B1,The colleagues we are congratulating have birthdays.,"Die Kollegen, [ ] wir gratulieren, haben Geburtstag.",denen,,,rel.dat.pl
+RE0073,Dative,B1,The woman the coat belongs to has left.,"Die Frau, [ ] der Mantel gehört, ist gegangen.",der,,,rel.dat
+RE0074,Dative,B1,The child she is helping is ill.,"Das Kind, [ ] sie hilft, ist krank.",dem,,,rel.dat
+RE0075,Genitive,B1,The man whose car is red is my boss.,"Der Mann, [ ] Auto rot ist, ist mein Chef.",dessen,,,rel.gen.dessen
+RE0076,Genitive,B1,The woman whose son studies in Berlin is proud.,"Die Frau, [ ] Sohn in Berlin studiert, ist stolz.",deren,,,rel.gen.deren
+RE0077,Genitive,B1,The child whose parents work is at grandma's.,"Das Kind, [ ] Eltern arbeiten, ist bei der Oma.",dessen,,,rel.gen.dessen
+RE0078,Genitive,B1,The neighbours whose dog barks are on holiday.,"Die Nachbarn, [ ] Hund bellt, sind im Urlaub.",deren,,,rel.gen.deren
+RE0079,Genitive,B1,The author whose book I'm reading is Swiss.,"Der Autor, [ ] Buch ich lese, ist Schweizer.",dessen,,,rel.gen.dessen
+RE0080,Genitive,B1,The city whose name I forgot is in the south.,"Die Stadt, [ ] Namen ich vergessen habe, liegt im Süden.",deren,,,rel.gen.deren
+RE0081,Genitive,B1,The friend whose birthday is today is celebrating.,"Der Freund, [ ] Geburtstag heute ist, feiert groß.",dessen,,,rel.gen.dessen
+RE0082,Genitive,B1,The girl whose bike was stolen is crying.,"Das Mädchen, [ ] Fahrrad gestohlen wurde, weint.",dessen,,,rel.gen.dessen
+RE0083,Genitive,B1,The pupils whose teacher is ill have the day off.,"Die Schüler, [ ] Lehrer krank ist, haben frei.",deren,,,rel.gen.deren
+RE0084,Genitive,B1,The company whose boss I know is in Hamburg.,"Die Firma, [ ] Chef ich kenne, ist in Hamburg.",deren,,,rel.gen.deren
+RE0085,With preposition,B1,The man I work with is nice.,"Der Mann, mit [ ] ich arbeite, ist nett.",dem,,,rel.prep.dat
+RE0086,With preposition,B1,The woman I'm waiting for is coming soon.,"Die Frau, auf [ ] ich warte, kommt gleich.",die,,,rel.prep.acc
+RE0087,With preposition,B1,The house I live in is old.,"Das Haus, in [ ] ich wohne, ist alt.",dem,,,rel.prep.dat
+RE0088,With preposition,B1,The friends I'm travelling with are funny.,"Die Freunde, mit [ ] ich fahre, sind lustig.",denen,,,rel.prep.dat+rel.dat.pl
+RE0089,With preposition,B1,The city I come from is small.,"Die Stadt, aus [ ] ich komme, ist klein.",der,,,rel.prep.dat
+RE0090,With preposition,B1,The film we're talking about is new.,"Der Film, über [ ] wir sprechen, ist neu.",den,,,rel.prep.acc
+RE0091,With preposition,B1,The bag my keys are in is gone.,"Die Tasche, in [ ] meine Schlüssel sind, ist weg.",der,,,rel.prep.dat
+RE0092,With preposition,B1,The colleague I'm thinking of is ill.,"Der Kollege, an [ ] ich denke, ist krank.",den,,,rel.prep.acc
+RE0093,With preposition,B1,The child I'm looking after is asleep.,"Das Kind, auf [ ] ich aufpasse, schläft.",das,,,rel.prep.acc
+RE0094,With preposition,B1,The topic we're interested in is music.,"Das Thema, für [ ] wir uns interessieren, ist Musik.",das,,,rel.prep.acc
+RE0095,With preposition,B1,The people I live with are nice.,"Die Leute, bei [ ] ich wohne, sind nett.",denen,,,rel.prep.dat+rel.dat.pl
+RE0096,With preposition,B1,The chair you're sitting on is broken.,"Der Stuhl, auf [ ] du sitzt, ist kaputt.",dem,,,rel.prep.dat
+RE0097,With preposition,B1,The party we're going to starts at nine.,"Die Party, zu [ ] wir gehen, beginnt um neun.",der,,,rel.prep.dat
+RE0098,With preposition,B1,The village I was born in is tiny.,"Das Dorf, in [ ] ich geboren wurde, ist winzig.",dem,,,rel.prep.dat
+RE0099,With preposition,B1,The bridge we drove over is long.,"Die Brücke, über [ ] wir gefahren sind, ist lang.",die,,,rel.prep.acc.move
+RE0100,With preposition,B1,The neighbour I'm annoyed with is loud.,"Der Nachbar, über [ ] ich mich ärgere, ist laut.",den,,,rel.prep.acc

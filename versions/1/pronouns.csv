@@ -1,0 +1,220 @@
+id,type,level,english,german,answer,note,rule
+PR0001,Personal Pronouns,A1,I play,[ ] spiele,Ich,,pron.ich
+PR0002,Personal Pronouns,A1,You play,[ ] spielst,Du,,pron.du
+PR0003,Personal Pronouns,A1,He plays,[ ] spielt,Er,,pron.er
+PR0004,Personal Pronouns,A1,She plays,[ ] spielt,Sie,,pron.sie.she
+PR0005,Personal Pronouns,A1,We play,[ ] spielen,Wir,,pron.wir
+PR0006,Personal Pronouns,A1,You (plural) play,[ ] spielt,Ihr,,pron.ihr
+PR0007,Personal Pronouns,A1,They play,[ ] spielen,Sie,,pron.sie.they
+PR0008,Personal Pronouns,A1,You (formal) play,[ ] spielen,Sie,,pron.Sie
+PR0009,Personal Pronouns,A1,I am,[ ] bin,Ich,,pron.ich.sein
+PR0010,Personal Pronouns,A1,You are,[ ] bist,Du,,pron.du.sein
+PR0011,Personal Pronouns,A1,He is,[ ] ist,Er,,pron.er.sein
+PR0012,Personal Pronouns,A1,She is,[ ] ist,Sie,,pron.sie.she.sein
+PR0013,Personal Pronouns,A1,It is,[ ] ist,Es,,pron.es.sein
+PR0014,Personal Pronouns,A1,We are,[ ] sind,Wir,,pron.wir.sein
+PR0015,Personal Pronouns,A1,You (plural) are,[ ] seid,Ihr,,pron.ihr.sein
+PR0016,Personal Pronouns,A1,They are,[ ] sind,Sie,,pron.sie.they.sein
+PR0017,Personal Pronouns,A1,You (formal) are,[ ] sind,Sie,,pron.Sie.sein
+PR0018,Personal Pronouns,A1,I go,[ ] gehe,Ich,,pron.ich
+PR0019,Personal Pronouns,A1,You go,[ ] gehst,Du,,pron.du
+PR0020,Personal Pronouns,A1,He goes,[ ] geht,Er,,pron.er
+PR0021,Personal Pronouns,A1,She goes,[ ] geht,Sie,,pron.sie.she
+PR0022,Personal Pronouns,A1,We go,[ ] gehen,Wir,,pron.wir
+PR0023,Personal Pronouns,A1,You (plural) go,[ ] geht,Ihr,,pron.ihr
+PR0024,Personal Pronouns,A1,They go,[ ] gehen,Sie,,pron.sie.they
+PR0025,Personal Pronouns,A1,You (formal) go,[ ] gehen,Sie,,pron.Sie
+PR0026,Personal Pronouns,A1,I see,[ ] sehe,Ich,,pron.ich
+PR0027,Personal Pronouns,A1,You see,[ ] siehst,Du,,pron.du
+PR0028,Personal Pronouns,A1,He sees,[ ] sieht,Er,,pron.er
+PR0029,Personal Pronouns,A1,She sees,[ ] sieht,Sie,,pron.sie.she
+PR0030,Personal Pronouns,A1,We see,[ ] sehen,Wir,,pron.wir
+PR0031,Personal Pronouns,A1,You (plural) see,[ ] seht,Ihr,,pron.ihr
+PR0032,Personal Pronouns,A1,They see,[ ] sehen,Sie,,pron.sie.they
+PR0033,Personal Pronouns,A1,You (formal) see,[ ] sehen,Sie,,pron.Sie
+PR0034,Personal Pronouns,A1,I hear,[ ] höre,Ich,,pron.ich
+PR0035,Personal Pronouns,A1,You hear,[ ] hörst,Du,,pron.du
+PR0036,Personal Pronouns,A1,He hears,[ ] hört,Er,,pron.er
+PR0037,Personal Pronouns,A1,She hears,[ ] hört,Sie,,pron.sie.she
+PR0038,Personal Pronouns,A1,We hear,[ ] hören,Wir,,pron.wir
+PR0039,Personal Pronouns,A1,You (plural) hear,[ ] hört,Ihr,,pron.ihr
+PR0040,Personal Pronouns,A1,They hear,[ ] hören,Sie,,pron.sie.they
+PR0041,Personal Pronouns,A1,You (formal) hear,[ ] hören,Sie,,pron.Sie
+PR0042,Personal Pronouns,A1,I write,[ ] schreibe,Ich,,pron.ich
+PR0043,Personal Pronouns,A1,You write,[ ] schreibst,Du,,pron.du
+PR0044,Personal Pronouns,A1,He writes,[ ] schreibt,Er,,pron.er
+PR0045,Personal Pronouns,A1,She writes,[ ] schreibt,Sie,,pron.sie.she
+PR0046,Personal Pronouns,A1,We write,[ ] schreiben,Wir,,pron.wir
+PR0047,Personal Pronouns,A1,You (plural) write,[ ] schreibt,Ihr,,pron.ihr
+PR0048,Personal Pronouns,A1,They write,[ ] schreiben,Sie,,pron.sie.they
+PR0049,Personal Pronouns,A1,You (formal) write,[ ] schreiben,Sie,,pron.Sie
+PR0050,Personal Pronouns,A1,I read,[ ] lese,Ich,,pron.ich
+PR0051,Personal Pronouns,A1,You read,[ ] liest,Du,,pron.du
+PR0052,Personal Pronouns,A1,He reads,[ ] liest,Er,,pron.er
+PR0053,Personal Pronouns,A1,She reads,[ ] liest,Sie,,pron.sie.she
+PR0054,Personal Pronouns,A1,We read,[ ] lesen,Wir,,pron.wir
+PR0055,Personal Pronouns,A1,You (plural) read,[ ] lest,Ihr,,pron.ihr
+PR0056,Personal Pronouns,A1,They read,[ ] lesen,Sie,,pron.sie.they
+PR0057,Personal Pronouns,A1,You (formal) read,[ ] lesen,Sie,,pron.Sie
+PR0058,Personal Pronouns,A1,I give,[ ] gebe,Ich,,pron.ich
+PR0059,Personal Pronouns,A1,You give,[ ] gibst,Du,,pron.du
+PR0060,Personal Pronouns,A1,He gives,[ ] gibt,Er,,pron.er
+PR0061,Personal Pronouns,A1,She gives,[ ] gibt,Sie,,pron.sie.she
+PR0062,Personal Pronouns,A1,We give,[ ] geben,Wir,,pron.wir
+PR0063,Personal Pronouns,A1,You (plural) give,[ ] gebt,Ihr,,pron.ihr
+PR0064,Personal Pronouns,A1,They give,[ ] geben,Sie,,pron.sie.they
+PR0065,Personal Pronouns,A1,You (formal) give,[ ] geben,Sie,,pron.Sie
+PR0066,Personal Pronouns,A1,I take,[ ] nehme,Ich,,pron.ich
+PR0067,Personal Pronouns,A1,You take,[ ] nimmst,Du,,pron.du
+PR0068,Personal Pronouns,A1,He takes,[ ] nimmt,Er,,pron.er
+PR0069,Personal Pronouns,A1,She takes,[ ] nimmt,Sie,,pron.sie.she
+PR0070,Personal Pronouns,A1,We take,[ ] nehmen,Wir,,pron.wir
+PR0071,Personal Pronouns,A1,You (plural) take,[ ] nehmt,Ihr,,pron.ihr
+PR0072,Personal Pronouns,A1,They take,[ ] nehmen,Sie,,pron.sie.they
+PR0073,Personal Pronouns,A1,You (formal) take,[ ] nehmen,Sie,,pron.Sie
+PR0074,Personal Pronouns,A1,It is raining,[ ] regnet,Es,,pron.es
+PR0075,Reflexive Pronouns,A2,I wash myself,Ich wasche [ ],mich,,pron.refl.acc
+PR0076,Reflexive Pronouns,A2,You wash yourself,Du wäschst [ ],dich,,pron.refl.acc
+PR0077,Reflexive Pronouns,A2,He washes himself,Er wäscht [ ],sich,,pron.refl.sich
+PR0078,Reflexive Pronouns,A2,She washes herself,Sie wäscht [ ],sich,,pron.refl.sich
+PR0079,Reflexive Pronouns,A2,We wash ourselves,Wir waschen [ ],uns,,pron.refl.uns-euch
+PR0080,Reflexive Pronouns,A2,You (plural) wash yourselves,Ihr wascht [ ],euch,,pron.refl.uns-euch
+PR0081,Reflexive Pronouns,A2,They wash themselves,Sie waschen [ ],sich,,pron.refl.sich
+PR0082,Reflexive Pronouns,A2,You (formal) wash yourself,Sie waschen [ ],sich,,pron.refl.sich
+PR0083,Reflexive Pronouns,A2,I introduce myself,Ich stelle [ ] vor,mich,,pron.refl.acc
+PR0084,Reflexive Pronouns,A2,You introduce yourself,Du stellst [ ] vor,dich,,pron.refl.acc
+PR0085,Reflexive Pronouns,A2,He introduces himself,Er stellt [ ] vor,sich,,pron.refl.sich
+PR0086,Reflexive Pronouns,A2,She introduces herself,Sie stellt [ ] vor,sich,,pron.refl.sich
+PR0087,Reflexive Pronouns,A2,We introduce ourselves,Wir stellen [ ] vor,uns,,pron.refl.uns-euch
+PR0088,Reflexive Pronouns,A2,You (plural) introduce yourselves,Ihr stellt [ ] vor,euch,,pron.refl.uns-euch
+PR0089,Reflexive Pronouns,A2,They introduce themselves,Sie stellen [ ] vor,sich,,pron.refl.sich
+PR0090,Reflexive Pronouns,A2,You (formal) introduce yourself,Sie stellen [ ] vor,sich,,pron.refl.sich
+PR0091,Reflexive Pronouns,A2,I sit down,Ich setze [ ] hin,mich,,pron.refl.acc
+PR0092,Reflexive Pronouns,A2,You sit down,Du setzt [ ] hin,dich,,pron.refl.acc
+PR0093,Reflexive Pronouns,A2,He sits down,Er setzt [ ] hin,sich,,pron.refl.sich
+PR0094,Reflexive Pronouns,A2,She sits down,Sie setzt [ ] hin,sich,,pron.refl.sich
+PR0095,Reflexive Pronouns,A2,We sit down,Wir setzen [ ] hin,uns,,pron.refl.uns-euch
+PR0096,Reflexive Pronouns,A2,You (plural) sit down,Ihr setzt [ ] hin,euch,,pron.refl.uns-euch
+PR0097,Reflexive Pronouns,A2,They sit down,Sie setzen [ ] hin,sich,,pron.refl.sich
+PR0098,Reflexive Pronouns,A2,You (formal) sit down,Sie setzen [ ] hin,sich,,pron.refl.sich
+PR0099,Reflexive Pronouns,A2,I apologize,Ich entschuldige [ ],mich,,pron.refl.acc
+PR0100,Reflexive Pronouns,A2,You apologize,Du entschuldigst [ ],dich,,pron.refl.acc
+PR0101,Reflexive Pronouns,A2,He apologizes,Er entschuldigt [ ],sich,,pron.refl.sich
+PR0102,Reflexive Pronouns,A2,She apologizes,Sie entschuldigt [ ],sich,,pron.refl.sich
+PR0103,Reflexive Pronouns,A2,We apologize,Wir entschuldigen [ ],uns,,pron.refl.uns-euch
+PR0104,Reflexive Pronouns,A2,You (plural) apologize,Ihr entschuldigt [ ],euch,,pron.refl.uns-euch
+PR0105,Reflexive Pronouns,A2,They apologize,Sie entschuldigen [ ],sich,,pron.refl.sich
+PR0106,Reflexive Pronouns,A2,You (formal) apologize,Sie entschuldigen [ ],sich,,pron.refl.sich
+PR0107,Reflexive Pronouns,A2,I get dressed,Ich ziehe [ ] an,mich,,pron.refl.acc
+PR0108,Reflexive Pronouns,A2,You get dressed,Du ziehst [ ] an,dich,,pron.refl.acc
+PR0109,Reflexive Pronouns,A2,He gets dressed,Er zieht [ ] an,sich,,pron.refl.sich
+PR0110,Reflexive Pronouns,A2,She gets dressed,Sie zieht [ ] an,sich,,pron.refl.sich
+PR0111,Reflexive Pronouns,A2,We get dressed,Wir ziehen [ ] an,uns,,pron.refl.uns-euch
+PR0112,Reflexive Pronouns,A2,You (plural) get dressed,Ihr zieht [ ] an,euch,,pron.refl.uns-euch
+PR0113,Reflexive Pronouns,A2,They get dressed,Sie ziehen [ ] an,sich,,pron.refl.sich
+PR0114,Reflexive Pronouns,A2,You (formal) get dressed,Sie ziehen [ ] an,sich,,pron.refl.sich
+PR0115,Reflexive Pronouns,A2,I prepare myself,Ich bereite [ ] vor,mich,,pron.refl.acc
+PR0116,Reflexive Pronouns,A2,You prepare yourself,Du bereitest [ ] vor,dich,,pron.refl.acc
+PR0117,Reflexive Pronouns,A2,He prepares himself,Er bereitet [ ] vor,sich,,pron.refl.sich
+PR0118,Reflexive Pronouns,A2,She prepares herself,Sie bereitet [ ] vor,sich,,pron.refl.sich
+PR0119,Reflexive Pronouns,A2,We prepare ourselves,Wir bereiten [ ] vor,uns,,pron.refl.uns-euch
+PR0120,Reflexive Pronouns,A2,You (plural) prepare yourselves,Ihr bereitet [ ] vor,euch,,pron.refl.uns-euch
+PR0121,Reflexive Pronouns,A2,They prepare themselves,Sie bereiten [ ] vor,sich,,pron.refl.sich
+PR0122,Reflexive Pronouns,A2,You (formal) prepare yourself,Sie bereiten [ ] vor,sich,,pron.refl.sich
+PR0123,Reflexive Pronouns,A2,I help myself,Ich helfe [ ] selbst,mir,,pron.refl.dat
+PR0124,Reflexive Pronouns,A2,You help yourself,Du hilfst [ ] selbst,dir,,pron.refl.dat
+PR0125,Reflexive Pronouns,A2,He helps himself,Er hilft [ ] selbst,sich,,pron.refl.sich
+PR0126,Reflexive Pronouns,A2,She helps herself,Sie hilft [ ] selbst,sich,,pron.refl.sich
+PR0127,Reflexive Pronouns,A2,We help ourselves,Wir helfen [ ] selbst,uns,,pron.refl.uns-euch
+PR0128,Reflexive Pronouns,A2,You (plural) help yourselves,Ihr helft [ ] selbst,euch,,pron.refl.uns-euch
+PR0129,Reflexive Pronouns,A2,They help themselves,Sie helfen [ ] selbst,sich,,pron.refl.sich
+PR0130,Reflexive Pronouns,A2,You (formal) help yourself,Sie helfen [ ] selbst,sich,,pron.refl.sich
+PR0131,Reflexive Pronouns,A2,I wash my hands,Ich wasche [ ] die Hände,mir,,pron.refl.dat
+PR0132,Reflexive Pronouns,A2,You wash your hands,Du wäschst [ ] die Hände,dir,,pron.refl.dat
+PR0133,Reflexive Pronouns,A2,He washes his hands,Er wäscht [ ] die Hände,sich,,pron.refl.sich
+PR0134,Reflexive Pronouns,A2,She washes her hands,Sie wäscht [ ] die Hände,sich,,pron.refl.sich
+PR0135,Reflexive Pronouns,A2,We wash our hands,Wir waschen [ ] die Hände,uns,,pron.refl.uns-euch
+PR0136,Reflexive Pronouns,A2,You (plural) wash your hands,Ihr wascht [ ] die Hände,euch,,pron.refl.uns-euch
+PR0137,Reflexive Pronouns,A2,They wash their hands,Sie waschen [ ] die Hände,sich,,pron.refl.sich
+PR0138,Reflexive Pronouns,A2,You (formal) wash your hands,Sie waschen [ ] die Hände,sich,,pron.refl.sich
+PR0139,Reflexive Pronouns,A2,I brush my teeth,Ich putze [ ] die Zähne,mir,,pron.refl.dat
+PR0140,Reflexive Pronouns,A2,You brush your teeth,Du putzt [ ] die Zähne,dir,,pron.refl.dat
+PR0141,Reflexive Pronouns,A2,He brushes his teeth,Er putzt [ ] die Zähne,sich,,pron.refl.sich
+PR0142,Reflexive Pronouns,A2,She brushes her teeth,Sie putzt [ ] die Zähne,sich,,pron.refl.sich
+PR0143,Reflexive Pronouns,A2,We brush our teeth,Wir putzen [ ] die Zähne,uns,,pron.refl.uns-euch
+PR0144,Reflexive Pronouns,A2,You (plural) brush your teeth,Ihr putzt [ ] die Zähne,euch,,pron.refl.uns-euch
+PR0145,Reflexive Pronouns,A2,They brush their teeth,Sie putzen [ ] die Zähne,sich,,pron.refl.sich
+PR0146,Reflexive Pronouns,A2,You (formal) brush your teeth,Sie putzen [ ] die Zähne,sich,,pron.refl.sich
+PR0147,Interrogative Pronouns,A1,Who is coming?,[ ] kommt?,Wer,,pron.wer
+PR0148,Interrogative Pronouns,A2,Whom are you calling?,[ ] rufst du an?,Wen,,pron.wen
+PR0149,Interrogative Pronouns,A2,Whose book is this?,[ ] Buch ist das?,Wessen,,pron.wessen
+PR0150,Interrogative Pronouns,A1,What is that?,[ ] ist das?,Was,,pron.was
+PR0151,Interrogative Pronouns,A2,Which house is yours?,[ ] Haus ist deins?,Welches,,pron.welch
+PR0152,Interrogative Pronouns,A2,Which car is his?,[ ] Auto ist seins?,Welches,,pron.welch
+PR0153,Interrogative Pronouns,A1,Who is your teacher?,[ ] ist dein Lehrer?,Wer,,pron.wer
+PR0154,Interrogative Pronouns,A2,Whom are they helping?,[ ] helfen sie?,Wem,,pron.wem
+PR0155,Interrogative Pronouns,A1,What do you want?,[ ] willst du?,Was,,pron.was
+PR0156,Interrogative Pronouns,A2,Which dress are you buying?,[ ] Kleid kaufst du?,Welches,,pron.welch
+PR0157,Interrogative Pronouns,A2,Whose idea was this?,[ ] Idee war das?,Wessen,,pron.wessen
+PR0158,Interrogative Pronouns,A1,Who is waiting for me?,[ ] wartet auf mich?,Wer,,pron.wer
+PR0159,Interrogative Pronouns,A2,Whom should I ask?,[ ] soll ich fragen?,Wen,,pron.wen
+PR0160,Interrogative Pronouns,A1,What is the problem?,[ ] ist das Problem?,Was,,pron.was
+PR0161,Interrogative Pronouns,A2,Which book do you like?,[ ] Buch magst du?,Welches,,pron.welch
+PR0162,Interrogative Pronouns,A1,Who will help us?,[ ] wird uns helfen?,Wer,,pron.wer
+PR0163,Interrogative Pronouns,A2,Whose pen is this?,[ ] Stift ist das?,Wessen,,pron.wessen
+PR0164,Interrogative Pronouns,A1,What are you eating?,[ ] isst du?,Was,,pron.was
+PR0165,Interrogative Pronouns,A2,Which city do they live in?,In [ ] Stadt wohnen sie?,welcher,,pron.welch
+PR0166,Interrogative Pronouns,A1,Who knows the answer?,[ ] weiß die Antwort?,Wer,,pron.wer
+PR0167,Interrogative Pronouns,A2,Whom did you see?,[ ] hast du gesehen?,Wen,,pron.wen
+PR0168,Interrogative Pronouns,A2,Whose dog is barking?,[ ] Hund bellt?,Wessen,,pron.wessen
+PR0169,Interrogative Pronouns,A1,What should I do?,[ ] soll ich tun?,Was,,pron.was
+PR0170,Interrogative Pronouns,A2,Which film are we watching?,[ ] Film schauen wir?,Welchen,,pron.welch
+PR0171,Interrogative Pronouns,A1,Who is responsible?,[ ] ist verantwortlich?,Wer,,pron.wer
+PR0172,Interrogative Pronouns,A2,Whom does she trust?,[ ] vertraut sie?,Wem,,pron.wem
+PR0173,Interrogative Pronouns,A1,What are we learning?,[ ] lernen wir?,Was,,pron.was
+PR0174,Interrogative Pronouns,A2,Which colour do you prefer?,[ ] Farbe magst du lieber?,Welche,,pron.welch
+PR0175,Interrogative Pronouns,A2,Whose phone is ringing?,[ ] Handy klingelt?,Wessen,,pron.wessen
+PR0176,Interrogative Pronouns,A2,Whom does the bag belong to?,[ ] gehört die Tasche?,Wem,,pron.wem
+PR0177,Interrogative Pronouns,A2,Which man is your father?,[ ] Mann ist dein Vater?,Welcher,,pron.welch
+PR0178,Reflexive Pronouns,A2,I am looking forward to the weekend,Ich freue [ ] auf das Wochenende,mich,,pron.refl.acc
+PR0179,Reflexive Pronouns,A2,Are you looking forward to the holiday?,Freust du [ ] auf den Urlaub?,dich,,pron.refl.acc
+PR0180,Reflexive Pronouns,A2,He is happy about the present,Er freut [ ] über das Geschenk,sich,,pron.refl.sich
+PR0181,Reflexive Pronouns,A2,We are looking forward to the party,Wir freuen [ ] auf die Party,uns,,pron.refl.uns-euch
+PR0182,Reflexive Pronouns,A2,Are you (plural) looking forward to the trip?,Freut ihr [ ] auf die Reise?,euch,,pron.refl.uns-euch
+PR0183,Reflexive Pronouns,A2,I have to hurry,Ich muss [ ] beeilen,mich,,pron.refl.acc
+PR0184,Reflexive Pronouns,A2,Hurry up!,Beeil [ ]!,dich,,pron.refl.acc
+PR0185,Reflexive Pronouns,A2,She is hurrying,Sie beeilt [ ],sich,,pron.refl.sich
+PR0186,Reflexive Pronouns,A2,We have to hurry,Wir müssen [ ] beeilen,uns,,pron.refl.uns-euch
+PR0187,Reflexive Pronouns,A2,I am interested in music,Ich interessiere [ ] für Musik,mich,,pron.refl.acc
+PR0188,Reflexive Pronouns,A2,Are you interested in sport?,Interessierst du [ ] für Sport?,dich,,pron.refl.acc
+PR0189,Reflexive Pronouns,A2,They are interested in art,Sie interessieren [ ] für Kunst,sich,,pron.refl.sich
+PR0190,Reflexive Pronouns,A2,I remember the film,Ich erinnere [ ] an den Film,mich,,pron.refl.acc
+PR0191,Reflexive Pronouns,A2,Do you remember me?,Erinnerst du [ ] an mich?,dich,,pron.refl.acc
+PR0192,Reflexive Pronouns,A2,He remembers his childhood,Er erinnert [ ] an seine Kindheit,sich,,pron.refl.sich
+PR0193,Reflexive Pronouns,A2,We remember the holiday,Wir erinnern [ ] an den Urlaub,uns,,pron.refl.uns-euch
+PR0194,Reflexive Pronouns,A2,We meet at seven,Wir treffen [ ] um sieben,uns,,pron.refl.uns-euch
+PR0195,Reflexive Pronouns,A2,They meet in the café,Sie treffen [ ] im Café,sich,,pron.refl.sich
+PR0196,Reflexive Pronouns,A2,Get dressed quickly!,Zieh [ ] schnell an!,dich,,pron.refl.acc
+PR0197,Reflexive Pronouns,A2,The children are getting dressed,Die Kinder ziehen [ ] an,sich,,pron.refl.sich
+PR0198,Reflexive Pronouns,A2,I am resting,Ich ruhe [ ] aus,mich,,pron.refl.acc
+PR0199,Reflexive Pronouns,A2,You (plural) should rest,Ihr sollt [ ] ausruhen,euch,,pron.refl.uns-euch
+PR0200,Reflexive Pronouns,A2,Please sit down (formal),Setzen Sie [ ] bitte,sich,,pron.refl.sich
+PR0201,Reflexive Pronouns,A2,I sit down next to you,Ich setze [ ] neben dich,mich,,pron.refl.acc
+PR0202,Reflexive Pronouns,A2,We sit down on the sofa,Wir setzen [ ] auf das Sofa,uns,,pron.refl.uns-euch
+PR0203,Reflexive Pronouns,A2,I feel good today,Ich fühle [ ] heute gut,mich,,pron.refl.acc
+PR0204,Reflexive Pronouns,A2,How do you feel?,Wie fühlst du [ ]?,dich,,pron.refl.acc
+PR0205,Reflexive Pronouns,A2,She doesn't feel well,Sie fühlt [ ] nicht wohl,sich,,pron.refl.sich
+PR0206,Reflexive Pronouns,A2,I am annoyed about the weather,Ich ärgere [ ] über das Wetter,mich,,pron.refl.acc
+PR0207,Reflexive Pronouns,A2,He is annoyed about the mistake,Er ärgert [ ] über den Fehler,sich,,pron.refl.sich
+PR0208,Reflexive Pronouns,A2,She apologises for the delay,Sie entschuldigt [ ] für die Verspätung,sich,,pron.refl.sich
+PR0209,Reflexive Pronouns,A2,I look after the children,Ich kümmere [ ] um die Kinder,mich,,pron.refl.acc
+PR0210,Reflexive Pronouns,A2,He looks after the garden,Er kümmert [ ] um den Garten,sich,,pron.refl.sich
+PR0211,Reflexive Pronouns,A2,I am buying myself a new phone,Ich kaufe [ ] ein neues Handy,mir,,pron.refl.dat
+PR0212,Reflexive Pronouns,A2,Are you washing your hair?,Wäschst du [ ] die Haare?,dir,,pron.refl.dat
+PR0213,Reflexive Pronouns,A2,I can't afford that,Das kann ich [ ] nicht leisten,mir,,pron.refl.dat
+PR0214,Reflexive Pronouns,A2,I can imagine that,Das kann ich [ ] vorstellen,mir,,pron.refl.dat
+PR0215,Reflexive Pronouns,A2,Can you (plural) imagine that?,Könnt ihr [ ] das vorstellen?,euch,,pron.refl.uns-euch
+PR0216,Reflexive Pronouns,A2,We are ordering ourselves a pizza,Wir bestellen [ ] eine Pizza,uns,,pron.refl.uns-euch
+PR0217,Reflexive Pronouns,A2,She is making herself a coffee,Sie macht [ ] einen Kaffee,sich,,pron.refl.sich
+PR0218,Reflexive Pronouns,A2,I'll remember the name,Ich merke [ ] den Namen,mir,,pron.refl.dat
+PR0219,Reflexive Pronouns,A2,Take your time (formal),Nehmen Sie [ ] Zeit,sich,,pron.refl.sich

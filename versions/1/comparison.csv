@@ -1,0 +1,101 @@
+id,type,level,english,german,answer,hint,note,rule
+CO0001,Comparative,B1,Berlin is bigger than Bonn.,Berlin ist [ ] als Bonn.,größer,groß,,comp.umlaut
+CO0002,Comparative,B1,My brother is older than me.,Mein Bruder ist [ ] als ich.,älter,alt,,comp.umlaut
+CO0003,Comparative,B1,This road is longer.,Diese Straße ist [ ].,länger,lang,,comp.umlaut
+CO0004,Comparative,B1,The blue jacket is cheaper.,Die blaue Jacke ist [ ].,billiger,billig,,comp.er
+CO0005,Comparative,B1,Today it's warmer than yesterday.,Heute ist es [ ] als gestern.,wärmer,warm,,comp.umlaut
+CO0006,Comparative,B1,This exercise is easier.,Diese Übung ist [ ].,einfacher,einfach,,comp.er
+CO0007,Comparative,B1,Anna is younger than Lisa.,Anna ist [ ] als Lisa.,jünger,jung,,comp.umlaut
+CO0008,Comparative,B1,The train is faster than the bus.,Der Zug ist [ ] als der Bus.,schneller,schnell,,comp.er
+CO0009,Comparative,B1,The book is more interesting than the film.,Das Buch ist [ ] als der Film.,interessanter,interessant,,comp.er
+CO0010,Comparative,B1,My room is smaller.,Mein Zimmer ist [ ].,kleiner,klein,,comp.er
+CO0011,Comparative,B1,Winter is colder.,Der Winter ist [ ].,kälter,kalt,,comp.umlaut
+CO0012,Comparative,B1,She is stronger than he is.,Sie ist [ ] als er.,stärker,stark,,comp.umlaut
+CO0013,Comparative,B1,The new phone is more expensive.,Das neue Handy ist [ ].,teurer,teuer,,comp.euer
+CO0014,Comparative,B1,In the evening it's darker.,Am Abend ist es [ ].,dunkler,dunkel,,comp.el
+CO0015,Comparative,B1,The soup is hotter.,Die Suppe ist [ ].,heißer,heiß,,comp.er
+CO0016,Comparative,B1,The task is harder than I thought.,"Die Aufgabe ist [ ], als ich dachte.",schwerer|schwieriger,schwer,,comp.er
+CO0017,Comparative,B1,This street is quieter.,Diese Straße ist [ ].,ruhiger,ruhig,,comp.er
+CO0018,Comparative,B1,He speaks more slowly.,Er spricht [ ].,langsamer,langsam,,comp.er
+CO0019,Comparative,B1,Your car is newer. (du),Dein Auto ist [ ].,neuer,neu,,comp.er
+CO0020,Comparative,B1,The tea is sweeter.,Der Tee ist [ ].,süßer,süß,,comp.er
+CO0021,Comparative,B1,The days are getting shorter.,Die Tage werden [ ].,kürzer,kurz,,comp.umlaut
+CO0022,Comparative,B1,The river is wider here.,Der Fluss ist hier [ ].,breiter,breit,,comp.er
+CO0023,Irregular,B1,The mountain is higher.,Der Berg ist [ ].,höher,hoch,,comp.irr.hoch
+CO0024,Comparative,B1,The garden is more beautiful than the park.,Der Garten ist [ ] als der Park.,schöner,schön,,comp.er
+CO0025,Comparative,B1,The shop is nearer than the station.,Der Laden ist [ ] als der Bahnhof.,näher,nah,,comp.umlaut
+CO0026,Comparative,B1,This bag is lighter.,Diese Tasche ist [ ].,leichter,leicht,,comp.er
+CO0027,Comparative,B1,The music is louder.,Die Musik ist [ ].,lauter,laut,,comp.er
+CO0028,Comparative,B1,The bread is fresher.,Das Brot ist [ ].,frischer,frisch,,comp.er
+CO0029,Comparative,B1,He is friendlier.,Er ist [ ].,freundlicher,freundlich,,comp.er
+CO0030,Comparative,B1,The water is clearer.,Das Wasser ist [ ].,klarer,klar,,comp.er
+CO0031,Superlative,B1,He runs the fastest.,Er läuft am [ ].,schnellsten,schnell,,sup.am
+CO0032,Superlative,B1,Berlin is the biggest.,Berlin ist am [ ].,größten,groß,,comp.irr.groß
+CO0033,Superlative,B1,This road is the longest.,Diese Straße ist am [ ].,längsten,lang,,sup.am+sup.umlaut
+CO0034,Superlative,B1,This jacket is the cheapest.,Diese Jacke ist am [ ].,billigsten,billig,,sup.am
+CO0035,Superlative,B1,In August it's the warmest.,Im August ist es am [ ].,wärmsten,warm,,sup.am+sup.umlaut
+CO0036,Superlative,B1,This exercise is the easiest.,Diese Übung ist am [ ].,einfachsten,einfach,,sup.am
+CO0037,Superlative,B1,Lisa is the youngest.,Lisa ist am [ ].,jüngsten,jung,,sup.am+sup.umlaut
+CO0038,Superlative,B1,The plane is the fastest.,Das Flugzeug ist am [ ].,schnellsten,schnell,,sup.am
+CO0039,Superlative,B1,This film is the most interesting.,Dieser Film ist am [ ].,interessantesten,interessant,,sup.am+sup.e
+CO0040,Superlative,B1,My room is the smallest.,Mein Zimmer ist am [ ].,kleinsten,klein,,sup.am
+CO0041,Superlative,B1,In January it's the coldest.,Im Januar ist es am [ ].,kältesten,kalt,,sup.am+sup.umlaut-e
+CO0042,Superlative,B1,He is the strongest.,Er ist am [ ].,stärksten,stark,,sup.am+sup.umlaut
+CO0043,Superlative,B1,This phone is the most expensive.,Dieses Handy ist am [ ].,teuersten,teuer,,sup.am
+CO0044,Superlative,B1,At night it's the darkest.,Nachts ist es am [ ].,dunkelsten,dunkel,,sup.am
+CO0045,Superlative,B1,This soup is the hottest.,Diese Suppe ist am [ ].,heißesten,heiß,,sup.am+sup.e
+CO0046,Superlative,B1,This task is the hardest.,Diese Aufgabe ist am [ ].,schwersten|schwierigsten,schwer,,sup.am
+CO0047,Superlative,B1,Here it's the quietest.,Hier ist es am [ ].,ruhigsten,ruhig,,sup.am
+CO0048,Superlative,B1,In December the days are the shortest.,Im Dezember sind die Tage am [ ].,kürzesten,kurz,,sup.am+sup.umlaut-e
+CO0049,Irregular,B1,The Zugspitze is the highest.,Die Zugspitze ist am [ ].,höchsten,hoch,,comp.irr.hoch
+CO0050,Irregular,B1,The bakery is the nearest.,Die Bäckerei ist am [ ].,nächsten,nah,,comp.irr.nah
+CO0051,Irregular,B1,The Zugspitze is the highest mountain in Germany.,Die Zugspitze ist der [ ] Berg Deutschlands.,höchste,hoch,,comp.irr.hoch+comp.ending
+CO0052,Superlative,B1,Berlin is the biggest city in Germany.,Berlin ist die [ ] Stadt Deutschlands.,größte,groß,,comp.irr.groß+comp.ending
+CO0053,Superlative,B1,Heidelberg has the oldest university in Germany.,Heidelberg hat die [ ] Universität Deutschlands.,älteste,alt,,sup.noun+sup.umlaut-e
+CO0054,Superlative,B1,The Rhine is the longest river in Germany.,Der Rhein ist der [ ] Fluss in Deutschland.,längste,lang,,sup.noun+sup.umlaut
+CO0055,Superlative,B1,That is the cheapest ticket.,Das ist das [ ] Ticket.,billigste,billig,,sup.noun
+CO0056,Superlative,B1,That was the most beautiful day of my life.,Das war der [ ] Tag meines Lebens.,schönste,schön,,sup.noun
+CO0057,Superlative,B1,Tom is the youngest child.,Tom ist das [ ] Kind.,jüngste,jung,,sup.noun+sup.umlaut
+CO0058,Superlative,B1,That is the fastest car.,Das ist das [ ] Auto.,schnellste,schnell,,sup.noun
+CO0059,Superlative,B1,That is the most expensive hotel in the city.,Das ist das [ ] Hotel der Stadt.,teuerste,teuer,,sup.noun
+CO0060,Superlative,B1,January is the coldest month.,Der Januar ist der [ ] Monat.,kälteste,kalt,,sup.noun+sup.umlaut-e
+CO0061,als / wie,B1,He is taller than I am.,Er ist größer [ ] ich.,als,,,comp.als
+CO0062,als / wie,B1,She is as old as her friend.,Sie ist so alt [ ] ihre Freundin.,wie,,,comp.wie
+CO0063,als / wie,B1,The film is better than the book.,Der Film ist besser [ ] das Buch.,als,,,comp.als
+CO0064,als / wie,B1,My car is as fast as yours.,Mein Auto ist so schnell [ ] deins.,wie,,,comp.wie
+CO0065,als / wie,B1,Today it's colder than yesterday.,Heute ist es kälter [ ] gestern.,als,,,comp.als
+CO0066,als / wie,B1,He speaks German as well as she does.,Er spricht so gut Deutsch [ ] sie.,wie,,,comp.wie
+CO0067,als / wie,B1,The bus is slower than the train.,Der Bus ist langsamer [ ] der Zug.,als,,,comp.als
+CO0068,als / wie,B1,I'm not as tall as my brother.,Ich bin nicht so groß [ ] mein Bruder.,wie,,,comp.wie
+CO0069,als / wie,B1,This book is more expensive than that one.,Dieses Buch ist teurer [ ] das da.,als,,,comp.als
+CO0070,als / wie,B1,Berlin is bigger than Munich.,Berlin ist größer [ ] München.,als,,,comp.als
+CO0071,als / wie,B1,Her hair is as long as mine.,Ihre Haare sind so lang [ ] meine.,wie,,,comp.wie
+CO0072,als / wie,B1,Tea is healthier than coffee.,Tee ist gesünder [ ] Kaffee.,als,,,comp.als
+CO0073,als / wie,B1,The soup is as hot as the tea.,Die Suppe ist so heiß [ ] der Tee.,wie,,,comp.wie
+CO0074,als / wie,B1,He works more than I do.,Er arbeitet mehr [ ] ich.,als,,,comp.als
+CO0075,als / wie,B1,Nobody is as nice as you. (du),Niemand ist so nett [ ] du.,wie,,,comp.wie
+CO0076,als / wie,B1,Summer is warmer than spring.,Der Sommer ist wärmer [ ] der Frühling.,als,,,comp.als
+CO0077,als / wie,B1,The test was as hard as the last one.,Der Test war so schwer [ ] der letzte.,wie,,,comp.wie
+CO0078,als / wie,B1,She runs faster than he does.,Sie läuft schneller [ ] er.,als,,,comp.als
+CO0079,als / wie,B1,The room is just as big as mine.,Das Zimmer ist genauso groß [ ] meins.,wie,,,comp.wie
+CO0080,als / wie,B1,I have less time than you. (du),Ich habe weniger Zeit [ ] du.,als,,,comp.als
+CO0081,Irregular,B1,I prefer tea to coffee.,Ich trinke [ ] Tee als Kaffee.,lieber,gern,,comp.irr.gern
+CO0082,Irregular,B1,Most of all I like to sleep.,Am [ ] schlafe ich.,liebsten,gern,,comp.irr.gern
+CO0083,Irregular,B1,Her German is better than mine.,Ihr Deutsch ist [ ] als meins.,besser,gut,,comp.irr.gut
+CO0084,Irregular,B1,He is the best.,Er ist am [ ].,besten,gut,,comp.irr.gut
+CO0085,Irregular,B1,She has more money than I do.,Sie hat [ ] Geld als ich.,mehr,viel,,comp.irr.viel
+CO0086,Irregular,B1,He works the most.,Er arbeitet am [ ].,meisten,viel,,comp.irr.viel
+CO0087,Irregular,B1,The mountain is higher than the hill.,Der Berg ist [ ] als der Hügel.,höher,hoch,,comp.irr.hoch
+CO0088,Irregular,B1,The tower is the highest.,Der Turm ist am [ ].,höchsten,hoch,,comp.irr.hoch
+CO0089,Irregular,B1,The station is nearer than the airport.,Der Bahnhof ist [ ] als der Flughafen.,näher,nah,,comp.irr.nah
+CO0090,Irregular,B1,The next stop is the station.,Die [ ] Haltestelle ist der Bahnhof.,nächste,nah,,comp.irr.nah+comp.ending
+CO0091,Comparative,B1,The car is more expensive than the bike.,Das Auto ist [ ] als das Fahrrad.,teurer,teuer,,comp.euer
+CO0092,Comparative,B1,It's getting darker.,Es wird [ ].,dunkler,dunkel,,comp.el
+CO0093,Irregular,B1,I'd rather stay at home.,Ich bleibe [ ] zu Hause.,lieber,gern,,comp.irr.gern
+CO0094,Irregular,B1,That is the best pizza in town.,Das ist die [ ] Pizza der Stadt.,beste,gut,,comp.irr.gut+comp.ending
+CO0095,Irregular,B1,Most people like music.,Die [ ] Menschen mögen Musik.,meisten,viel,,comp.irr.viel+comp.ending
+CO0096,Irregular,B1,That is the better idea.,Das ist die [ ] Idee.,bessere,gut,,comp.irr.gut+comp.ending
+CO0097,Irregular,B1,He eats more than I do.,Er isst [ ] als ich.,mehr,viel,,comp.irr.viel
+CO0098,Irregular,B1,I like this song the most.,Dieses Lied mag ich am [ ].,liebsten,gern,,comp.irr.gern
+CO0099,Irregular,B1,That is the biggest problem.,Das ist das [ ] Problem.,größte,groß,,comp.irr.groß+comp.ending
+CO0100,Irregular,B1,The higher price isn't always better.,Der [ ] Preis ist nicht immer besser.,höhere,hoch,,comp.irr.hoch+comp.ending
